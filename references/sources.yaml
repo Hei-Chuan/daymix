@@ -1,0 +1,145 @@
+# Usage values: bundled (source's expressive material redistributed), adapted (our original
+# index or concepts informed by the source, without reproducing its full text),
+# reference_only (research/verification, no source material redistributed),
+# runtime_lookup (external dependency or ephemeral weather input).
+# No third-party source in this file has usage: bundled in the current release.
+- id: lunar_python
+  title: lunar-python
+  author: 6tail
+  year: 2020
+  source_url: https://github.com/6tail/lunar-python
+  license: MIT
+  copyright_status: copyrighted open-source software
+  retrieved_at: '2026-09-23'
+  usage: runtime_lookup
+  notes: Runtime dependency pinned at 1.4.8; install separately, do not vendor; preserve its MIT notice on redistribution.
+- id: astronomy_engine
+  title: Astronomy Engine
+  author: Don Cross
+  year: 2019
+  source_url: https://github.com/cosinekitty/astronomy
+  license: MIT
+  copyright_status: copyrighted open-source software
+  retrieved_at: '2026-09-23'
+  usage: runtime_lookup
+  notes: Python package pinned at 2.1.19; calculations only; symbolic inference is authored here.
+- id: zhouyi
+  title: 周易（六十四卦索引）
+  author: 传统归属周文王、周公等；成书层累
+  year: 先秦，具体成书年代不确定
+  source_url: https://zh.wikisource.org/wiki/周易
+  license: 古籍原文公有领域；网站编排依其使用条款
+  copyright_status: ancient underlying work public domain
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 仅据公开卦名与上下卦速查表编排自制 hexagrams.json；theme/tone 为本项目创作，不是原典断语。
+- id: daodejing
+  title: 道德经
+  author: 传统归属老子
+  year: 先秦，成书问题有争议
+  source_url: https://zh.wikisource.org/wiki/道德經
+  license: 古籍原文公有领域；网站文本的额外贡献按页面标识
+  copyright_status: ancient underlying work public domain
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 仅写原创概念卡，无全文、现代译注。
+- id: qingjing
+  title: 太上老君说常清静经
+  author: 佚名
+  year: 年代未定
+  source_url: https://zh.wikisource.org/wiki/太上老君說常清靜經
+  license: 原典古籍；页面具体版本和授权需逐一复核
+  copyright_status: ancient underlying work likely public domain; edition unreviewed
+  retrieved_at: '2026-09-23'
+  usage: reference_only
+  notes: 当前仅用于确认宗教道教视角，不转载该页面内容。
+- id: heart_sutra
+  title: 般若波罗蜜多心经（玄奘译）
+  author: 传统归属玄奘汉译
+  year: 7世纪
+  source_url: https://zh.wikisource.org/wiki/般若波羅蜜多心經
+  license: 古代汉译原文公有领域；逐版本核对页面条款
+  copyright_status: ancient underlying translation public domain
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 仅用于原创概念卡，避免将不同译本混作一版。
+- id: diamond_sutra
+  title: 金刚经
+  author: 传统归属鸠摩罗什汉译
+  year: 5世纪
+  source_url: https://zh.wikisource.org/wiki/金剛般若波羅蜜經
+  license: 古代汉译原文公有领域；逐版本核对页面条款
+  copyright_status: ancient underlying translation public domain
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 用于无住概念的核对；卡片为原创转述。
+- id: cbeta
+  title: CBETA 电子佛典数据库与版权说明
+  author: CBETA Foundation
+  year: 2026
+  source_url: https://cbeta.org/copyright
+  license: 大部分 CC BY-NC-SA 4.0；部分文献不在该许可内；非商业使用与再传播条件
+  copyright_status: mixed, source-specific
+  retrieved_at: '2026-09-23'
+  usage: reference_only
+  notes: 不打包数据库文字、现代译注或受限文献。
+- id: waite
+  title: The Pictorial Key to the Tarot
+  author: A. E. Waite; illustrations Pamela Colman Smith
+  year: 1910
+  source_url: https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot
+  license: 该原著在美国等多数司法辖区为公有领域；地区差异须复核
+  copyright_status: public domain in US; jurisdiction-dependent elsewhere
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: tarot-78.json 为自编牌名与短语；不复制原著篇章、现代网站释义或图像。
+- id: web
+  title: World English Bible Classic
+  author: World English Bible translators
+  year: 持续更新
+  source_url: https://ebible.org/eng-web/copr.htm
+  license: Public Domain (publisher declaration)
+  copyright_status: public domain translation
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 只用章节目索引与原创中文象征说明；不使用中文现代译本。
+- id: epictetus
+  title: Enchiridion
+  author: Epictetus; recorded by Arrian
+  year: 约公元2世纪
+  source_url: https://en.wikisource.org/wiki/Enchiridion
+  license: 古代原著公有领域；译本与编排另审
+  copyright_status: ancient underlying work public domain
+  retrieved_at: '2026-09-23'
+  usage: adapted
+  notes: 仅用于自编可控之事的提示卡。
+- id: xuanxue_engine
+  title: xuanxue-engine
+  author: sxt9805
+  year: 2026
+  source_url: https://github.com/sxt9805/xuanxue-engine
+  license: MIT (repository notice)
+  copyright_status: copyrighted open-source software
+  retrieved_at: '2026-09-23'
+  usage: reference_only
+  notes: 借鉴可复现 seed、脚本与解释分离的设计，不复制代码或资料。
+- id: fortune_skills
+  title: fortune-telling-skills
+  author: eamanc-lab
+  year: 2026
+  source_url: https://github.com/eamanc-lab/fortune-telling-skills
+  license: MIT (repository README)
+  copyright_status: copyrighted open-source software
+  retrieved_at: '2026-09-23'
+  usage: reference_only
+  notes: 仅研究各体系资料组织；不沿用其多 Skill 架构或内容。
+- id: weather
+  title: User-supplied or live local weather observation
+  author: Source supplied at runtime
+  year: current
+  source_url: supplied_at_runtime
+  license: source-dependent; no weather text bundled
+  copyright_status: source-dependent
+  retrieved_at: runtime
+  usage: runtime_lookup
+  notes: 输入必须有 description, hazard, source, observed_at；天气只修正行动层。
