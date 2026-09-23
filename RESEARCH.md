@@ -39,3 +39,9 @@
 - `references/sources.yaml` 的 14 条来源重新分类：外部来源没有全文打包；7 条 `adapted` 仅用于本项目原创索引或短卡，4 条 `reference_only`，3 条 `runtime_lookup`。`SOURCES.md` 与此一致。MIT 只覆盖本项目原创内容，不代替第三方依赖的许可证。
 - 检查运行文本、知识卡和公开资料，没有发现针对信徒的概括性贬损、伪称经典原句、长篇现代译文或确定性灾祸断语。公开文件中对不在素材范围的传统仅作中性范围说明；运行参考不纳入相关资料。
 - 本机运行 `python3 -m unittest discover -s tests -v`：11 项通过；`quick_validate.py`：Skill 有效；以 `--user-id demo --date 2026-09-23` 复跑两个 README 的示例，结果一致。
+
+## Phase 7 distribution audit (2026-09-23)
+
+The Phase 6 inventory above describes the historical pre-migration release. In version 0.1.0, the canonical root is `skills/wanxiangli/`. Two unmodified pinned MIT dependencies are now bundled with their respective license notices and SHA-256 source-tree digests; a matching installed version is preferred. The source inventory now marks these two packages `bundled`. The other source classifications and the core scoring and seed rules did not change.
+
+Portable plugin discovery uses the root `plugin.json` and `skills/`; `.codex-plugin/plugin.json` is a consistent compatibility manifest. The standalone Skill archive uses a single `wanxiangli/` top-level folder. Hosted Python and Skill upload permissions depend on the destination platform; an ephemeral hosted environment uses a deterministic shared guest daily result without writing an installation identifier, with a user-supplied non-sensitive alias available for personal cross-session stability. Local Codex retains the private installation identifier. The script never downloads dependencies or fabricates missing data.

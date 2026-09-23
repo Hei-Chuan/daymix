@@ -6,14 +6,9 @@
 
 ## 立即使用
 
-安装 Skill 后，输入 **“查看今日运势”**。独立运行仓库需 Python 3.10+ 和 IANA 时区数据：
+安装 Skill 后，输入 **“查看今日运势”**。首个公开分发版本为 **0.1.0**。
 
-```bash
-python3 -m pip install -r requirements.txt
-python3 scripts/wanxiangli.py --timezone Asia/Shanghai
-```
-
-下例由当前版本实际运行生成，可用 `python3 scripts/wanxiangli.py --date 2026-09-23 --timezone Asia/Shanghai --user-id demo --context 备考` 复现：
+下例由当前版本实际运行生成，可用 `python3 skills/wanxiangli/scripts/wanxiangli.py --date 2026-09-23 --timezone Asia/Shanghai --user-id demo --context 备考` 复现：
 
 ```text
 万象历 · 9月23日｜八月十三 · 庚子日
@@ -29,6 +24,29 @@ python3 scripts/wanxiangli.py --timezone Asia/Shanghai
 ```
 
 `demo` 仅供公开示例使用。不指定 `--user-id` 时，程序在本机保存私有安装标识；同一安装环境、日期与时区的核心结果稳定。跨设备复现需自行使用同一个非敏感标识。
+
+## 安装
+
+### ChatGPT（支持自定义 Skills 的环境）
+
+从 GitHub Release 下载 `wanxiangli-skill.zip`，在支持自定义 Skill 上传的 ChatGPT 环境中创建或上传 Skill，然后输入 **查看今日运势**。ZIP 只有一层 `wanxiangli/` 顶层目录，包含 `SKILL.md`、脚本、参考卡与固定版本依赖。上传权限、Python 执行、天气工具与文件持久性取决于具体环境。若托管环境没有持久安装标识，Skill 使用同日共享的访客日签；你也可自愿指定一个固定、非敏感的代号，例如 `blue-fish`，供自己跨会话复现。请勿使用邮箱或真实身份信息。
+
+### Codex / portable plugin
+
+从 GitHub Release 下载 `wanxiangli-plugin.zip`，使用所在环境支持的插件上传或安装流程安装。根目录 `plugin.json` 自动发现 `skills/wanxiangli/`，`.codex-plugin/plugin.json` 提供兼容格式。本地 Codex 也可将 `skills/wanxiangli/` 放入 `$HOME/.agents/skills/`（或仓库的 `.agents/skills/`），再重新发现 Skill。运行需要 Python 3.10+ 和 IANA 时区数据。两种发布包共用一份 Skill 源码。
+
+### 从源码运行（开发者）
+
+```bash
+git clone https://github.com/Hei-Chuan/wanxiangli.git
+cd wanxiangli
+python3 -m pip install -r requirements.txt
+python3 skills/wanxiangli/scripts/wanxiangli.py --timezone Asia/Shanghai
+python3 -m unittest discover -s tests -v
+python3 tools/build_release.py
+```
+
+Skill 包内已有固定版本依赖；普通用户无须临时安装。`requirements.txt` 供源码开发使用，脚本不会自行下载软件或联网。
 
 ## 目前怎样工作
 
@@ -59,8 +77,8 @@ python3 scripts/wanxiangli.py --timezone Asia/Shanghai
 
 ## 来源、许可与参与
 
-原创代码与短卡采用 [MIT 许可证](LICENSE)。仓库不打包第三方程序库、CBETA 数据库文本、受版权保护的现代中文圣经译本、塔罗图像或来源著作全文。[SOURCES.md](SOURCES.md) 区分改写参考、只读参考和运行时数据；[`references/sources.yaml`](references/sources.yaml) 是逐条记录。网页能打开，不等于允许转载。
+原创代码与短卡采用 [MIT 许可证](LICENSE)。仓库打包两项未经修改的 MIT 依赖及各自许可声明；不打包 CBETA 数据库文本、受版权保护的现代中文圣经译本、塔罗图像或来源著作全文。[SOURCES.md](SOURCES.md) 区分已打包软件、改写参考、只读参考和运行时数据；[`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml) 是逐条记录。网页能打开，不等于允许转载。
 
-**第三方说明：** `lunar_python` 1.4.8 与 `astronomy-engine` 2.1.19 是单独安装的 MIT 依赖；《周易》索引、怀特著作、World English Bible 及列出的古籍用于校准原创短卡。CBETA 只作研究参考。[`xuanxue-engine`](https://github.com/sxt9805/xuanxue-engine) 是架构参考，[`fortune-telling-skills`](https://github.com/eamanc-lab/fortune-telling-skills) 是研究参考；未复制两者代码或文案。列名不意味着作者、出版者参与或认可本项目。
+**第三方说明：** `lunar_python` 1.4.8 与 `astronomy-engine` 2.1.19 是固定版本的 MIT 依赖，包内提供后备副本（优先使用版本一致的外部安装）。版权声明与来源见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)；《周易》索引、怀特著作、World English Bible 及列出的古籍用于校准原创短卡。CBETA 只作研究参考。[`xuanxue-engine`](https://github.com/sxt9805/xuanxue-engine) 是架构参考，[`fortune-telling-skills`](https://github.com/eamanc-lab/fortune-telling-skills) 是研究参考；未复制两者代码或文案。列名不意味着作者、出版者参与或认可本项目。
 
 提交内容前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)、[RELIGIOUS_CONTENT_POLICY.md](RELIGIOUS_CONTENT_POLICY.md) 和 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。调查记录见 [RESEARCH.md](RESEARCH.md)。

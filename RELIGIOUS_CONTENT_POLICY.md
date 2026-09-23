@@ -12,7 +12,7 @@ Use formulations such as “From a Buddhist interpretive perspective,” “In D
 
 **Content boundary:** Islamic traditions are outside this project's content scope. Do not actively seek, add to references, draw as a random candidate, quote, or use related scripture, figures, religious terms, or symbols; do not make jokes or allusions about them. This is a neutral product boundary, not a judgment of the tradition or its adherents. Public documentation may state this boundary respectfully.
 
-New material needs the fields and review described in [CONTRIBUTING.md](CONTRIBUTING.md). The underlying [source inventory](references/sources.yaml) must be updated before inclusion. If rights or attribution are uncertain, use a link for research only and do not distribute the text. Report violations under [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+New material needs the fields and review described in [CONTRIBUTING.md](CONTRIBUTING.md). The underlying [source inventory](skills/wanxiangli/references/sources.yaml) must be updated before inclusion. If rights or attribution are uncertain, use a link for research only and do not distribute the text. Report violations under [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## 中文
 
@@ -26,4 +26,4 @@ New material needs the fields and review described in [CONTRIBUTING.md](CONTRIBU
 
 **素材边界：** 伊斯兰宗教传统不属于本项目范围。不得主动搜集、纳入资料卡、作为随机候选、引用其经典、人物、宗教术语或符号，也不得围绕它玩梗或影射。这一边界不评价该传统或信徒；公开说明须保持中性尊重。
 
-新增材料须满足 [CONTRIBUTING.md](CONTRIBUTING.md) 的来源与审核要求，先登记到[来源清单](references/sources.yaml)。权利归属不清的内容仅保留研究链接，不分发文本。违反规范的行为按 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) 处理。
+新增材料须满足 [CONTRIBUTING.md](CONTRIBUTING.md) 的来源与审核要求，先登记到[来源清单](skills/wanxiangli/references/sources.yaml)。权利归属不清的内容仅保留研究链接，不分发文本。违反规范的行为按 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) 处理。
