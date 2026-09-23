@@ -1,0 +1,22 @@
+[
+  {
+    "distribution": "lunar-python",
+    "module": "lunar_python",
+    "version": "1.4.8",
+    "upstream": "https://github.com/6tail/lunar-python",
+    "license": "MIT",
+    "license_file": "licenses/lunar-python-LICENSE",
+    "modified": false,
+    "vendored_tree_sha256": "eb7bca947f0fa585065fa9cb7aade9c7e770c5c29cd48c968d46f59ca2e27975"
+  },
+  {
+    "distribution": "astronomy-engine",
+    "module": "astronomy",
+    "version": "2.1.19",
+    "upstream": "https://github.com/cosinekitty/astronomy",
+    "license": "MIT",
+    "license_file": "licenses/astronomy-engine-LICENSE",
+    "modified": false,
+    "vendored_tree_sha256": "f0cb78d6e33de343b6465a6a7ef15bd3d15523cb18b587085cd6d8107589fd61"
+  }
+]
