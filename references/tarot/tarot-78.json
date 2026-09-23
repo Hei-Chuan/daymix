@@ -1,0 +1,704 @@
+[
+  {
+    "id": 0,
+    "name": "愚者",
+    "arcana": "major",
+    "upright": "启程",
+    "reversed": "留意启程的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 1,
+    "name": "魔术师",
+    "arcana": "major",
+    "upright": "施展",
+    "reversed": "留意施展的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 2,
+    "name": "女祭司",
+    "arcana": "major",
+    "upright": "倾听",
+    "reversed": "留意倾听的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 3,
+    "name": "皇后",
+    "arcana": "major",
+    "upright": "滋养",
+    "reversed": "留意滋养的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 4,
+    "name": "皇帝",
+    "arcana": "major",
+    "upright": "建立",
+    "reversed": "留意建立的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 5,
+    "name": "教皇",
+    "arcana": "major",
+    "upright": "求教",
+    "reversed": "留意求教的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 6,
+    "name": "恋人",
+    "arcana": "major",
+    "upright": "选择",
+    "reversed": "留意选择的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 7,
+    "name": "战车",
+    "arcana": "major",
+    "upright": "前进",
+    "reversed": "留意前进的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 8,
+    "name": "力量",
+    "arcana": "major",
+    "upright": "自持",
+    "reversed": "留意自持的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 9,
+    "name": "隐者",
+    "arcana": "major",
+    "upright": "独处",
+    "reversed": "留意独处的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 10,
+    "name": "命运之轮",
+    "arcana": "major",
+    "upright": "转机",
+    "reversed": "留意转机的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 11,
+    "name": "正义",
+    "arcana": "major",
+    "upright": "衡量",
+    "reversed": "留意衡量的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 12,
+    "name": "倒吊人",
+    "arcana": "major",
+    "upright": "暂停",
+    "reversed": "留意暂停的阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 13,
+    "name": "死神",
+    "arcana": "major",
+    "upright": "转化",
+    "reversed": "留意转化的阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 14,
+    "name": "节制",
+    "arcana": "major",
+    "upright": "调和",
+    "reversed": "留意调和的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 15,
+    "name": "恶魔",
+    "arcana": "major",
+    "upright": "诱惑",
+    "reversed": "留意诱惑的阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 16,
+    "name": "高塔",
+    "arcana": "major",
+    "upright": "震荡",
+    "reversed": "留意震荡的阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 17,
+    "name": "星星",
+    "arcana": "major",
+    "upright": "希望",
+    "reversed": "留意希望的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 18,
+    "name": "月亮",
+    "arcana": "major",
+    "upright": "迷雾",
+    "reversed": "留意迷雾的阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 19,
+    "name": "太阳",
+    "arcana": "major",
+    "upright": "清明",
+    "reversed": "留意清明的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 20,
+    "name": "审判",
+    "arcana": "major",
+    "upright": "回顾",
+    "reversed": "留意回顾的阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 21,
+    "name": "世界",
+    "arcana": "major",
+    "upright": "完成",
+    "reversed": "留意完成的阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 22,
+    "name": "权杖王牌",
+    "arcana": "minor",
+    "upright": "行动中的开端",
+    "reversed": "行动中的开端遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 23,
+    "name": "权杖二",
+    "arcana": "minor",
+    "upright": "行动中的权衡",
+    "reversed": "行动中的权衡遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 24,
+    "name": "权杖三",
+    "arcana": "minor",
+    "upright": "行动中的扩展",
+    "reversed": "行动中的扩展遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 25,
+    "name": "权杖四",
+    "arcana": "minor",
+    "upright": "行动中的安定",
+    "reversed": "行动中的安定遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 26,
+    "name": "权杖五",
+    "arcana": "minor",
+    "upright": "行动中的摩擦",
+    "reversed": "行动中的摩擦遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 27,
+    "name": "权杖六",
+    "arcana": "minor",
+    "upright": "行动中的调整",
+    "reversed": "行动中的调整遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 28,
+    "name": "权杖七",
+    "arcana": "minor",
+    "upright": "行动中的应对",
+    "reversed": "行动中的应对遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 29,
+    "name": "权杖八",
+    "arcana": "minor",
+    "upright": "行动中的推进",
+    "reversed": "行动中的推进遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 30,
+    "name": "权杖九",
+    "arcana": "minor",
+    "upright": "行动中的积累",
+    "reversed": "行动中的积累遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 31,
+    "name": "权杖十",
+    "arcana": "minor",
+    "upright": "行动中的收束",
+    "reversed": "行动中的收束遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 32,
+    "name": "权杖侍从",
+    "arcana": "minor",
+    "upright": "行动中的消息",
+    "reversed": "行动中的消息遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 33,
+    "name": "权杖骑士",
+    "arcana": "minor",
+    "upright": "行动中的出发",
+    "reversed": "行动中的出发遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 34,
+    "name": "权杖王后",
+    "arcana": "minor",
+    "upright": "行动中的照料",
+    "reversed": "行动中的照料遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 35,
+    "name": "权杖国王",
+    "arcana": "minor",
+    "upright": "行动中的统筹",
+    "reversed": "行动中的统筹遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 36,
+    "name": "圣杯王牌",
+    "arcana": "minor",
+    "upright": "情感中的开端",
+    "reversed": "情感中的开端遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 37,
+    "name": "圣杯二",
+    "arcana": "minor",
+    "upright": "情感中的权衡",
+    "reversed": "情感中的权衡遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 38,
+    "name": "圣杯三",
+    "arcana": "minor",
+    "upright": "情感中的扩展",
+    "reversed": "情感中的扩展遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 39,
+    "name": "圣杯四",
+    "arcana": "minor",
+    "upright": "情感中的安定",
+    "reversed": "情感中的安定遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 40,
+    "name": "圣杯五",
+    "arcana": "minor",
+    "upright": "情感中的摩擦",
+    "reversed": "情感中的摩擦遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 41,
+    "name": "圣杯六",
+    "arcana": "minor",
+    "upright": "情感中的调整",
+    "reversed": "情感中的调整遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 42,
+    "name": "圣杯七",
+    "arcana": "minor",
+    "upright": "情感中的应对",
+    "reversed": "情感中的应对遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 43,
+    "name": "圣杯八",
+    "arcana": "minor",
+    "upright": "情感中的推进",
+    "reversed": "情感中的推进遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 44,
+    "name": "圣杯九",
+    "arcana": "minor",
+    "upright": "情感中的积累",
+    "reversed": "情感中的积累遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 45,
+    "name": "圣杯十",
+    "arcana": "minor",
+    "upright": "情感中的收束",
+    "reversed": "情感中的收束遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 46,
+    "name": "圣杯侍从",
+    "arcana": "minor",
+    "upright": "情感中的消息",
+    "reversed": "情感中的消息遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 47,
+    "name": "圣杯骑士",
+    "arcana": "minor",
+    "upright": "情感中的出发",
+    "reversed": "情感中的出发遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 48,
+    "name": "圣杯王后",
+    "arcana": "minor",
+    "upright": "情感中的照料",
+    "reversed": "情感中的照料遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 49,
+    "name": "圣杯国王",
+    "arcana": "minor",
+    "upright": "情感中的统筹",
+    "reversed": "情感中的统筹遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 50,
+    "name": "宝剑王牌",
+    "arcana": "minor",
+    "upright": "判断中的开端",
+    "reversed": "判断中的开端遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 51,
+    "name": "宝剑二",
+    "arcana": "minor",
+    "upright": "判断中的权衡",
+    "reversed": "判断中的权衡遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 52,
+    "name": "宝剑三",
+    "arcana": "minor",
+    "upright": "判断中的扩展",
+    "reversed": "判断中的扩展遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 53,
+    "name": "宝剑四",
+    "arcana": "minor",
+    "upright": "判断中的安定",
+    "reversed": "判断中的安定遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 54,
+    "name": "宝剑五",
+    "arcana": "minor",
+    "upright": "判断中的摩擦",
+    "reversed": "判断中的摩擦遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 55,
+    "name": "宝剑六",
+    "arcana": "minor",
+    "upright": "判断中的调整",
+    "reversed": "判断中的调整遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 56,
+    "name": "宝剑七",
+    "arcana": "minor",
+    "upright": "判断中的应对",
+    "reversed": "判断中的应对遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 57,
+    "name": "宝剑八",
+    "arcana": "minor",
+    "upright": "判断中的推进",
+    "reversed": "判断中的推进遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 58,
+    "name": "宝剑九",
+    "arcana": "minor",
+    "upright": "判断中的积累",
+    "reversed": "判断中的积累遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 59,
+    "name": "宝剑十",
+    "arcana": "minor",
+    "upright": "判断中的收束",
+    "reversed": "判断中的收束遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 60,
+    "name": "宝剑侍从",
+    "arcana": "minor",
+    "upright": "判断中的消息",
+    "reversed": "判断中的消息遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 61,
+    "name": "宝剑骑士",
+    "arcana": "minor",
+    "upright": "判断中的出发",
+    "reversed": "判断中的出发遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 62,
+    "name": "宝剑王后",
+    "arcana": "minor",
+    "upright": "判断中的照料",
+    "reversed": "判断中的照料遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 63,
+    "name": "宝剑国王",
+    "arcana": "minor",
+    "upright": "判断中的统筹",
+    "reversed": "判断中的统筹遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 64,
+    "name": "星币王牌",
+    "arcana": "minor",
+    "upright": "资源中的开端",
+    "reversed": "资源中的开端遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 65,
+    "name": "星币二",
+    "arcana": "minor",
+    "upright": "资源中的权衡",
+    "reversed": "资源中的权衡遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 66,
+    "name": "星币三",
+    "arcana": "minor",
+    "upright": "资源中的扩展",
+    "reversed": "资源中的扩展遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 67,
+    "name": "星币四",
+    "arcana": "minor",
+    "upright": "资源中的安定",
+    "reversed": "资源中的安定遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 68,
+    "name": "星币五",
+    "arcana": "minor",
+    "upright": "资源中的摩擦",
+    "reversed": "资源中的摩擦遇到阻滞或失衡",
+    "tone": -1,
+    "source_id": "waite"
+  },
+  {
+    "id": 69,
+    "name": "星币六",
+    "arcana": "minor",
+    "upright": "资源中的调整",
+    "reversed": "资源中的调整遇到阻滞或失衡",
+    "tone": 1,
+    "source_id": "waite"
+  },
+  {
+    "id": 70,
+    "name": "星币七",
+    "arcana": "minor",
+    "upright": "资源中的应对",
+    "reversed": "资源中的应对遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 71,
+    "name": "星币八",
+    "arcana": "minor",
+    "upright": "资源中的推进",
+    "reversed": "资源中的推进遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 72,
+    "name": "星币九",
+    "arcana": "minor",
+    "upright": "资源中的积累",
+    "reversed": "资源中的积累遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 73,
+    "name": "星币十",
+    "arcana": "minor",
+    "upright": "资源中的收束",
+    "reversed": "资源中的收束遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 74,
+    "name": "星币侍从",
+    "arcana": "minor",
+    "upright": "资源中的消息",
+    "reversed": "资源中的消息遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 75,
+    "name": "星币骑士",
+    "arcana": "minor",
+    "upright": "资源中的出发",
+    "reversed": "资源中的出发遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 76,
+    "name": "星币王后",
+    "arcana": "minor",
+    "upright": "资源中的照料",
+    "reversed": "资源中的照料遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  },
+  {
+    "id": 77,
+    "name": "星币国王",
+    "arcana": "minor",
+    "upright": "资源中的统筹",
+    "reversed": "资源中的统筹遇到阻滞或失衡",
+    "tone": 0,
+    "source_id": "waite"
+  }
+]
