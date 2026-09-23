@@ -7,7 +7,8 @@ from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-spec = importlib.util.spec_from_file_location("wanxiangli_engine", ROOT / "scripts/wanxiangli.py")
+SKILL = ROOT / "skills" / "wanxiangli"
+spec = importlib.util.spec_from_file_location("wanxiangli_engine", SKILL / "scripts/wanxiangli.py")
 engine = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(engine)
 
@@ -90,7 +91,7 @@ class DailyTests(unittest.TestCase):
         self.fail("未覆盖负向牌逆位")
 
     def test_bundled_source_coverage(self):
-        sources = (ROOT / "references/sources.yaml").read_text(encoding="utf-8")
+        sources = (SKILL / "references/sources.yaml").read_text(encoding="utf-8")
         ids = set(re.findall(r"^- id: (\w+)$", sources, re.M))
         self.assertTrue({"zhouyi", "waite", "heart_sutra", "diamond_sutra", "daodejing", "web"} <= ids)
         for file in ("references/eastern/hexagrams.json", "references/tarot/tarot-78.json"):
@@ -100,8 +101,8 @@ class DailyTests(unittest.TestCase):
 
     def test_scope_boundary(self):
         # Check operational material; source audit and research legitimately discuss exclusions.
-        paths = [ROOT / "SKILL.md", *list((ROOT / "references").rglob("concepts.md")),
-                 *list((ROOT / "references").rglob("symbols.md"))]
+        paths = [SKILL / "SKILL.md", *list((SKILL / "references").rglob("concepts.md")),
+                 *list((SKILL / "references").rglob("symbols.md"))]
         excluded = "\u4f0a\u65af\u5170"  # review boundary without incorporating the term into operational cards
         self.assertTrue(all(excluded not in p.read_text(encoding="utf-8") for p in paths))
 
