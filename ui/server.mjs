@@ -13,7 +13,8 @@ const repo=path.resolve(here,'..');
 const uri='ui://wanxiangli/card-v2.1.html';
 const server=new McpServer({name:'wanxiangli',version:'2.0.0',instructions:'Call get_daily_card to generate the complete daily ledger. Preserve its rating and original signs. The UI expands sections locally; without UI, use the returned text card.'});
 function runPython(args){return new Promise((resolve,reject)=>{
-  const child=spawn(process.env.WANXIANGLI_PYTHON||'python3',[path.join(repo,'scripts/wanxiangli.py'),'--identity-mode','hosted','--format','json',...args],{cwd:repo,stdio:['ignore','pipe','pipe']});
+  const python=process.env.WANXIANGLI_PYTHON||(process.platform==='win32'?'python':'python3');
+  const child=spawn(python,[path.join(repo,'scripts/wanxiangli.py'),'--identity-mode','hosted','--format','json',...args],{cwd:repo,stdio:['ignore','pipe','pipe'],env:{...process.env,PYTHONIOENCODING:'utf-8'}});
   let out='',err='';const timer=setTimeout(()=>child.kill('SIGKILL'),20000);
   child.stdout.on('data',v=>{out+=v;if(out.length>200000)child.kill('SIGKILL')});child.stderr.on('data',v=>err+=v);
   child.on('error',e=>{clearTimeout(timer);reject(e)});child.on('close',code=>{clearTimeout(timer);code===0?resolve(JSON.parse(out)):reject(new Error(err.slice(0,400)||`engine exited ${code}`))});

@@ -25,8 +25,8 @@ function render(v){if(!v||v.schema!=='wanxiangli/2')return;root.replaceChildren(
  const rate=v.rating;panel('synthesis','评分依据',`${rate.score} · ${rate.formula_version}`,box=>{p(box,rate.formula);for(const [key,item] of Object.entries(rate.contributions))p(box,`${key}: ${item.value>0?'+':''}${item.value} · ${item.basis}`);if(rate.conflict)p(box,'四象存在分歧，应保留各自观点。')});
  add(root,'div','closing',`今日总结　${v.summary.text}`);add(root,'div','notice','象征评级仅供自省；现实信息优先。');
  const saved=new Set(state());for(const x of root.querySelectorAll('details.panel'))x.open=saved.has(x.dataset.key);
- root.addEventListener('toggle',e=>{if(e.target?.matches?.('details.panel'))persist()},true);
 }
+root.addEventListener('toggle',e=>{if(e.target?.matches?.('details.panel'))persist()},true);
 const app=new App({name:'Wanxiangli Card',version:'2.0.0'});
 app.ontoolresult=result=>{if(result.structuredContent)render(result.structuredContent)};
 app.connect().catch(()=>{root.querySelector('.empty')?.replaceChildren('无法连接卡片宿主；可使用 CLI 或 Skill 文本卡。')});

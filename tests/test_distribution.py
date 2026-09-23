@@ -71,8 +71,8 @@ class DistributionTests(unittest.TestCase):
             command += ["--user-id", "demo"]
         if expand:
             command += ["--expand", expand]
-        env = dict(os.environ, PYTHONPATH="", XDG_CONFIG_HOME=str(self.place / "hosted-config"))
-        return subprocess.run(command, cwd=self.place, env=env, text=True, capture_output=True)
+        env = dict(os.environ, PYTHONPATH="", PYTHONIOENCODING="utf-8", XDG_CONFIG_HOME=str(self.place / "hosted-config"))
+        return subprocess.run(command, cwd=self.place, env=env, text=True, encoding="utf-8", capture_output=True)
 
     def test_installed_packages_from_other_cwd(self):
         r = self.run_skill()
@@ -113,11 +113,11 @@ class DistributionTests(unittest.TestCase):
         self.assertNotIn("guest", r.stdout)
 
     def test_trigger_and_policy_stay_with_skill(self):
-        text = (SKILL / "SKILL.md").read_text()
+        text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
         for trigger in ("查看今日运势", "今日运势", "展开佛教", "展开道教", "查看塔罗", "查看易理", "查看星象", "展开现实复核", "全部展开"):
             self.assertIn(trigger, text)
-        root_policy = (ROOT / "RELIGIOUS_CONTENT_POLICY.md").read_text()
-        self.assertEqual((SKILL / "RELIGIOUS_CONTENT_POLICY.md").read_text(),
+        root_policy = (ROOT / "RELIGIOUS_CONTENT_POLICY.md").read_text(encoding="utf-8")
+        self.assertEqual((SKILL / "RELIGIOUS_CONTENT_POLICY.md").read_text(encoding="utf-8"),
                          root_policy.replace("skills/wanxiangli/references/sources.yaml", "references/sources.yaml"))
 
 

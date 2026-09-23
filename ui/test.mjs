@@ -1,12 +1,14 @@
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { execFileSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 import { JSDOM } from 'jsdom';
 const html=await readFile(new URL('./dist/card.html',import.meta.url),'utf8');
 assert.match(html,/prefers-color-scheme:dark/);
 assert.match(html,/@media\(max-width:390px\)/);
 const bundle=html.match(/<script type="module">([\s\S]*?)<\/script>/)?.[1];assert.ok(bundle);
-const sample=JSON.parse(execFileSync('python3',['scripts/wanxiangli.py','--date','2026-09-23','--user-id','demo','--format','json'],{cwd:new URL('../',import.meta.url),encoding:'utf8'}));
+const python=process.env.WANXIANGLI_PYTHON||(process.platform==='win32'?'python':'python3');
+const sample=JSON.parse(execFileSync(python,['scripts/wanxiangli.py','--date','2026-09-23','--user-id','demo','--format','json'],{cwd:fileURLToPath(new URL('../',import.meta.url)),encoding:'utf8',env:{...process.env,PYTHONIOENCODING:'utf-8'}}));
 const dom=new JSDOM(html.replace(/<script type="module">[\s\S]*?<\/script>/,''),{url:'https://example.org/',runScripts:'outside-only',pretendToBeVisual:true});
 const {window}=dom;let writes=0,redraws=0;window.openai={callTool(){redraws++},toolOutput:sample,widgetState:{privateContent:{open:[]}},setWidgetState(value){this.widgetState=value;writes++}};
 window.eval(bundle);

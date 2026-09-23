@@ -279,7 +279,7 @@ def main():
     try:
         tz = ZoneInfo(a.timezone)
         today = date.fromisoformat(a.date) if a.date else datetime.now(tz).date()
-        weather = json.loads(Path(a.weather_json).read_text()) if a.weather_json else None
+        weather = json.loads(Path(a.weather_json).read_text(encoding="utf-8")) if a.weather_json else None
         if weather and not all(weather.get(k) for k in ("description", "source", "observed_at", "hazard")):
             raise ValueError("天气数据必须包含 description、source、observed_at、hazard")
         person = a.user_id or ("guest" if a.identity_mode == "hosted" else installation_id())

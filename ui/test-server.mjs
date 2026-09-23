@@ -1,9 +1,10 @@
 import assert from 'node:assert/strict';
 import { spawn } from 'node:child_process';
 import { createServer } from 'node:net';
+import { fileURLToPath } from 'node:url';
 const freePort=()=>new Promise((resolve,reject)=>{const sock=createServer().listen(0,'127.0.0.1',()=>{const port=sock.address().port;sock.close(()=>resolve(port))});sock.on('error',reject)});
 const port=await freePort();
-const server=spawn(process.execPath,[new URL('./server.mjs',import.meta.url).pathname],{env:{...process.env,PORT:String(port)},stdio:['ignore','ignore','pipe']});
+const server=spawn(process.execPath,[fileURLToPath(new URL('./server.mjs',import.meta.url))],{env:{...process.env,PORT:String(port)},stdio:['ignore','ignore','pipe']});
 let ready=false;server.stderr.on('data',data=>{if(String(data).includes('Wanxiangli MCP:'))ready=true});
 const url=`http://127.0.0.1:${port}/mcp`;
 async function call(id,method,params){const response=await fetch(url,{method:'POST',headers:{'content-type':'application/json',accept:'application/json, text/event-stream'},body:JSON.stringify({jsonrpc:'2.0',id,method,params})});if(response.status!==200)throw Error(`MCP ${response.status}: ${await response.text()}`);return (await response.json()).result}

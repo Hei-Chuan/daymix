@@ -95,8 +95,9 @@ class V2Tests(unittest.TestCase):
     def test_v1_golden_bytes(self):
         cmd=[sys.executable,str(ROOT/'scripts/wanxiangli.py'),'--engine','v1','--date','2026-09-23',
              '--timezone','Asia/Shanghai','--user-id','demo','--format','json']
-        result=subprocess.check_output(cmd)
-        self.assertEqual(hashlib.sha256(result).hexdigest(),'39a6225e7ff56fb303fe59ee657392db25210c0c09ba160bb2e98ce455fc7344')
+        result=subprocess.check_output(cmd, env=dict(os.environ, PYTHONIOENCODING='utf-8'))
+        self.assertEqual(hashlib.sha256(result.replace(b'\r\n', b'\n')).hexdigest(),
+                         '39a6225e7ff56fb303fe59ee657392db25210c0c09ba160bb2e98ce455fc7344')
         self.assertEqual(json.loads(result)['schema'],'wanxiangli/1')
 
 if __name__=='__main__':unittest.main()
