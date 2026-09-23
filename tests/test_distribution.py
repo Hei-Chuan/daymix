@@ -50,11 +50,14 @@ class DistributionTests(unittest.TestCase):
             portable = json.loads(z.read("plugin.json"))
             compatibility = json.loads(z.read(".codex-plugin/plugin.json"))
             self.assertEqual(portable["name"], "wanxiangli")
-            self.assertEqual(portable["version"], "0.1.0")
+            self.assertEqual(portable["version"], "2.0.0")
             self.assertEqual(compatibility["version"], portable["version"])
             self.assertEqual(compatibility["skills"], "./skills/")
             self.assertIn("skills/wanxiangli/SKILL.md", z.namelist())
             self.assertNotIn("mcpServers", portable)
+            for required in ("ui/server.mjs", "ui/dist/card.html", "ui/package-lock.json", "scripts/wanxiangli.py"):
+                self.assertIn(required,z.namelist())
+            self.assertIn("prefers-color-scheme:dark",z.read("ui/dist/card.html").decode())
 
     def run_skill(self, isolated=False, vendor=True, hosted=False, expand=None):
         command = [sys.executable]
@@ -82,14 +85,14 @@ class DistributionTests(unittest.TestCase):
         self.assertEqual(a.returncode, 0, a.stderr)
         self.assertEqual(a.stdout, b.stdout)
         ledger = json.loads(a.stdout)
-        self.assertEqual(ledger["schema"], "wanxiangli/1")
-        self.assertIn("yijing", ledger["systems"])
-        for section in ("佛家", "塔罗"):
+        self.assertEqual(ledger["schema"], "wanxiangli/2")
+        self.assertIn("yijing", ledger["four_signs"])
+        for section in ("佛教", "塔罗"):
             expanded = self.run_skill(isolated=True, expand=section)
             self.assertEqual(expanded.returncode, 0, expanded.stderr)
             self.assertIn("今日总结：", expanded.stdout)
             if section == "塔罗":
-                self.assertIn(ledger["systems"]["tarot"]["name"], expanded.stdout)
+                self.assertIn(ledger["four_signs"]["tarot"]["name"], expanded.stdout)
 
     def test_missing_packages_fail_explicitly(self):
         vendor = self.entry.parents[1] / "vendor"
@@ -111,8 +114,7 @@ class DistributionTests(unittest.TestCase):
 
     def test_trigger_and_policy_stay_with_skill(self):
         text = (SKILL / "SKILL.md").read_text()
-        for trigger in ("查看今日运势", "今日运势", "展开佛家", "展开道家", "查看塔罗", "查看易理",
-                        "查看星象", "查看现实修正", "查看今日推演详情"):
+        for trigger in ("查看今日运势", "今日运势", "展开佛教", "展开道教", "查看塔罗", "查看易理", "查看星象", "展开现实复核", "全部展开"):
             self.assertIn(trigger, text)
         root_policy = (ROOT / "RELIGIOUS_CONTENT_POLICY.md").read_text()
         self.assertEqual((SKILL / "RELIGIOUS_CONTENT_POLICY.md").read_text(),

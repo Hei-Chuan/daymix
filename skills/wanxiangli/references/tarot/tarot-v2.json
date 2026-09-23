@@ -1,0 +1,782 @@
+[
+  {
+    "id": 0,
+    "name": "愚者",
+    "arcana": "major",
+    "upright": "轻装起步",
+    "reversed": "先厘清风险再迈步",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 1,
+    "name": "魔术师",
+    "arcana": "major",
+    "upright": "把想法付诸实践",
+    "reversed": "技巧仍需检验",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 2,
+    "name": "女祭司",
+    "arcana": "major",
+    "upright": "保留观察的空间",
+    "reversed": "静默也可能变成回避",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 3,
+    "name": "皇后",
+    "arcana": "major",
+    "upright": "照料正在生长的事",
+    "reversed": "照料自己别耗尽",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 4,
+    "name": "皇帝",
+    "arcana": "major",
+    "upright": "建立可靠边界",
+    "reversed": "别用控制代替秩序",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 5,
+    "name": "教皇",
+    "arcana": "major",
+    "upright": "向传统学习",
+    "reversed": "检验权威是否适用",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 6,
+    "name": "恋人",
+    "arcana": "major",
+    "upright": "坦诚面对选择",
+    "reversed": "别让犹豫替你决定",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 7,
+    "name": "战车",
+    "arcana": "major",
+    "upright": "确定方向并前进",
+    "reversed": "放慢速度重握方向",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 8,
+    "name": "力量",
+    "arcana": "major",
+    "upright": "温和而坚定",
+    "reversed": "不必靠硬撑证明力量",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 9,
+    "name": "隐者",
+    "arcana": "major",
+    "upright": "独处以澄清想法",
+    "reversed": "别让退避失去联系",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 10,
+    "name": "命运之轮",
+    "arcana": "major",
+    "upright": "接受局面在变化",
+    "reversed": "抓住可控的准备",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 11,
+    "name": "正义",
+    "arcana": "major",
+    "upright": "把证据放上天平",
+    "reversed": "判断也应审视自己的偏见",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 12,
+    "name": "倒吊人",
+    "arcana": "major",
+    "upright": "暂停以换视角",
+    "reversed": "停滞需要一个期限",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 13,
+    "name": "死神",
+    "arcana": "major",
+    "upright": "让旧形式结束",
+    "reversed": "改变需要时间消化",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 14,
+    "name": "节制",
+    "arcana": "major",
+    "upright": "调整步调求平衡",
+    "reversed": "补上被忽略的一端",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 15,
+    "name": "恶魔",
+    "arcana": "major",
+    "upright": "认清诱惑与依赖",
+    "reversed": "面对欲望背后的代价",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 16,
+    "name": "高塔",
+    "arcana": "major",
+    "upright": "结构突然震动",
+    "reversed": "清理隐患仍需脚踏实地",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 17,
+    "name": "星星",
+    "arcana": "major",
+    "upright": "保留希望并修复",
+    "reversed": "期待要有实际行动",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 18,
+    "name": "月亮",
+    "arcana": "major",
+    "upright": "辨认不清的情绪",
+    "reversed": "给猜测多一点核对",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 19,
+    "name": "太阳",
+    "arcana": "major",
+    "upright": "看清眼前进展",
+    "reversed": "热情也应顾及边界",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 20,
+    "name": "审判",
+    "arcana": "major",
+    "upright": "回看并作出回应",
+    "reversed": "别在自责中重复旧事",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 21,
+    "name": "世界",
+    "arcana": "major",
+    "upright": "阶段完成并收束",
+    "reversed": "留出通往下一段的余地",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 22,
+    "name": "权杖王牌",
+    "arcana": "minor",
+    "upright": "新的行动念头",
+    "reversed": "先确认方向再点火",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 23,
+    "name": "权杖二",
+    "arcana": "minor",
+    "upright": "选择下一步",
+    "reversed": "别只在远处规划",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 24,
+    "name": "权杖三",
+    "arcana": "minor",
+    "upright": "等待行动的回音",
+    "reversed": "扩张前复核条件",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 25,
+    "name": "权杖四",
+    "arcana": "minor",
+    "upright": "分享阶段成果",
+    "reversed": "庆祝后也照顾日常",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 26,
+    "name": "权杖五",
+    "arcana": "minor",
+    "upright": "观点交锋",
+    "reversed": "竞争别耗光合作",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 27,
+    "name": "权杖六",
+    "arcana": "minor",
+    "upright": "努力得到看见",
+    "reversed": "认可不是全部目标",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 28,
+    "name": "权杖七",
+    "arcana": "minor",
+    "upright": "守住立场",
+    "reversed": "分辨防守与固执",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 29,
+    "name": "权杖八",
+    "arcana": "minor",
+    "upright": "事情迅速推进",
+    "reversed": "快时先校对信息",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 30,
+    "name": "权杖九",
+    "arcana": "minor",
+    "upright": "带着经验坚持",
+    "reversed": "警惕长期紧绷",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 31,
+    "name": "权杖十",
+    "arcana": "minor",
+    "upright": "负担接近上限",
+    "reversed": "可以分担责任",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 32,
+    "name": "权杖侍从",
+    "arcana": "minor",
+    "upright": "带来实践消息",
+    "reversed": "热情要配合准备",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 33,
+    "name": "权杖骑士",
+    "arcana": "minor",
+    "upright": "快速奔赴目标",
+    "reversed": "冲劲也要看路况",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 34,
+    "name": "权杖王后",
+    "arcana": "minor",
+    "upright": "照料团队的活力",
+    "reversed": "也给自己留热情",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 35,
+    "name": "权杖国王",
+    "arcana": "minor",
+    "upright": "统筹整体行动",
+    "reversed": "权威应容纳不同意见",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 36,
+    "name": "圣杯王牌",
+    "arcana": "minor",
+    "upright": "情感有新的开口",
+    "reversed": "先照顾自己的感受",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 37,
+    "name": "圣杯二",
+    "arcana": "minor",
+    "upright": "彼此倾听",
+    "reversed": "关系需要双方投入",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 38,
+    "name": "圣杯三",
+    "arcana": "minor",
+    "upright": "分享喜悦",
+    "reversed": "群体热闹之外也要真诚",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 39,
+    "name": "圣杯四",
+    "arcana": "minor",
+    "upright": "对已有情绪停顿",
+    "reversed": "别错过眼前的关心",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 40,
+    "name": "圣杯五",
+    "arcana": "minor",
+    "upright": "承认失落",
+    "reversed": "失去之外还有未失去的",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 41,
+    "name": "圣杯六",
+    "arcana": "minor",
+    "upright": "旧情感或回忆浮现",
+    "reversed": "别让怀旧遮住当下",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 42,
+    "name": "圣杯七",
+    "arcana": "minor",
+    "upright": "多种期待交织",
+    "reversed": "逐一检验想象与事实",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 43,
+    "name": "圣杯八",
+    "arcana": "minor",
+    "upright": "离开不适合的处境",
+    "reversed": "告别仍需对自己诚实",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 44,
+    "name": "圣杯九",
+    "arcana": "minor",
+    "upright": "体会已有的满足",
+    "reversed": "欲望也应有边界",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 45,
+    "name": "圣杯十",
+    "arcana": "minor",
+    "upright": "共享安定感",
+    "reversed": "协调不等于每人都一样",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 46,
+    "name": "圣杯侍从",
+    "arcana": "minor",
+    "upright": "收到情感讯号",
+    "reversed": "好奇但别过早承诺",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 47,
+    "name": "圣杯骑士",
+    "arcana": "minor",
+    "upright": "表达感情的冲动",
+    "reversed": "让表达经得起回应",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 48,
+    "name": "圣杯王后",
+    "arcana": "minor",
+    "upright": "细心聆听别人",
+    "reversed": "同理也要有界限",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 49,
+    "name": "圣杯国王",
+    "arcana": "minor",
+    "upright": "以沉着照顾关系",
+    "reversed": "克制不是压抑感受",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 50,
+    "name": "宝剑王牌",
+    "arcana": "minor",
+    "upright": "一个判断变清楚",
+    "reversed": "锋利的判断需证据",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 51,
+    "name": "宝剑二",
+    "arcana": "minor",
+    "upright": "在两难之间停顿",
+    "reversed": "拖延不会替你取舍",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 52,
+    "name": "宝剑三",
+    "arcana": "minor",
+    "upright": "正视不舒服的事实",
+    "reversed": "痛楚之后仍能修复",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 53,
+    "name": "宝剑四",
+    "arcana": "minor",
+    "upright": "暂停争辩与思考",
+    "reversed": "休息后再处理问题",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 54,
+    "name": "宝剑五",
+    "arcana": "minor",
+    "upright": "冲突留下代价",
+    "reversed": "争赢不等于解决",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 55,
+    "name": "宝剑六",
+    "arcana": "minor",
+    "upright": "转换看问题的环境",
+    "reversed": "把旧负担留在过去",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 56,
+    "name": "宝剑七",
+    "arcana": "minor",
+    "upright": "策略与保留",
+    "reversed": "小心过度猜疑",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 57,
+    "name": "宝剑八",
+    "arcana": "minor",
+    "upright": "认知上的束缚",
+    "reversed": "检验那些以为不能做的事",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 58,
+    "name": "宝剑九",
+    "arcana": "minor",
+    "upright": "忧虑在心中放大",
+    "reversed": "让事实帮你给忧虑定界",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 59,
+    "name": "宝剑十",
+    "arcana": "minor",
+    "upright": "一个艰难阶段终止",
+    "reversed": "结束也能开启修复",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 60,
+    "name": "宝剑侍从",
+    "arcana": "minor",
+    "upright": "留意新的信息",
+    "reversed": "提问胜过先下定论",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 61,
+    "name": "宝剑骑士",
+    "arcana": "minor",
+    "upright": "果断表达判断",
+    "reversed": "锐利话语需要分寸",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 62,
+    "name": "宝剑王后",
+    "arcana": "minor",
+    "upright": "清晰且诚实地划界",
+    "reversed": "别把冷静变成疏离",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 63,
+    "name": "宝剑国王",
+    "arcana": "minor",
+    "upright": "依据原则决策",
+    "reversed": "逻辑也应顾及人",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 64,
+    "name": "星币王牌",
+    "arcana": "minor",
+    "upright": "着手一项具体资源",
+    "reversed": "机会还要落地执行",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 65,
+    "name": "星币二",
+    "arcana": "minor",
+    "upright": "平衡有限资源",
+    "reversed": "先找出真正优先项",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 66,
+    "name": "星币三",
+    "arcana": "minor",
+    "upright": "合作打磨手艺",
+    "reversed": "分工不等于推卸",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 67,
+    "name": "星币四",
+    "arcana": "minor",
+    "upright": "守住已有积累",
+    "reversed": "安全感也可能困住改变",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 68,
+    "name": "星币五",
+    "arcana": "minor",
+    "upright": "承认资源的短缺",
+    "reversed": "求助不是失败",
+    "tone": -1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 69,
+    "name": "星币六",
+    "arcana": "minor",
+    "upright": "合理交换与支持",
+    "reversed": "援助也要顾及尊严",
+    "tone": 1,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 70,
+    "name": "星币七",
+    "arcana": "minor",
+    "upright": "耐心检视投入",
+    "reversed": "适时调整而非盲等",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 71,
+    "name": "星币八",
+    "arcana": "minor",
+    "upright": "持续练习技能",
+    "reversed": "别让重复磨掉目标",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 72,
+    "name": "星币九",
+    "arcana": "minor",
+    "upright": "看见个人积累",
+    "reversed": "享受成果也不封闭自己",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 73,
+    "name": "星币十",
+    "arcana": "minor",
+    "upright": "长期事务渐成形",
+    "reversed": "稳固仍需维护",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 74,
+    "name": "星币侍从",
+    "arcana": "minor",
+    "upright": "学习新的实务",
+    "reversed": "把计划落实为一小步",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 75,
+    "name": "星币骑士",
+    "arcana": "minor",
+    "upright": "稳步处理责任",
+    "reversed": "谨慎别变拖延",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 76,
+    "name": "星币王后",
+    "arcana": "minor",
+    "upright": "实际照顾生活",
+    "reversed": "照料他人也要照料自己",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  },
+  {
+    "id": 77,
+    "name": "星币国王",
+    "arcana": "minor",
+    "upright": "管理资源与承诺",
+    "reversed": "别让拥有取代使用",
+    "tone": 0,
+    "source_id": "waite",
+    "meaning_author": "wanxiangli original v2"
+  }
+]

@@ -10,3 +10,7 @@ The packages below retain their own MIT licenses. Their source is bundled unchan
 | `astronomy-engine` (`astronomy`) | 2.1.19 | Solar longitude and Moon–Sun angle | [cosinekitty/astronomy](https://github.com/cosinekitty/astronomy) | [`astronomy-engine-LICENSE`](vendor/licenses/astronomy-engine-LICENSE) | No |
 
 The script first uses an installed package **only if its version matches** the pin; otherwise it loads the bundled copy. No third-party religious text, tarot illustrations, or research-only material is added by this distribution change.
+
+## MCP Apps JavaScript bundle (v2)
+
+`ui/dist/card.html` is generated from `ui/card.js` with dependencies pinned in `ui/package-lock.json`. The build bundles `@modelcontextprotocol/ext-apps` and transitive libraries; their package-specific notices are retained in the bundled output where produced and can be inspected via `npm ci --prefix ui` in installed dependency metadata. This notice does not modify the v1 vendored Python source tree hashes.

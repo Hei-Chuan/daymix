@@ -1,6 +1,6 @@
 interface:
   display_name: 万象历
-  short_description: 结合真实历法、易象、塔罗和天文象征生成稳定的每日个人黄历
+  short_description: 以四象、三镜与现实复核生成可复现的每日历卡
   default_prompt: 查看今日运势
   icon_small: ./assets/icon.svg
   icon_large: ./assets/icon.svg

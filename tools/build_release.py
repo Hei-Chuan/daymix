@@ -10,9 +10,14 @@ ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / "skills" / "wanxiangli"
 DIST = ROOT / "dist"
 PLUGIN_FILES = (ROOT / "plugin.json", ROOT / ".codex-plugin/plugin.json",
-                ROOT / "LICENSE", ROOT / "THIRD_PARTY_NOTICES.md")
+                ROOT / "LICENSE", ROOT / "THIRD_PARTY_NOTICES.md",
+                ROOT / "scripts/wanxiangli.py", ROOT / "ui/server.mjs", ROOT / "ui/package.json",
+                ROOT / "ui/package-lock.json", ROOT / "ui/card.html", ROOT / "ui/card.js",
+                ROOT / "ui/build.mjs", ROOT / "ui/dist/card.html", ROOT / "ui/test.mjs", ROOT / "ui/test-server.mjs", ROOT / "ui/README.md")
 SKILL_REQUIRED = ("SKILL.md", "scripts/wanxiangli.py", "references/sources.yaml",
-                  "references/eastern/hexagrams.json", "references/tarot/tarot-78.json",
+                  "references/eastern/hexagrams.json", "references/eastern/zhouyi-text.json",
+                  "references/tarot/tarot-78.json", "references/tarot/tarot-v2.json",
+                  "references/daoism/verified-signs.json", "references/christianity/watchwords.json",
                   "assets/icon.svg", "agents/openai.yaml", "LICENSE",
                   "RELIGIOUS_CONTENT_POLICY.md", "CONTRIBUTING.md", "CODE_OF_CONDUCT.md",
                   "THIRD_PARTY_NOTICES.md")

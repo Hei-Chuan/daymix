@@ -31,3 +31,7 @@ This document describes the **current release**, not permission for every possib
 | `weather` · caller-supplied or local weather source | runtime_lookup | Runtime JSON must identify source and observation time. Conditions may update effective actions, not the original draw. No weather feed, forecast text, or API is bundled. |
 
 Names and links are attribution and audit aids. They do not mean the authors, publishers, translators, or institutions are affiliated with or endorse Wanxiangli. Before distributing third-party text, images, modified code, or a complete corpus in another edition or jurisdiction, review that material's license separately.
+
+## v2 additions
+
+Historical and technical item metadata are in `skills/wanxiangli/references/sources.yaml`: `xici`, `zhu_xi`, `xuan_zhen`, `dao_index`, `zhancha`, `moravian`, `ptolemy`, and `babylonian_zodiac`. Each distinguishes historical text, official/secondary description, rights status and actual use. See [RESEARCH_V2.md](RESEARCH_V2.md) for the research decisions and incomplete corpus disclosure. The ancient hexagram excerpts are distributed as public-domain underlying text with per-hexagram source links; the intermediary transcription is a collation aid, not a license to redistribute its repository's commentary or database.

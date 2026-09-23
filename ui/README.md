@@ -1,0 +1,7 @@
+# Wanxiangli MCP Apps card
+
+The host calls read-only `get_daily_card` once. Its `structuredContent` is the complete v2 ledger and `_meta.ui.resourceUri` points at `ui://wanxiangli/card-v2.1.html`. The resource MIME is `text/html;profile=mcp-app`. UI uses the MCP Apps `App.ontoolresult` bridge; `window.openai` is feature-detected only for optional widget state and the legacy toolOutput alias. Expansion changes only DOM and widget state, never the daily ledger.
+
+Run `npm ci --prefix ui && npm run build --prefix ui && npm run start --prefix ui`. The dev server binds to `127.0.0.1:3000/mcp` by default; `HOST` and `PORT` can override it for a deployed runtime. The server invokes the vendored Python CLI without a shell using hosted identity mode. Local private ID files are never created on the server. Public deployment needs an HTTPS endpoint, identity and rate-limit decisions for a multi-user service, and ChatGPT developer connection. Do not advertise a local port as a live ChatGPT integration.
+
+Manual UI verification: connect with an MCP Apps host or OpenAI developer-mode client, invoke `get_daily_card` with `{ "date":"2026-09-23", "timezone":"Asia/Shanghai", "user_id":"demo" }`, expand one panel, reveal its sources, expand all, collapse all, switch mobile viewport and dark theme; confirm the tool call count remains one and compare original JSON before/after. For clients without UI, read the text content and use CLI `--expand` for full prose. Test the MCP endpoint with MCP Inspector and run Python tests in the root.

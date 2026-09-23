@@ -1,4 +1,4 @@
-name: Validate Skill packages
+name: Validate v2 and release archives
 on:
   push:
   pull_request:
@@ -10,14 +10,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install pinned external dependencies
-        run: python -m pip install -r requirements.txt
-      - name: Test source and isolated release packages
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Build MCP Apps resource
+        run: npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui
+      - name: Test both engines and isolated Skill package
         run: python -m unittest discover -s tests -v
       - name: Build release packages
         run: python tools/build_release.py
-      - name: Upload checked archives
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
-          name: wanxiangli-release-candidates
+          name: wanxiangli-v2-release-candidates
           path: dist/*.zip

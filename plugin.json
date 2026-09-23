@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "wanxiangli",
-  "version": "0.1.0",
-  "description": "A reproducible daily almanac Skill combining calendar and astronomical calculations, symbolic draws, interpretive lenses, and reality checks.",
+  "version": "2.0.0",
+  "description": "Reproducible daily calendar with four historical signs, three reflective lenses, a v2 JSON engine and an optional MCP Apps UI.",
   "repository": "https://github.com/Hei-Chuan/wanxiangli",
   "license": "MIT"
 }
