@@ -1,22 +1,22 @@
 # Sources and redistribution / 资料来源与分发
 
-This document describes the **current release**, not permission for every possible reuse. The authoritative item-level metadata (title, author, year, URL, license, copyright status, retrieval date, use, and notes) is [`references/sources.yaml`](references/sources.yaml), reviewed on 2026-09-23. For uncertain rights, the repository links to a source without distributing its text. Public accessibility does not equal a redistribution license.
+This document describes the **current release**, not permission for every possible reuse. The authoritative item-level metadata (title, author, year, URL, license, copyright status, retrieval date, use, and notes) is [`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml), reviewed on 2026-09-23. For uncertain rights, the repository links to a source without distributing its text. Public accessibility does not equal a redistribution license.
 
-此表记录当前版本的实际使用方式。逐条元数据见 [`references/sources.yaml`](references/sources.yaml)；版权不明时只保留研究链接，不打包原文。
+此表记录当前版本的实际使用方式。逐条元数据见 [`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml)；版权不明时只保留研究链接，不打包原文。
 
 ## What the labels mean / 分类
 
-- **bundled:** third-party expressive material actually included. **None in this release.** Our original scripts, summaries, and short cards are included under the project's [MIT license](LICENSE).
+- **bundled:** third-party source code included under its own license. The two pinned MIT Python dependencies are bundled; our original scripts and cards use the project's [MIT license](LICENSE).
 - **adapted:** facts, names, or broad ideas from a source informed **new project-authored** indexes and short explanations; the source's complete text, translation, or images are not copied.
 - **reference_only:** consulted for research or verification, with no source text bundled.
-- **runtime_lookup:** separately installed dependency or ephemeral external input; the repository does not vendor it.
+- **runtime_lookup:** ephemeral external input such as caller-supplied weather, never part of the package.
 
 ## Inventory / 来源表
 
 | ID and source | Use | Material in this repository and rights boundary |
 | --- | --- | --- |
-| `lunar_python` · [6tail/lunar-python](https://github.com/6tail/lunar-python) | runtime_lookup | Version 1.4.8 is a separately installed **MIT** dependency. The source library is not copied. It supplies the calendar and traditional almanac output at runtime. |
-| `astronomy_engine` · [Astronomy Engine](https://github.com/cosinekitty/astronomy) | runtime_lookup | Version 2.1.19 is a separately installed **MIT** dependency. No library source is copied; our lunar-phase symbolic scoring is our own rule. |
+| `lunar_python` · [6tail/lunar-python](https://github.com/6tail/lunar-python) | bundled | Unmodified version 1.4.8, **MIT**; a matching external installation is preferred, with the bundled copy as fallback. Its license and exact digest are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). |
+| `astronomy_engine` · [Astronomy Engine](https://github.com/cosinekitty/astronomy) | bundled | Unmodified version 2.1.19, **MIT**; a matching external installation is preferred, with the bundled copy as fallback. Our lunar-phase symbolic rule remains original. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). |
 | `zhouyi` · [《周易》索引](https://zh.wikisource.org/wiki/周易) | adapted | Ancient underlying work is public domain. `hexagrams.json` records 64 names, upper/lower trigrams, and project-authored short themes/scores. No scripture, commentary, or modern translation is reproduced. Website-specific contributions remain subject to their own terms. |
 | `daodejing` · [《道德经》](https://zh.wikisource.org/wiki/道德經) | adapted | Ancient underlying work is public domain; `taoism/concepts.md` gives original short explanations rather than source text or modern commentary. |
 | `qingjing` · [《清静经》](https://zh.wikisource.org/wiki/太上老君說常清靜經) | reference_only | Exact online edition and its terms need further review. Used as a bibliographic pointer for a short original “清静” concept; no page text is copied. |

@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1] / "references"
+ROOT = Path(__file__).resolve().parents[1] / "skills" / "wanxiangli" / "references"
 TRIGRAMS = ["乾", "兑", "离", "震", "巽", "坎", "艮", "坤"]
 BITS = {"乾": "111", "兑": "110", "离": "101", "震": "100", "巽": "011", "坎": "010", "艮": "001", "坤": "000"}  # bottom -> top
 # Rows are LOWER, columns UPPER. Collated from the public-domain Zhouyi index.

@@ -6,14 +6,9 @@ Wanxiangli is a **single Agent Skill** for a compact personal daily almanac: **c
 
 ## Quick start
 
-With the Skill installed, ask **“查看今日运势”**. To run the standalone scripts, use Python 3.10+ with IANA time-zone data:
+With the Skill installed, ask **“查看今日运势”**. The first public distribution version is **0.1.0**.
 
-```bash
-python3 -m pip install -r requirements.txt
-python3 scripts/wanxiangli.py --timezone Asia/Shanghai
-```
-
-Actual output from this version, reproducible with `python3 scripts/wanxiangli.py --date 2026-09-23 --timezone Asia/Shanghai --user-id demo --context 备考`:
+Actual output from this version, reproducible with `python3 skills/wanxiangli/scripts/wanxiangli.py --date 2026-09-23 --timezone Asia/Shanghai --user-id demo --context 备考`:
 
 ```text
 万象历 · 9月23日｜八月十三 · 庚子日
@@ -29,6 +24,29 @@ Actual output from this version, reproducible with `python3 scripts/wanxiangli.p
 ```
 
 The public `demo` identifier is for reproduction. Without `--user-id`, a private local installation identifier is created. A day's result is stable within that installation, date, and time zone; across devices, provide the same non-sensitive identifier explicitly.
+
+## Install
+
+### ChatGPT (supported Skills environments)
+
+Download `wanxiangli-skill.zip` from the GitHub release. In a ChatGPT environment that supports custom Skill uploads, create or upload a Skill with this ZIP, then ask **查看今日运势**. The archive has one top-level `wanxiangli/` directory containing `SKILL.md`, calculations, references, and pinned dependencies. Availability of uploads, Python execution, weather tools, and filesystem persistence depends on your environment. In a hosted environment without a persistent installation ID, the Skill uses a shared daily guest result; you may optionally give a fixed non-sensitive alias (for example `blue-fish`) for your own reproducible daily result. Do not use an email address or real identity.
+
+### Codex / portable plugin
+
+Download `wanxiangli-plugin.zip` from the GitHub release and install it using your environment's plugin upload or installation flow. The portable `plugin.json` discovers the one Skill under `skills/wanxiangli/`; `.codex-plugin/plugin.json` supports the compatibility format. For a local Codex Skill installation, place the `skills/wanxiangli/` directory in `$HOME/.agents/skills/` (or the repository `.agents/skills/` folder) and restart Skill discovery. The Python interpreter must support Python 3.10+ and IANA time-zone data. Both releases share exactly the same Skill source.
+
+### From source (developers)
+
+```bash
+git clone https://github.com/Hei-Chuan/wanxiangli.git
+cd wanxiangli
+python3 -m pip install -r requirements.txt
+python3 skills/wanxiangli/scripts/wanxiangli.py --timezone Asia/Shanghai
+python3 -m unittest discover -s tests -v
+python3 tools/build_release.py
+```
+
+The pinned packages are already bundled inside the Skill. Installing from `requirements.txt` is optional for ordinary Skill users and lets source developers use matching external packages. The script does not download software or make a network request.
 
 ## What actually runs
 
@@ -53,8 +71,8 @@ Islamic traditions are intentionally outside the content scope of this project. 
 
 ## Sources, license, and contributions
 
-Original code and short notes are [MIT licensed](LICENSE). No third-party library, CBETA database text, copyrighted modern Chinese Bible translation, tarot image, or complete source work is bundled. [SOURCES.md](SOURCES.md) explains adapted notes, research-only sources, and runtime inputs; [`references/sources.yaml`](references/sources.yaml) records each source. A publicly accessible page is not automatically reusable content.
+Original code and short notes are [MIT licensed](LICENSE). Two unmodified MIT Python dependencies are bundled with their own license notices. No CBETA database text, copyrighted modern Chinese Bible translation, tarot image, or complete classical/religious text is bundled. [SOURCES.md](SOURCES.md) explains bundled software, adapted notes, research-only sources, and runtime inputs; [`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml) records each source. A publicly accessible page is not automatically reusable content.
 
-**Third-party components and acknowledgements:** `lunar_python` 1.4.8 and `astronomy-engine` 2.1.19 are separately installed MIT dependencies. The ancient *Zhouyi* index, A. E. Waite's work, World English Bible, and listed classical works inform original short notes. CBETA is research-only. [`xuanxue-engine`](https://github.com/sxt9805/xuanxue-engine) is an architectural reference; [`fortune-telling-skills`](https://github.com/eamanc-lab/fortune-telling-skills) is a research reference. No code or prose was copied from those two projects. Listing a source does not imply participation or endorsement.
+**Third-party components and acknowledgements:** `lunar_python` 1.4.8 and `astronomy-engine` 2.1.19 are pinned MIT dependencies bundled as a fallback (matching external installations are preferred). See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for their separate copyright notices and provenance. The ancient *Zhouyi* index, A. E. Waite's work, World English Bible, and listed classical works inform original short notes. CBETA is research-only. [`xuanxue-engine`](https://github.com/sxt9805/xuanxue-engine) is an architectural reference; [`fortune-telling-skills`](https://github.com/eamanc-lab/fortune-telling-skills) is a research reference. No code or prose was copied from those two projects. Listing a source does not imply participation or endorsement.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md), [RELIGIOUS_CONTENT_POLICY.md](RELIGIOUS_CONTENT_POLICY.md), and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before submitting new materials. The investigation is in [RESEARCH.md](RESEARCH.md).

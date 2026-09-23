@@ -2,6 +2,8 @@
 """Wanxiangli: deterministic symbolic ledger, reality adjustment, JSON and card output."""
 import argparse
 import hashlib
+import importlib
+import importlib.metadata
 import json
 import os
 import secrets
@@ -27,6 +29,27 @@ THEME_ACTION = {"渐进": "按原计划推进", "止步": "暂停强推", "等�
 
 def load(rel):
     return json.loads((ROOT / rel).read_text(encoding="utf-8"))
+
+
+def dependency(module, package, version):
+    """Prefer the exact external release; use the audited bundled copy if absent."""
+    try:
+        installed = importlib.metadata.version(package)
+    except importlib.metadata.PackageNotFoundError:
+        installed = None
+    if installed == version:
+        try:
+            return importlib.import_module(module)
+        except ImportError as exc:
+            raise RuntimeError(f"{package} {version} 已安装但无法导入：{exc}") from exc
+    vendor = ROOT / "vendor"
+    if (vendor / module / "__init__.py").is_file():
+        sys.path.insert(0, str(vendor))
+        try:
+            return importlib.import_module(module)
+        except ImportError as exc:
+            raise RuntimeError(f"内置 {package} {version} 无法导入：{exc}") from exc
+    raise RuntimeError(f"缺少 {package} {version}，且 Skill 中没有可用内置依赖；无法计算，不能猜测历法或天文结果")
 
 
 def installation_id():
@@ -55,10 +78,7 @@ def draw(day, person, channel, modulo):
 
 
 def calendar(day, tz):
-    try:
-        from lunar_python import Solar
-    except ImportError as exc:
-        raise RuntimeError("需要 lunar_python；见 README 的安装说明") from exc
+    Solar = dependency("lunar_python", "lunar-python", "1.4.8").Solar
     l = Solar.fromYmd(day.year, day.month, day.day).getLunar()
     mid = datetime.combine(day, time(12), ZoneInfo(tz))
     terms = l.getJieQiTable()
@@ -79,10 +99,7 @@ def calendar(day, tz):
 
 
 def astronomy(day, tz):
-    try:
-        import astronomy as astro
-    except ImportError as exc:
-        raise RuntimeError("需要 astronomy-engine；见 README 的安装说明") from exc
+    astro = dependency("astronomy", "astronomy-engine", "2.1.19")
     instant = datetime.combine(day, time(12), ZoneInfo(tz)).astimezone(timezone.utc)
     moment = astro.Time.Make(instant.year, instant.month, instant.day,
                              instant.hour, instant.minute, instant.second)
@@ -251,6 +268,8 @@ def main():
     p.add_argument("--date", help="YYYY-MM-DD；默认按时区取今日")
     p.add_argument("--timezone", default="Asia/Shanghai")
     p.add_argument("--user-id", help="可选稳定标识；默认本机私有安装标识，勿用敏感信息")
+    p.add_argument("--identity-mode", choices=["local", "hosted"], default="local",
+                   help="local 使用私有本机标识；hosted 无持久账户标识时使用公开的访客日签，不写入配置")
     p.add_argument("--context", choices=["备考"], help="仅调整建议层，不参与核心推演")
     p.add_argument("--weather-json", help="具描述、hazard、source、observed_at的JSON文件")
     p.add_argument("--format", choices=["json", "card"], default="card")
@@ -263,7 +282,8 @@ def main():
         weather = json.loads(Path(a.weather_json).read_text()) if a.weather_json else None
         if weather and not all(weather.get(k) for k in ("description", "source", "observed_at", "hazard")):
             raise ValueError("天气数据必须包含 description、source、observed_at、hazard")
-        v = make(today, a.timezone, a.user_id or installation_id(), weather, a.context)
+        person = a.user_id or ("guest" if a.identity_mode == "hosted" else installation_id())
+        v = make(today, a.timezone, person, weather, a.context)
         print((detail(v, a.expand) + "\n今日总结：" + v["summary"]) if a.expand else
               json.dumps(v, ensure_ascii=False, indent=2) if a.format == "json" else card(v))
     except (ValueError, RuntimeError, KeyError) as exc:

@@ -1,0 +1,6 @@
+{
+  "name": "wanxiangli",
+  "version": "0.1.0",
+  "description": "A reproducible daily almanac Skill combining calendar and astronomical calculations, symbolic draws, interpretive lenses, and reality checks.",
+  "skills": "./skills/"
+}

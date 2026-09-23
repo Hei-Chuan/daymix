@@ -1,8 +1,7 @@
-# Usage values: bundled (source's expressive material redistributed), adapted (our original
+# Usage values: bundled (source's material redistributed), adapted (our original
 # index or concepts informed by the source, without reproducing its full text),
 # reference_only (research/verification, no source material redistributed),
-# runtime_lookup (external dependency or ephemeral weather input).
-# No third-party source in this file has usage: bundled in the current release.
+# runtime_lookup (ephemeral weather input). Third-party code below is bundled under MIT.
 - id: lunar_python
   title: lunar-python
   author: 6tail
@@ -11,8 +10,8 @@
   license: MIT
   copyright_status: copyrighted open-source software
   retrieved_at: '2026-09-23'
-  usage: runtime_lookup
-  notes: Runtime dependency pinned at 1.4.8; install separately, do not vendor; preserve its MIT notice on redistribution.
+  usage: bundled
+  notes: Unmodified Python package version 1.4.8 in vendor/lunar_python; matching externally installed version preferred. MIT notice at vendor/licenses/lunar-python-LICENSE. See THIRD_PARTY_NOTICES.md.
 - id: astronomy_engine
   title: Astronomy Engine
   author: Don Cross
@@ -21,8 +20,8 @@
   license: MIT
   copyright_status: copyrighted open-source software
   retrieved_at: '2026-09-23'
-  usage: runtime_lookup
-  notes: Python package pinned at 2.1.19; calculations only; symbolic inference is authored here.
+  usage: bundled
+  notes: Unmodified Python package version 2.1.19 in vendor/astronomy; matching externally installed version preferred. MIT notice at vendor/licenses/astronomy-engine-LICENSE. Symbolic inference is authored here.
 - id: zhouyi
   title: 周易（六十四卦索引）
   author: 传统归属周文王、周公等；成书层累
