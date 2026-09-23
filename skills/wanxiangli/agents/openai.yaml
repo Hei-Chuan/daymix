@@ -1,0 +1,13 @@
+interface:
+  display_name: 万象历
+  short_description: 结合真实历法、易象、塔罗和天文象征生成稳定的每日个人黄历
+  default_prompt: 查看今日运势
+  icon_small: ./assets/icon.svg
+  icon_large: ./assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
