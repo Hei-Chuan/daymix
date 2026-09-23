@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "name": "乾",
+    "lower": "乾",
+    "upper": "乾",
+    "lines_bottom_up": "111111",
+    "theme": "守正",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 2,
+    "name": "坤",
+    "lower": "坤",
+    "upper": "坤",
+    "lines_bottom_up": "000000",
+    "theme": "承载",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 3,
+    "name": "屯",
+    "lower": "震",
+    "upper": "坎",
+    "lines_bottom_up": "100010",
+    "theme": "起步",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 4,
+    "name": "蒙",
+    "lower": "坎",
+    "upper": "艮",
+    "lines_bottom_up": "010001",
+    "theme": "求教",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 5,
+    "name": "需",
+    "lower": "乾",
+    "upper": "坎",
+    "lines_bottom_up": "111010",
+    "theme": "等待",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 6,
+    "name": "讼",
+    "lower": "坎",
+    "upper": "乾",
+    "lines_bottom_up": "010111",
+    "theme": "辨明",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 7,
+    "name": "师",
+    "lower": "坎",
+    "upper": "坤",
+    "lines_bottom_up": "010000",
+    "theme": "协作",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 8,
+    "name": "比",
+    "lower": "坤",
+    "upper": "坎",
+    "lines_bottom_up": "000010",
+    "theme": "亲近",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 9,
+    "name": "小畜",
+    "lower": "乾",
+    "upper": "巽",
+    "lines_bottom_up": "111011",
+    "theme": "积累",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 10,
+    "name": "履",
+    "lower": "兑",
+    "upper": "乾",
+    "lines_bottom_up": "110111",
+    "theme": "审慎",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 11,
+    "name": "泰",
+    "lower": "乾",
+    "upper": "坤",
+    "lines_bottom_up": "111000",
+    "theme": "通达",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 12,
+    "name": "否",
+    "lower": "坤",
+    "upper": "乾",
+    "lines_bottom_up": "000111",
+    "theme": "闭塞",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 13,
+    "name": "同人",
+    "lower": "离",
+    "upper": "乾",
+    "lines_bottom_up": "101111",
+    "theme": "同行",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 14,
+    "name": "大有",
+    "lower": "乾",
+    "upper": "离",
+    "lines_bottom_up": "111101",
+    "theme": "充实",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 15,
+    "name": "谦",
+    "lower": "艮",
+    "upper": "坤",
+    "lines_bottom_up": "001000",
+    "theme": "谦逊",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 16,
+    "name": "豫",
+    "lower": "坤",
+    "upper": "震",
+    "lines_bottom_up": "000100",
+    "theme": "预备",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 17,
+    "name": "随",
+    "lower": "震",
+    "upper": "兑",
+    "lines_bottom_up": "100110",
+    "theme": "顺应",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 18,
+    "name": "蛊",
+    "lower": "巽",
+    "upper": "艮",
+    "lines_bottom_up": "011001",
+    "theme": "整理",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 19,
+    "name": "临",
+    "lower": "兑",
+    "upper": "坤",
+    "lines_bottom_up": "110000",
+    "theme": "临事",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 20,
+    "name": "观",
+    "lower": "坤",
+    "upper": "巽",
+    "lines_bottom_up": "000011",
+    "theme": "观察",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 21,
+    "name": "噬嗑",
+    "lower": "震",
+    "upper": "离",
+    "lines_bottom_up": "100101",
+    "theme": "决断",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 22,
+    "name": "贲",
+    "lower": "离",
+    "upper": "艮",
+    "lines_bottom_up": "101001",
+    "theme": "修饰",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 23,
+    "name": "剥",
+    "lower": "坤",
+    "upper": "艮",
+    "lines_bottom_up": "000001",
+    "theme": "收束",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 24,
+    "name": "复",
+    "lower": "震",
+    "upper": "坤",
+    "lines_bottom_up": "100000",
+    "theme": "复始",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 25,
+    "name": "无妄",
+    "lower": "震",
+    "upper": "乾",
+    "lines_bottom_up": "100111",
+    "theme": "守真",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 26,
+    "name": "大畜",
+    "lower": "乾",
+    "upper": "艮",
+    "lines_bottom_up": "111001",
+    "theme": "蓄力",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 27,
+    "name": "颐",
+    "lower": "震",
+    "upper": "艮",
+    "lines_bottom_up": "100001",
+    "theme": "养护",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 28,
+    "name": "大过",
+    "lower": "巽",
+    "upper": "兑",
+    "lines_bottom_up": "011110",
+    "theme": "承压",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 29,
+    "name": "坎",
+    "lower": "坎",
+    "upper": "坎",
+    "lines_bottom_up": "010010",
+    "theme": "守险",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 30,
+    "name": "离",
+    "lower": "离",
+    "upper": "离",
+    "lines_bottom_up": "101101",
+    "theme": "明辨",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 31,
+    "name": "咸",
+    "lower": "艮",
+    "upper": "兑",
+    "lines_bottom_up": "001110",
+    "theme": "感应",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 32,
+    "name": "恒",
+    "lower": "巽",
+    "upper": "震",
+    "lines_bottom_up": "011100",
+    "theme": "持续",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 33,
+    "name": "遁",
+    "lower": "艮",
+    "upper": "乾",
+    "lines_bottom_up": "001111",
+    "theme": "退守",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 34,
+    "name": "大壮",
+    "lower": "乾",
+    "upper": "震",
+    "lines_bottom_up": "111100",
+    "theme": "推进",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 35,
+    "name": "晋",
+    "lower": "坤",
+    "upper": "离",
+    "lines_bottom_up": "000101",
+    "theme": "显明",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 36,
+    "name": "明夷",
+    "lower": "离",
+    "upper": "坤",
+    "lines_bottom_up": "101000",
+    "theme": "藏锋",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 37,
+    "name": "家人",
+    "lower": "离",
+    "upper": "巽",
+    "lines_bottom_up": "101011",
+    "theme": "治家",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 38,
+    "name": "睽",
+    "lower": "兑",
+    "upper": "离",
+    "lines_bottom_up": "110101",
+    "theme": "求同",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 39,
+    "name": "蹇",
+    "lower": "艮",
+    "upper": "坎",
+    "lines_bottom_up": "001010",
+    "theme": "受阻",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 40,
+    "name": "解",
+    "lower": "坎",
+    "upper": "震",
+    "lines_bottom_up": "010100",
+    "theme": "疏解",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 41,
+    "name": "损",
+    "lower": "兑",
+    "upper": "艮",
+    "lines_bottom_up": "110001",
+    "theme": "减负",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 42,
+    "name": "益",
+    "lower": "震",
+    "upper": "巽",
+    "lines_bottom_up": "100011",
+    "theme": "增益",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 43,
+    "name": "夬",
+    "lower": "乾",
+    "upper": "兑",
+    "lines_bottom_up": "111110",
+    "theme": "决口",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 44,
+    "name": "姤",
+    "lower": "巽",
+    "upper": "乾",
+    "lines_bottom_up": "011111",
+    "theme": "相遇",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 45,
+    "name": "萃",
+    "lower": "坤",
+    "upper": "兑",
+    "lines_bottom_up": "000110",
+    "theme": "聚合",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 46,
+    "name": "升",
+    "lower": "巽",
+    "upper": "坤",
+    "lines_bottom_up": "011000",
+    "theme": "上升",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 47,
+    "name": "困",
+    "lower": "坎",
+    "upper": "兑",
+    "lines_bottom_up": "010110",
+    "theme": "困守",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 48,
+    "name": "井",
+    "lower": "巽",
+    "upper": "坎",
+    "lines_bottom_up": "011010",
+    "theme": "修井",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 49,
+    "name": "革",
+    "lower": "离",
+    "upper": "兑",
+    "lines_bottom_up": "101110",
+    "theme": "更新",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 50,
+    "name": "鼎",
+    "lower": "巽",
+    "upper": "离",
+    "lines_bottom_up": "011101",
+    "theme": "鼎新",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 51,
+    "name": "震",
+    "lower": "震",
+    "upper": "震",
+    "lines_bottom_up": "100100",
+    "theme": "惊动",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 52,
+    "name": "艮",
+    "lower": "艮",
+    "upper": "艮",
+    "lines_bottom_up": "001001",
+    "theme": "止步",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 53,
+    "name": "渐",
+    "lower": "艮",
+    "upper": "巽",
+    "lines_bottom_up": "001011",
+    "theme": "渐进",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 54,
+    "name": "归妹",
+    "lower": "兑",
+    "upper": "震",
+    "lines_bottom_up": "110100",
+    "theme": "审配",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 55,
+    "name": "丰",
+    "lower": "离",
+    "upper": "震",
+    "lines_bottom_up": "101100",
+    "theme": "丰实",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 56,
+    "name": "旅",
+    "lower": "艮",
+    "upper": "离",
+    "lines_bottom_up": "001101",
+    "theme": "客行",
+    "tone": -1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 57,
+    "name": "巽",
+    "lower": "巽",
+    "upper": "巽",
+    "lines_bottom_up": "011011",
+    "theme": "入微",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 58,
+    "name": "兑",
+    "lower": "兑",
+    "upper": "兑",
+    "lines_bottom_up": "110110",
+    "theme": "愉悦",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 59,
+    "name": "涣",
+    "lower": "坎",
+    "upper": "巽",
+    "lines_bottom_up": "010011",
+    "theme": "离散",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 60,
+    "name": "节",
+    "lower": "兑",
+    "upper": "坎",
+    "lines_bottom_up": "110010",
+    "theme": "节制",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 61,
+    "name": "中孚",
+    "lower": "兑",
+    "upper": "巽",
+    "lines_bottom_up": "110011",
+    "theme": "守信",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 62,
+    "name": "小过",
+    "lower": "艮",
+    "upper": "震",
+    "lines_bottom_up": "001100",
+    "theme": "小步",
+    "tone": 0,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 63,
+    "name": "既济",
+    "lower": "离",
+    "upper": "坎",
+    "lines_bottom_up": "101010",
+    "theme": "收尾",
+    "tone": 1,
+    "source_id": "zhouyi"
+  },
+  {
+    "id": 64,
+    "name": "未济",
+    "lower": "坎",
+    "upper": "离",
+    "lines_bottom_up": "010101",
+    "theme": "未竟",
+    "tone": -1,
+    "source_id": "zhouyi"
+  }
+]
