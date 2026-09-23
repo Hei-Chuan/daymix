@@ -44,7 +44,7 @@ def check_file(path):
 
 def digest_tree(directory):
     h = hashlib.sha256()
-    for path in sorted(directory.rglob("*.py")):
+    for path in sorted(directory.rglob("*.py"), key=lambda item: item.relative_to(directory).as_posix()):
         h.update(path.relative_to(directory).as_posix().encode())
         h.update(b"\0")
         h.update(path.read_bytes())
