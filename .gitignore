@@ -5,3 +5,7 @@ __pycache__/
 .coverage
 installation.json
 dist/
+
+ui/node_modules/
+!ui/dist/
+!ui/dist/card.html

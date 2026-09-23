@@ -45,3 +45,7 @@
 The Phase 6 inventory above describes the historical pre-migration release. In version 0.1.0, the canonical root is `skills/wanxiangli/`. Two unmodified pinned MIT dependencies are now bundled with their respective license notices and SHA-256 source-tree digests; a matching installed version is preferred. The source inventory now marks these two packages `bundled`. The other source classifications and the core scoring and seed rules did not change.
 
 Portable plugin discovery uses the root `plugin.json` and `skills/`; `.codex-plugin/plugin.json` is a consistent compatibility manifest. The standalone Skill archive uses a single `wanxiangli/` top-level folder. Hosted Python and Skill upload permissions depend on the destination platform; an ephemeral hosted environment uses a deterministic shared guest daily result without writing an installation identifier, with a user-supplied non-sensitive alias available for personal cross-session stability. Local Codex retains the private installation identifier. The script never downloads dependencies or fabricates missing data.
+
+## v2 update
+
+The v1 scoring and source decisions above are preserved to explain and reproduce old daily cards. The new mechanisms, source links, uncertainties, and implementation decisions are recorded in [RESEARCH_V2.md](RESEARCH_V2.md). In particular, the v1 label “Daoist interpretive lens” has been replaced in v2 with a verified historical sign subset; this does **not** imply that the project's daily deterministic selection is a documented historical ritual.
