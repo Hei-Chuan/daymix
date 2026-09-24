@@ -1,3 +1,5 @@
+**简体中文** · [English](README.en.md)
+
 # Daymix · 今天呢
 
 每天看看今天呢。四象给线索，三镜换角度，最后用现实条件决定怎么做。先运行 `python scripts/daymix.py --date 2026-09-23 --timezone Asia/Shanghai --user-id demo`，或在已安装的 Skill 中说“今天呢？”。

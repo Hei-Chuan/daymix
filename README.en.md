@@ -1,3 +1,5 @@
+[简体中文](README.md) · **English**
+
 # Daymix · 今天呢
 
 **What is today like?** Open a small daily card: four independent symbolic signs, three reflective lenses, and one practical action checked against real conditions. Daymix is a reproducible single Agent Skill with a CLI and an optional expandable MCP Apps card.

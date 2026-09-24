@@ -1,3 +1,5 @@
+**简体中文** · [English](README.en.md)
+
 # Daymix · 今天呢
 
 **今天呢？** 每天打开一张小卡，看看四种象征刚好怎么组合，再选一个现实中能做的小动作。Daymix 是一个可复现的单 Agent Skill，也可在命令行和 MCP Apps 组件中运行。

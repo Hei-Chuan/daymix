@@ -3,6 +3,21 @@
   "name": "daymix",
   "version": "2.2.0",
   "description": "Daymix daily card: four symbolic signs, three reflective lenses, reality-aware actions, and an optional MCP Apps UI.",
+  "author": {
+    "name": "Hei-Chuan",
+    "url": "https://github.com/Hei-Chuan"
+  },
   "repository": "https://github.com/Hei-Chuan/daymix",
-  "license": "MIT"
+  "license": "MIT",
+  "interface": {
+    "displayName": "Daymix · 今天呢",
+    "shortDescription": "每天看看今天呢。",
+    "longDescription": "四象给线索，三镜换角度，现实条件决定行动。可复现的每日历卡，供娱乐、文化探索与自省。",
+    "developerName": "Hei-Chuan",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": ["今天呢？", "查看今日运势"],
+    "brandColor": "#254E46",
+    "websiteURL": "https://github.com/Hei-Chuan/daymix"
+  }
 }

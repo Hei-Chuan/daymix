@@ -73,7 +73,7 @@ def validate():
         raise ValueError("portable manifest declares redundant or missing components")
     if compatibility["skills"] != "./skills/" or (ROOT / compatibility["skills"] / "daymix/SKILL.md").resolve() != (SKILL / "SKILL.md").resolve():
         raise ValueError("compatibility skills path differs from canonical Skill")
-    for field in ("name", "version", "description"):
+    for field in ("name", "version", "description", "author", "repository", "license", "interface"):
         if manifest[field] != compatibility[field]:
             raise ValueError(f"manifest conflict: {field}")
     versions = json.loads((SKILL / "vendor/versions.json").read_text(encoding="utf-8"))
