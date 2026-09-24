@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "daymix",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Daymix daily card: four symbolic signs, three reflective lenses, reality-aware actions, and an optional MCP Apps UI.",
   "author": {
     "name": "Hei-Chuan",

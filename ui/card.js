@@ -27,7 +27,7 @@ function render(v){if(!v||!['daymix/2','wanxiangli/2'].includes(v.schema))return
  const saved=new Set(state());for(const x of root.querySelectorAll('details.panel'))x.open=saved.has(x.dataset.key);
 }
 root.addEventListener('toggle',e=>{if(e.target?.matches?.('details.panel'))persist()},true);
-const app=new App({name:'Daymix Card',version:'2.2.0'});
+const app=new App({name:'Daymix Card',version:'2.3.0'});
 app.ontoolresult=result=>{if(result.structuredContent)render(result.structuredContent)};
 app.connect().catch(()=>{root.querySelector('.empty')?.replaceChildren('无法连接卡片宿主；可使用 CLI 或 Skill 文本卡。')});
 // Host compatibility alias; the shared MCP Apps bridge above remains the primary path.

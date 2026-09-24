@@ -1,4 +1,4 @@
-name: Validate Daymix v2.2 and release archives
+name: Validate Daymix release archives
 on:
   push:
   pull_request:
@@ -21,5 +21,5 @@ jobs:
         run: python tools/build_release.py
       - uses: actions/upload-artifact@v4
         with:
-          name: daymix-v2.2-release-candidates
+          name: daymix-v2.3-release-candidates
           path: dist/*.zip

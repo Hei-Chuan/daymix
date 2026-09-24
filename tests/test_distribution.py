@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
-from build_release import build_archive, validate, SKILL, PLUGIN_FILES
+from build_release import build_archive, validate, SKILL, PLUGIN_FILES, WEB_FILES
 
 
 class DistributionTests(unittest.TestCase):
@@ -21,6 +21,7 @@ class DistributionTests(unittest.TestCase):
         files = validate()
         build_archive(cls.place / "skill.zip", [(p, "daymix/" + p.relative_to(SKILL).as_posix()) for p in files])
         build_archive(cls.place / "plugin.zip", [(p, p.relative_to(ROOT).as_posix()) for p in files + list(PLUGIN_FILES)])
+        build_archive(cls.place / "web.zip", [(p, p.relative_to(ROOT).as_posix()) for p in files + list(WEB_FILES)])
         with zipfile.ZipFile(cls.place / "skill.zip") as z:
             z.extractall(cls.place / "standalone")
         cls.entry = cls.place / "standalone/daymix/scripts/daymix.py"
@@ -52,14 +53,24 @@ class DistributionTests(unittest.TestCase):
             portable = json.loads(z.read("plugin.json"))
             compatibility = json.loads(z.read(".codex-plugin/plugin.json"))
             self.assertEqual(portable["name"], "daymix")
-            self.assertEqual(portable["version"], "2.2.0")
+            self.assertEqual(portable["version"], "2.3.0")
             self.assertEqual(compatibility["version"], portable["version"])
             self.assertEqual(compatibility["skills"], "./skills/")
             self.assertIn("skills/daymix/SKILL.md", z.namelist())
             self.assertNotIn("mcpServers", portable)
-            for required in ("ui/server.mjs", "ui/dist/card.html", "ui/package-lock.json", "scripts/daymix.py"):
+            for required in ("ui/core.mjs", "ui/server.mjs", "ui/stdio.mjs", "ui/dist/card.html", "ui/package-lock.json", "scripts/daymix.py", "COMPATIBILITY.md"):
                 self.assertIn(required,z.namelist())
             self.assertIn("prefers-color-scheme:dark",z.read("ui/dist/card.html").decode())
+
+    def test_web_package_reuses_the_skill_engine(self):
+        with zipfile.ZipFile(self.place / "web.zip") as z:
+            self.assertIsNone(z.testzip())
+            names = z.namelist()
+            for required in ("web/app.py", "web/storage.py", "web/public/index.html",
+                             "web/public/app.js", "web/public/styles.css", "Dockerfile",
+                             "skills/daymix/daymix/engine.py", "skills/daymix/SKILL.md"):
+                self.assertIn(required, names)
+            self.assertFalse(any("web/data/" in name or "installation.json" in name for name in names))
 
     def run_skill(self, isolated=False, vendor=True, hosted=False, expand=None):
         command = [sys.executable]

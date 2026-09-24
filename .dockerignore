@@ -1,0 +1,7 @@
+.git
+.playwright-cli
+dist
+ui/node_modules
+web/data
+**/__pycache__
+**/*.pyc

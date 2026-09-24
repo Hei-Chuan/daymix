@@ -9,3 +9,6 @@ dist/
 ui/node_modules/
 !ui/dist/
 !ui/dist/card.html
+.playwright-cli/
+web/data/
+output/playwright/

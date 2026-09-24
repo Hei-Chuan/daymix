@@ -4,7 +4,7 @@
 
 > 今天呢？打开一张小卡，看看今天掉落了什么，再选一件现实中能做的事。
 
-Daymix 是一个开源的**单 Agent Skill**，也提供命令行和可选的 ChatGPT 展开卡片。它把历法与四种象征来源放在一张卡上：易、塔罗、道教签诗和星象分别给出线索；佛教、基督宗教与斯多葛作为三个不计分的自省视角。最后，周末条件和用户提供的天气预警可以修正行动建议。这里的“运势”是娱乐与文化解释，不是未来预测。
+Daymix 是一个开源的 Agent capability：一套 Python 引擎和语料、一个标准 Skill、一个跨平台 MCP 工具，也提供命令行和可选的 ChatGPT 展开卡片。它把历法与四种象征来源放在一张卡上：易、塔罗、道教签诗和星象分别给出线索；佛教、基督宗教与斯多葛作为三个不计分的自省视角。最后，周末条件和用户提供的天气预警可以修正行动建议。这里的“运势”是娱乐与文化解释，不是未来预测。
 
 ## 先看一张卡
 
@@ -45,6 +45,8 @@ Daymix · 今天呢｜09-23 · 八月十三
 
 - **命令行**：`python scripts/daymix.py --format json --identity-mode hosted` 看完整结果；用 `--expand daoism|christianity|all` 看解释和出处。`--help` 列出日期、时区、备考条件等参数。
 - **Skill / Codex**：[Skill 源码](skills/daymix/SKILL.md)可用于安装，安装后说“今天呢？”或“查看今日运势”。运行 `python tools/build_release.py` 可生成 `dist/daymix-skill.zip` 和 `dist/daymix-plugin.zip`。
+- **通用 MCP**：`node ui/stdio.mjs` 提供本地 stdio；`npm run start --prefix ui` 提供 Streamable HTTP `/mcp`。两者共用 `get_daily_card`、完整结构化结果、文本卡与出处；[平台状态与部署说明](COMPATIBILITY.md)区分实测和待验证。
+- **网站**：运行 `python web/app.py`，打开 `http://127.0.0.1:8000/`。点击“看看今天”才生成并保存当天完整日卡；右上角“之前掉了什么”读取历史原始 ledger。无需注册，同步码可在新设备恢复同一匿名历史。网站只调用现有 Python 引擎；SQLite 仅保存匿名设备凭证哈希、同步码安全哈希、日期/时区/版本和完整日卡。`DAYMIX_WEB_DB` 可指定数据库位置，`Dockerfile` 可部署网站容器；持久化数据库需要单独备份，同步码不能替代服务端备份。
 - **ChatGPT 展开卡片**：部署并连接 [MCP Apps 服务](ui/README.md) 后，`get_daily_card` 一次返回完整结果；展开、收起、全部展开都在卡片本地完成。Skill 单独安装时使用文本卡。ZIP 不会自动部署服务。
 
 仓库和 CI 使用 Python 3.12、Node.js 24 验证。CLI 默认在本机保存私有安装标识以维持旧版结果；`--identity-mode hosted` 使用共享访客日签，不创建该标识。请勿把姓名、邮箱或电话用作 `--user-id`。
@@ -61,6 +63,6 @@ CLI **不自动获取或核验天气**。只有传入 `--weather-json` 时才读
 
 ## 文档与开发
 
-[现行设计与依据](DESIGN.md)连续说明四象、三镜、现实复核；[更新日志](CHANGELOG.md)只记录版本增量。[资料与权利](SOURCES.md)及[来源登记表](skills/daymix/references/sources.yaml)记录实际使用方式；[语料完整度](CORPUS_COMPLETENESS.md)记录数量与未核实项；[第三方许可](THIRD_PARTY_NOTICES.md)、[贡献指南](CONTRIBUTING.md)、[发布检查](RELEASING.md)分别覆盖依赖、投稿和发布。[v1](RESEARCH.md)、[v2.1](RESEARCH_V2.md) 与 [v2.2](RESEARCH_V22.md) 研究文件只作历史档案，不必从旧文件拼出现行项目介绍。
+[现行设计与依据](DESIGN.md)连续说明四象、三镜、现实复核；[兼容性](COMPATIBILITY.md)说明 Skill/MCP 宿主现状；[更新日志](CHANGELOG.md)只记录版本增量。[资料与权利](SOURCES.md)及[来源登记表](skills/daymix/references/sources.yaml)记录实际使用方式；[语料完整度](CORPUS_COMPLETENESS.md)记录数量与未核实项；[第三方许可](THIRD_PARTY_NOTICES.md)、[贡献指南](CONTRIBUTING.md)、[发布检查](RELEASING.md)分别覆盖依赖、投稿和发布。[v1](RESEARCH.md)、[v2.1](RESEARCH_V2.md) 与 [v2.2](RESEARCH_V22.md) 研究文件只作历史档案，不必从旧文件拼出现行项目介绍。
 
-验证命令：`python -m unittest discover -s tests -v`、`npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui`、`python tools/build_release.py`。项目原创代码按 [MIT](LICENSE) 许可发布；第三方材料遵循各自的权利声明。
+验证命令：`python -m unittest discover -s tests -v`、`npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui`、`python tools/build_release.py`（生成 Skill、插件和网站三个发行 ZIP）。项目原创代码按 [MIT](LICENSE) 许可发布；第三方材料遵循各自的权利声明。

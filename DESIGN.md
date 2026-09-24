@@ -33,7 +33,9 @@ Daymix 把**资料事实、程序规则、编辑性解释**分开：历法和天
 
 当前现实层只处理周末规则和**用户提供的天气预警**。CLI 的 `--weather-json` 要求 `description`、`hazard`、`source`、`observed_at` 字段，并限制危险类别；它不自动联网，不核验来源真实性、地点或时效。MCP 工具目前没有天气参数。现实层只改有效行动建议与总结；原始建议、四象、三镜和象征评分保留。
 
-MCP Apps 组件的 `get_daily_card` 一次返回完整 `structuredContent`，卡片在本地展开、收起和查看出处，不因点击而重抽。缺少可连接的 HTTPS MCP 服务时，Skill 和 CLI 仍可返回文字卡；ZIP 本身不会部署服务。UI 同时接受旧 `wanxiangli/2` 数据供历史显示。实际接入条件见 [UI 说明](ui/README.md)。
+Agent 接口复用同一 Python 引擎与语料：仓库只维护一份 `skills/daymix/SKILL.md`，`ui/core.mjs` 只注册一个 `get_daily_card`，由 stdio 和 Streamable HTTP 两个薄入口承载。两者均返回完整 `structuredContent`、含来源的文本卡及固定输出 schema。MCP Apps 是 HTTP 入口的可选展示资源；卡片在本地展开、收起和查看出处，不因点击而重抽。缺少可连接的 HTTPS MCP 服务时，Skill 和 CLI 仍可返回文字卡；ZIP 本身不会部署服务。UI 同时接受旧 `wanxiangli/2` 数据供历史显示。实际接入条件和平台验证分级见 [UI 说明](ui/README.md)、[兼容性](COMPATIBILITY.md)。
+
+网站是同一引擎的另一入口。它在服务端生成匿名随机身份，用该身份作确定性日签代号，并把当天首次生成的完整 ledger 存入网站状态层；再次打开或从历史选择时读取原 JSON，不按新版规则重算旧卡。SQLite adapter 只属于 `web/`，核心 `daymix.engine` 不依赖数据库。设备访问令牌仅在浏览器本地保存，服务器存随机令牌的 SHA-256 摘要；跨设备恢复码具有 160 位随机量，服务器仅存带随机盐的 scrypt 哈希。数据库保存匿名用户、设备摘要、恢复哈希和日签记录，不保存姓名、邮箱或手机号。实际公网部署需 HTTPS、持久化卷与入口限流；本地服务不是公开 URL。Codex Sites 运行 Cloudflare Workers，无法直接运行这里的 Python 进程；未来 Sites 前端须调用单独部署的同一 Daymix API，而不能重写算法。
 
 ## 资料与权利边界
 

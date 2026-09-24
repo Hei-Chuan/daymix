@@ -12,9 +12,15 @@ DIST = ROOT / "dist"
 PLUGIN_FILES = (ROOT / "plugin.json", ROOT / ".codex-plugin/plugin.json",
                 ROOT / "LICENSE", ROOT / "THIRD_PARTY_NOTICES.md",
                 ROOT / "scripts/daymix.py", ROOT / "scripts/wanxiangli.py",
-                ROOT / "ui/server.mjs", ROOT / "ui/package.json",
+                ROOT / "ui/server.mjs", ROOT / "ui/stdio.mjs", ROOT / "ui/core.mjs", ROOT / "ui/package.json",
                 ROOT / "ui/package-lock.json", ROOT / "ui/card.html", ROOT / "ui/card.js",
-                ROOT / "ui/build.mjs", ROOT / "ui/dist/card.html", ROOT / "ui/test.mjs", ROOT / "ui/test-server.mjs", ROOT / "ui/README.md")
+                ROOT / "ui/build.mjs", ROOT / "ui/dist/card.html", ROOT / "ui/test.mjs", ROOT / "ui/test-server.mjs", ROOT / "ui/test-stdio.mjs", ROOT / "ui/README.md", ROOT / "COMPATIBILITY.md")
+WEB_FILES = (ROOT / "web/app.py", ROOT / "web/storage.py", ROOT / "web/public/index.html",
+             ROOT / "web/public/styles.css", ROOT / "web/public/app.js", ROOT / "Dockerfile",
+             ROOT / ".dockerignore", ROOT / "README.md", ROOT / "DESIGN.md",
+             ROOT / "COMPATIBILITY.md", ROOT / "CORPUS_COMPLETENESS.md",
+             ROOT / "SOURCES.md", ROOT / "DISCLAIMER.md", ROOT / "LICENSE",
+             ROOT / "THIRD_PARTY_NOTICES.md", ROOT / "RELIGIOUS_CONTENT_POLICY.md")
 SKILL_REQUIRED = ("SKILL.md", "scripts/daymix.py", "scripts/wanxiangli.py", "references/sources.yaml",
                   "references/eastern/hexagrams.json", "references/eastern/zhouyi-text.json",
                   "references/tarot/tarot-78.json", "references/tarot/tarot-v2.json",
@@ -57,6 +63,8 @@ def validate():
     for name in SKILL_REQUIRED:
         check_file(SKILL / name)
     for p in PLUGIN_FILES:
+        check_file(p)
+    for p in WEB_FILES:
         check_file(p)
     skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
     if not re.search(r"^---\nname: daymix\ndescription: .+\n---\n", skill_text):
@@ -120,7 +128,9 @@ def main():
     plugin_entries = [(p, p.relative_to(ROOT).as_posix()) for p in files + list(PLUGIN_FILES)]
     build_archive(DIST / "daymix-skill.zip", skill_entries)
     build_archive(DIST / "daymix-plugin.zip", plugin_entries)
-    for name in ("daymix-skill.zip", "daymix-plugin.zip"):
+    web_entries = [(p, p.relative_to(ROOT).as_posix()) for p in files + list(WEB_FILES)]
+    build_archive(DIST / "daymix-web.zip", web_entries)
+    for name in ("daymix-skill.zip", "daymix-plugin.zip", "daymix-web.zip"):
         print(f"{DIST / name} ({(DIST / name).stat().st_size} bytes)")
 
 

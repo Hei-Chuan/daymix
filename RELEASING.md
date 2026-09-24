@@ -1,9 +1,9 @@
 # Releasing Daymix
 
 1. Run `python -m unittest discover -s tests -v`; inspect v1 and v2.1 golden replay, corpus records, and v2.2 determinism.
-2. Run `npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui`. Verify the `get_daily_card` result and `ui://daymix/card-v2.2.html` resource; disclosure must not call the server again.
-3. Run `python tools/build_release.py`. `dist/daymix-skill.zip` has one `daymix/` root. `dist/daymix-plugin.zip` includes the Skill, Python CLI, MCP server and UI bundle. Neither ZIP deploys a public HTTPS service or installs itself in ChatGPT.
-4. Review [corpus completeness](CORPUS_COMPLETENESS.md), [source rights](SOURCES.md), [current design and limits](DESIGN.md), religious policy, third-party notices, and changelog. New source snapshots require a version and replay fixture.
+2. Run `npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui`. Verify the common `get_daily_card` contract on stdio and HTTP, the optional `ui://daymix/card-v2.2.html` resource, and `/healthz`; disclosure must not call the server again.
+3. Run `python tools/build_release.py`. `dist/daymix-skill.zip` has one `daymix/` root. `dist/daymix-plugin.zip` includes the Skill, Python CLI, MCP server and UI bundle. `dist/daymix-web.zip` includes the website, canonical engine/corpus and Dockerfile. These ZIPs do not deploy a public HTTPS service or install themselves in ChatGPT.
+4. Review [compatibility statuses](COMPATIBILITY.md), [corpus completeness](CORPUS_COMPLETENESS.md), [source rights](SOURCES.md), [current design and limits](DESIGN.md), religious policy, third-party notices, and changelog. New source snapshots require a data/cast version and replay fixture; packaging alone does not.
 5. Tag or announce only after checks. A clickable ChatGPT card requires a reachable HTTPS MCP server connected to the account and a host-side UI test; a local `127.0.0.1` port is a development endpoint. Add access control and request limits before exposing this development server publicly.
 
 ## 中文发布检查
