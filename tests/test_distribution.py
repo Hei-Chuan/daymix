@@ -125,6 +125,17 @@ class DistributionTests(unittest.TestCase):
         self.assertFalse((self.place / "hosted-config/wanxiangli/installation.json").exists())
         self.assertNotIn("guest", r.stdout)
 
+    def test_missing_weather_file_reports_input_error(self):
+        result = subprocess.run(
+            [sys.executable, str(self.entry), "--date", "2026-09-23", "--identity-mode", "hosted",
+             "--weather-json", str(self.place / "missing-weather.json")],
+            cwd=self.place, capture_output=True, text=True, encoding="utf-8",
+            env=dict(os.environ, PYTHONIOENCODING="utf-8"),
+        )
+        self.assertEqual(result.returncode, 2)
+        self.assertIn("Daymix：", result.stderr)
+        self.assertNotIn("Traceback", result.stderr)
+
     def test_trigger_and_policy_stay_with_skill(self):
         text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
         for trigger in ("查看今日运势", "今日运势", "展开佛教", "展开道教", "查看塔罗", "查看易理", "查看星象", "展开现实复核", "全部展开"):

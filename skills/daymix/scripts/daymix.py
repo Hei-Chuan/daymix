@@ -40,6 +40,6 @@ def main():
             v=selected.make(today,a.timezone,person,weather,a.context)
             output=(selected.detail(v,a.expand)+'\n今日总结：'+v['summary']['text']) if a.expand else (json.dumps(v,ensure_ascii=False,indent=2) if a.format=='json' else selected.card(v))
         print(output);return 0
-    except (ValueError,RuntimeError,KeyError,AssertionError) as exc:
+    except (ValueError,RuntimeError,KeyError,AssertionError,OSError) as exc:
         print(f'Daymix：{exc}',file=sys.stderr);return 2
 if __name__=='__main__':sys.exit(main())

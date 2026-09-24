@@ -1,4 +1,4 @@
-> 历史档案：本文记录旧名 Wanxiangli / 万象历 v1，文内旧路径描述当时的版本；现行 Daymix 见 [README.md](README.md)。
+> 历史档案：本文记录旧名 Wanxiangli / 万象历 v1，文内旧路径描述当时的版本；现行 Daymix 见 [README.md](README.md) 与 [DESIGN.md](DESIGN.md)。
 
 # 万象历 v1：资料与技术调查
 

@@ -1,9 +1,12 @@
-# Daymix v2.2 research decisions
+# v2.2 迁移记录：Wanxiangli → Daymix
 
-**Date:** 2026-09-24. The prior [v2.1 record](RESEARCH_V2.md) documents the historical implementation and remains available as an archive. The [corpus report](CORPUS_COMPLETENESS.md) gives counts and source anomalies.
+> 历史变更记录（2026-09-24）。项目的**完整现行设计**请读 [DESIGN.md](DESIGN.md)；新增功能与修订按版本追加到 [CHANGELOG.md](CHANGELOG.md)。未来版本继续维护这两份稳定文档，不再按版本复制一份整体设计。
 
-1. **Source before interpretation.** The ancient sign pages are drawn from the [Wikisource table of contents](https://zh.wikisource.org/wiki/玄真靈應寶籤), which identifies the text as part of the *Zhengtong Daozang* Zhengyi section. Every entry keeps a revision ID and direct page URL. We retain its original heading and poem, but do not assert that the online transcription is a critical edition or that the book prescribes our deterministic daily draw. Four anomalies are marked rather than silently corrected.
-2. **Christian method and implementation.** [Moravian Archives](https://www.moravianchurcharchives.org/general/anniversary-of-moravian-daily-texts/) describes a selected Old Testament watchword and an accompanying New Testament passage. [The Moravian Church's introduction](https://www.moravian.org.uk/daily-watchwords/what-are-the-daily-watchwords) explains its living publication. Daymix's 40 fixed topic pairs are original editorial choices; its algorithm chooses one pair. It does not reproduce the church's annual sequence, imply affiliation, or present a private revelation.
-3. **Text rights.** [eBible](https://ebible.org/engwebp/copyright.htm) declares WEB public domain and protects its translation name as a trademark. We link to WEB verse pages, but the Chinese text is original paraphrase, not a Chinese WEB edition. Ancient source verses and page provenance are listed in the source registry; no modern website commentary or religious institution's copyrighted translation is bundled.
-4. **Versioning.** `legacy_v21.py` and v1 data remain frozen. New Daoist and Christian files have `-v2.2` suffixes. The v2.2 wrapper reuses stable Yi, tarot, astronomy, Buddhist, Stoic and reality methods, while switching the two corpora. Old schema `wanxiangli/2` and new schema `daymix/2` are accepted by the UI parser; new results use only `daymix/2`.
-5. **Scoring and reality.** The four signs still use the explicit -1/0/+1 editorial formula. Three lenses are never scored. Weather and other reality inputs never change original signs or rating, only effective actions and summary.
+相对 v2.1，本次迁移做了这些有版本边界的改变：
+
+1. 正式名称、Skill、CLI、Python 包、MCP 卡片和发布包改为 **Daymix · 今天呢**。旧 CLI、导入路径和 `wanxiangli/2` UI 读取路径保留作历史兼容；新结果使用 `daymix/2`。
+2. 道教抽取池由七条旧记录扩为维基文库目录的 **365 页签诗快照**。四页字段或录文异常有标注；全部页面尚未与影印本独立逐字校勘。历史诗文与项目原创日常反思分开存储。
+3. 基督宗教由 12 条旧约经节池改为 **40 组项目自编旧约—新约主题配对**。借鉴摩拉维亚每日经文的总体形式，不复制其官方年度序列；中文短述为项目原创。
+4. `cast_version`、`seed_version`、`data_version` 分开记录；v1 和 v2.1 旧引擎及语料保持冻结。四象评分、三镜不计分、现实只改有效行动，以及一次调用后的本地展开逻辑继续成立。
+
+精确数量、异常编号与核验口径见[语料报告](CORPUS_COMPLETENESS.md)；原典、软件、权利与未证之处见[现行设计](DESIGN.md)和[来源说明](SOURCES.md)。

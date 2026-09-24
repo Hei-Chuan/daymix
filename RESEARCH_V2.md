@@ -1,4 +1,4 @@
-> 历史档案：本文记录 v2.1 的资料与实现；v2.2 的现状见 [RESEARCH_V22.md](RESEARCH_V22.md) 与 [CORPUS_COMPLETENESS.md](CORPUS_COMPLETENESS.md)。
+> 历史档案：本文记录 v2.1 的资料与实现；现行整体设计见 [DESIGN.md](DESIGN.md)，v2.2 变更见 [RESEARCH_V22.md](RESEARCH_V22.md)。
 
 # 万象历 v2：机制、证据与限度
 

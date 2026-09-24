@@ -25,5 +25,12 @@ const none=[...doc.querySelectorAll('button')].find(b=>b.textContent==='全部�
 assert.equal(doc.querySelectorAll('details.panel[open]').length,0);
 assert.ok(writes>0);assert.equal(redraws,0);
 assert.equal(doc.querySelector('details[data-key=daoism] .inside p').textContent.includes(sample.four_signs.daoism.verse),true);
-console.log('UI: nine panels, local disclosure, all-open/closed, source content, widget state, mobile/dark CSS OK');
+const legacy=JSON.parse(execFileSync(python,['scripts/daymix.py','--engine','v2.1','--date','2026-09-23','--user-id','demo','--format','json'],{cwd:fileURLToPath(new URL('../',import.meta.url)),encoding:'utf8',env:{...process.env,PYTHONIOENCODING:'utf-8'}}));
+const oldDom=new JSDOM(html.replace(/<script type="module">[\s\S]*?<\/script>/,''),{url:'https://example.org/',runScripts:'outside-only',pretendToBeVisual:true});
+oldDom.window.openai={toolOutput:legacy,widgetState:{privateContent:{open:[]}},setWidgetState(){}};
+oldDom.window.eval(bundle);
+assert.equal(oldDom.window.document.querySelectorAll('details.panel').length,9);
+assert.ok(oldDom.window.document.body.textContent.includes(legacy.four_signs.daoism.verse));
+oldDom.window.close();
+console.log('UI: v2.2 and legacy v2.1 ledgers, nine panels, local disclosure, all-open/closed, source content, widget state, mobile/dark CSS OK');
 window.close();

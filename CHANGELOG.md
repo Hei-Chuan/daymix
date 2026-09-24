@@ -1,13 +1,20 @@
-# Changelog
+# 更新日志 / Changelog
+
+按版本记录新增与修正；连贯的当前设计统一维护在 [DESIGN.md](DESIGN.md)，不为每个新版本复制一份整体介绍。
 
 ## 2.2.0 · Daymix
+
+- 当前版本中文概览：正式名称改为「Daymix · 今天呢」，保留 v1/v2.1 历史复算；道教签页扩至 365 条、基督宗教内容扩至 40 组项目自编旧约—新约配对。四象评分、三镜反思、现实只改行动和一次调用的展开卡架构保持不变。具体核验限度见[语料报告](CORPUS_COMPLETENESS.md)。
 
 - Migrated the active Skill, Python package, CLI, MCP App, UI, manifests and release artifacts to Daymix · 今天呢.
 - Added a source-linked 365-sign historical snapshot and 40 fixed Old Testament–New Testament thematic pairs. Four sign-page anomalies are explicitly recorded.
 - Preserved v1 and v2.1 replay through frozen engines and data; v2.2 declares separate schema, cast, seed and data versions.
 - Kept the four-sign score, unscored three lenses, reality-only effective actions and one-call local UI disclosure.
 
+### 2026-09-24 文档与审视补充
 
+- 中文首页补齐现行项目介绍；整体机制统一维护在 `DESIGN.md`，旧版研究只保留版本变化，`README.zh-CN.md` 改为中文首页入口。
+- 说明完整结果的复现条件、天气输入的实际核验范围、语料校勘与网页录文的权利边界；缺失天气文件改为明确的 CLI 输入错误，并增加旧版 UI 展示测试。
 
 ## 2.0.0 (2026-09-23)
 

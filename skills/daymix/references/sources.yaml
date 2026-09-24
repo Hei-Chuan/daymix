@@ -27,11 +27,14 @@
   author: 传统归属周文王、周公等；成书层累
   year: 先秦，具体成书年代不确定
   source_url: https://zh.wikisource.org/wiki/周易
-  license: 古籍原文公有领域；网站编排依其使用条款
+  license: 古籍原文公有领域；维基文库网页贡献标示 CC BY-SA 4.0，适用范围须逐页核对
+  site_terms_url: https://zh.wikisource.org/wiki/Wikisource:版权信息
+  potential_contribution_license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  secondary_source_terms_url: https://ctext.org/tools/api
   copyright_status: ancient underlying work public domain
   retrieved_at: '2026-09-23'
   usage: bundled
-  notes: hexagrams.json 的 theme/tone 为项目原创；v2 的 zhouyi-text.json 另收古代卦辞和各卦六条爻辞，逐卦附 CText 来源链接。未收现代译文或网站评注，电子录文不等于额外内容的转载许可。
+  notes: hexagrams.json 的 theme/tone 为项目原创；v2 的 zhouyi-text.json 另收古代卦辞和各卦六条爻辞，逐卦附 CText 来源链接。未收现代译文或网站评注。CText API 说明提示使用限制，电子录文的数据使用条件与逐字底本核验仍需复核。
 - id: daodejing
   title: 道德经
   author: 传统归属老子
@@ -168,7 +171,9 @@
   period: 约元代或明初；撰人不详
   type: primary
   source_url: https://zh.wikisource.org/wiki/玄真靈應寶籤
-  license_status: 古籍原诗为公有领域；网页校录另标署名与条款
+  license_status: 古籍原诗为公有领域；维基文库网页贡献标示 CC BY-SA 4.0，适用范围须逐页核对
+  site_terms_url: https://zh.wikisource.org/wiki/Wikisource:版权信息
+  potential_contribution_license_url: https://creativecommons.org/licenses/by-sa/4.0/
   retrieved_at: '2026-09-24'
   usage: bundled
   notes: v2.2 的 verified-signs-v2.2.json 按维基文库目录收录365页古诗、原页修订号和字段异常；v2.1 的七条原封保存。4页有未核实异常，尚未和影印底本逐字校勘。十二时和五行是原书编排，并非本产品抽取仪轨。
