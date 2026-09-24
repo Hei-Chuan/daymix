@@ -29,7 +29,13 @@
 
 ### 40 组配对 QA（2026-09-24）
 
-本次重新遍历 40 组的主题、两端经节、转述与反思，确认仍为 40 个不同 ID、每组一旧约一新约、80 个可追溯的 WEB 地址；自动测试继续校验数量、字段及 URL 格式。对 [Joshua 1:9](https://ebible.org/engwebp/JOS01.htm#V9)、[Genesis 2:15](https://ebible.org/engwebp/GEN02.htm#V15) 和 [Romans 8:22](https://ebible.org/engwebp/ROM08.htm#V22) 等原文作重点复核后，记录两种编辑风险：`pair-013` 的励志式中文转述省略原文的上帝同在语境；`pair-026` 把园中“耕种与看守”和受造界叹息联为“照料创造”，属于项目主题解读，而非经文直接互引。保留配对与 v2.2 日签，待独立内容审稿时先处理这两组。其余配对的**逐组语义/神学审读尚未完成**；既有 80 个链接存在性检查不等于内容审定。
+本次用 eBible 发布的 [WEB 逐节纯文本包](https://ebible.org/Scriptures/engwebp_vpl.zip) 对照 40 组共 80 个引用位置：**80/80 节可定位**；并逐组阅读原文、中文转述、主题和反思。引用存在不等于转述准确。初审发现以下待处理项：
+
+- **经节与转述明显不合：** `pair-036` 引 [Galatians 5:22](https://ebible.org/engwebp/GAL05.htm#V22)，但中文所说的“温柔与节制”在 **5:23**；`pair-029` 把 [Matthew 5:6](https://ebible.org/engwebp/MAT05.htm#V6) 的“得饱足”写成“被看见”；`pair-012` 把 [Psalm 37:3](https://ebible.org/engwebp/PSA037.htm#V3) 的“安居其地、享用安稳牧场”写成“照看所居之地”，增添了原节没有的照料动作。这三处应在新的语料版本中优先修订。
+- **省略或改写原文信仰语境：** `pair-008` 把 [James 4:15](https://ebible.org/engwebp/JAS04.htm#V15) 的“若主愿意”改述为“未可控条件”；`pair-010`、`pair-013`、`pair-031`、`pair-039` 的转述分别弱化或略去原节中的上帝、上帝同在、赐新心、赐智慧等主语或对象。作为开放给不同读者的反思可以另写，但经节转述应忠于原文，并把应用与原文分开。
+- **主题属于项目联想：** `pair-026` 把 [Genesis 2:15](https://ebible.org/engwebp/GEN02.htm#V15) 的园中耕种与看守和 [Romans 8:22](https://ebible.org/engwebp/ROM08.htm#V22) 的受造界叹息联成“照料创造”；这不是经文之间的直接互引，应继续标作项目主题编选。
+
+上述是文本与主题初审，**不是独立神学专家审稿**。v2.2 语料和既有日签保持不变；修订必须另立 data/cast 版本并加入旧版复算测试，不能原地改写冻结的 `watchwords-v2.2.json`。
 
 ## 版本边界
 
