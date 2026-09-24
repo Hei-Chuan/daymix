@@ -7,8 +7,8 @@ from datetime import date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = ROOT / "skills" / "wanxiangli"
-spec = importlib.util.spec_from_file_location("wanxiangli_engine", SKILL / "wanxiangli/v1.py")
+SKILL = ROOT / "skills" / "daymix"
+spec = importlib.util.spec_from_file_location("wanxiangli_engine", SKILL / "daymix/v1.py")
 engine = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(engine)
 

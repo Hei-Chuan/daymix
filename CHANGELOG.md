@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.2.0 · Daymix
+
+- Migrated the active Skill, Python package, CLI, MCP App, UI, manifests and release artifacts to Daymix · 今天呢.
+- Added a source-linked 365-sign historical snapshot and 40 fixed Old Testament–New Testament thematic pairs. Four sign-page anomalies are explicitly recorded.
+- Preserved v1 and v2.1 replay through frozen engines and data; v2.2 declares separate schema, cast, seed and data versions.
+- Kept the four-sign score, unscored three lenses, reality-only effective actions and one-call local UI disclosure.
+
+
+
 ## 2.0.0 (2026-09-23)
 
 - The initial local v2 candidate permitted a one-stalk right heap; hanging that stalk left an empty heap. The finalized `cast_version` is `v2.1`, with nonempty heaps and unchanged seed domain for other channels. The repository's published v1 engine remains byte-for-byte stable.

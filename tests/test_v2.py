@@ -10,8 +10,8 @@ from datetime import date, timedelta
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-sys.path.insert(0,str(ROOT/'skills/wanxiangli'))
-from wanxiangli import engine, v1
+sys.path.insert(0,str(ROOT/'skills/daymix'))
+from daymix import legacy_v21 as engine, v1
 
 class V2Tests(unittest.TestCase):
     day=date(2026,9,23)

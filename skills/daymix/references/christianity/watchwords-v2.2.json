@@ -1,0 +1,802 @@
+[
+  {
+    "id": "pair-001",
+    "theme": "gentle speech",
+    "ot": {
+      "reference": "Proverbs 15:1",
+      "paraphrase": "温和的回答能缓和怒气。",
+      "source_url": "https://ebible.org/engwebp/PRO15.htm#V1"
+    },
+    "nt": {
+      "reference": "James 1:19",
+      "paraphrase": "先听清楚，再慢一点说、慢一点发火。",
+      "source_url": "https://ebible.org/engwebp/JAS01.htm#V19"
+    },
+    "reflection": "回应之前，先把对方的话听完。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-002",
+    "theme": "justice and mercy",
+    "ot": {
+      "reference": "Micah 6:8",
+      "paraphrase": "被要求的是行公义、爱怜悯、谦卑同行。",
+      "source_url": "https://ebible.org/engwebp/MIC06.htm#V8"
+    },
+    "nt": {
+      "reference": "Matthew 23:23",
+      "paraphrase": "公义、怜悯和信实不该被细枝末节遮住。",
+      "source_url": "https://ebible.org/engwebp/MAT23.htm#V23"
+    },
+    "reflection": "今天哪件小事能同时顾及公平和善意？",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-003",
+    "theme": "numbering days",
+    "ot": {
+      "reference": "Psalm 90:12",
+      "paraphrase": "求得一颗有智慧的心，能数算自己的日子。",
+      "source_url": "https://ebible.org/engwebp/PSA090.htm#V12"
+    },
+    "nt": {
+      "reference": "Ephesians 5:16",
+      "paraphrase": "珍惜眼前的时间。",
+      "source_url": "https://ebible.org/engwebp/EPH05.htm#V16"
+    },
+    "reflection": "把最重要的一步安排在今天。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-004",
+    "theme": "consider the path",
+    "ot": {
+      "reference": "Proverbs 4:26",
+      "paraphrase": "仔细想想脚下的路。",
+      "source_url": "https://ebible.org/engwebp/PRO04.htm#V26"
+    },
+    "nt": {
+      "reference": "Hebrews 12:13",
+      "paraphrase": "为脚下走的路预备平坦的方向。",
+      "source_url": "https://ebible.org/engwebp/HEB12.htm#V13"
+    },
+    "reflection": "今天能把哪一步走稳？",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-005",
+    "theme": "a season for things",
+    "ot": {
+      "reference": "Ecclesiastes 3:1",
+      "paraphrase": "每件事各有适合的时候。",
+      "source_url": "https://ebible.org/engwebp/ECC03.htm#V1"
+    },
+    "nt": {
+      "reference": "Galatians 6:9",
+      "paraphrase": "行善不要灰心，时候到了会有收获。",
+      "source_url": "https://ebible.org/engwebp/GAL06.htm#V9"
+    },
+    "reflection": "辨认现在适合开始、等待，还是休息。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-006",
+    "theme": "renewed strength",
+    "ot": {
+      "reference": "Isaiah 40:31",
+      "paraphrase": "等候与盼望的人可以重新得力。",
+      "source_url": "https://ebible.org/engwebp/ISA40.htm#V31"
+    },
+    "nt": {
+      "reference": "2 Corinthians 4:16",
+      "paraphrase": "外在会疲惫，内在仍可日日更新。",
+      "source_url": "https://ebible.org/engwebp/2CO04.htm#V16"
+    },
+    "reflection": "先照顾精力，再决定下一步。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-007",
+    "theme": "seek peace",
+    "ot": {
+      "reference": "Psalm 34:14",
+      "paraphrase": "离开恶事，寻求并追随和平。",
+      "source_url": "https://ebible.org/engwebp/PSA034.htm#V14"
+    },
+    "nt": {
+      "reference": "Romans 12:18",
+      "paraphrase": "如果可能，尽力与人和睦。",
+      "source_url": "https://ebible.org/engwebp/ROM12.htm#V18"
+    },
+    "reflection": "把可修复的一段关系放在心上。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-008",
+    "theme": "plans and direction",
+    "ot": {
+      "reference": "Proverbs 16:9",
+      "paraphrase": "人筹划道路，脚步仍会有别的引导。",
+      "source_url": "https://ebible.org/engwebp/PRO16.htm#V9"
+    },
+    "nt": {
+      "reference": "James 4:15",
+      "paraphrase": "计划未来时，承认事情也取决于未可控的条件。",
+      "source_url": "https://ebible.org/engwebp/JAS04.htm#V15"
+    },
+    "reflection": "留出一点应变空间。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-009",
+    "theme": "fair judgment",
+    "ot": {
+      "reference": "Zechariah 7:9",
+      "paraphrase": "审判要公正，也要怀怜悯与慈爱。",
+      "source_url": "https://ebible.org/engwebp/ZEC07.htm#V9"
+    },
+    "nt": {
+      "reference": "James 2:13",
+      "paraphrase": "怜悯在审判中有分量。",
+      "source_url": "https://ebible.org/engwebp/JAS02.htm#V13"
+    },
+    "reflection": "下结论前看看有没有遗漏的处境。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-010",
+    "theme": "stillness",
+    "ot": {
+      "reference": "Psalm 46:10",
+      "paraphrase": "停下来，承认自己并非能控制一切。",
+      "source_url": "https://ebible.org/engwebp/PSA046.htm#V10"
+    },
+    "nt": {
+      "reference": "Philippians 4:6",
+      "paraphrase": "忧虑时可以把所需带进祈祷。",
+      "source_url": "https://ebible.org/engwebp/PHP04.htm#V6"
+    },
+    "reflection": "让自己暂停一分钟，再处理手边的事。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-011",
+    "theme": "listen first",
+    "ot": {
+      "reference": "Proverbs 18:13",
+      "paraphrase": "还没听完就回答，显出轻率。",
+      "source_url": "https://ebible.org/engwebp/PRO18.htm#V13"
+    },
+    "nt": {
+      "reference": "James 1:19",
+      "paraphrase": "快快地听，慢慢地说。",
+      "source_url": "https://ebible.org/engwebp/JAS01.htm#V19"
+    },
+    "reflection": "先问清楚事实。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-012",
+    "theme": "do good",
+    "ot": {
+      "reference": "Psalm 37:3",
+      "paraphrase": "信靠并行善，安稳照看所居之地。",
+      "source_url": "https://ebible.org/engwebp/PSA037.htm#V3"
+    },
+    "nt": {
+      "reference": "Galatians 6:10",
+      "paraphrase": "有机会就向众人行善。",
+      "source_url": "https://ebible.org/engwebp/GAL06.htm#V10"
+    },
+    "reflection": "把关心落实为一件小事。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-013",
+    "theme": "courage",
+    "ot": {
+      "reference": "Joshua 1:9",
+      "paraphrase": "在前路不明时，仍可以坚定而勇敢。",
+      "source_url": "https://ebible.org/engwebp/JOS01.htm#V9"
+    },
+    "nt": {
+      "reference": "2 Timothy 1:7",
+      "paraphrase": "所赐的不是胆怯，而是能力、爱与自制。",
+      "source_url": "https://ebible.org/engwebp/2TI01.htm#V7"
+    },
+    "reflection": "把紧张拆成一个能完成的动作。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-014",
+    "theme": "compassion",
+    "ot": {
+      "reference": "Isaiah 58:10",
+      "paraphrase": "把心意给饥饿的人，顾及受苦的人。",
+      "source_url": "https://ebible.org/engwebp/ISA58.htm#V10"
+    },
+    "nt": {
+      "reference": "1 John 3:18",
+      "paraphrase": "爱不止于口头，也要在行动里显出。",
+      "source_url": "https://ebible.org/engwebp/1JN03.htm#V18"
+    },
+    "reflection": "留意身边谁需要实际帮助。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-015",
+    "theme": "fair wages",
+    "ot": {
+      "reference": "Deuteronomy 24:14",
+      "paraphrase": "不要欺压贫困的雇工。",
+      "source_url": "https://ebible.org/engwebp/DEU24.htm#V14"
+    },
+    "nt": {
+      "reference": "James 5:4",
+      "paraphrase": "被扣留的工钱会为受亏待者作证。",
+      "source_url": "https://ebible.org/engwebp/JAS05.htm#V4"
+    },
+    "reflection": "涉及他人劳动时，守住公平。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-016",
+    "theme": "welcome stranger",
+    "ot": {
+      "reference": "Leviticus 19:34",
+      "paraphrase": "像关心自己人一样善待寄居者。",
+      "source_url": "https://ebible.org/engwebp/LEV19.htm#V34"
+    },
+    "nt": {
+      "reference": "Hebrews 13:2",
+      "paraphrase": "不要忘记接待陌生人。",
+      "source_url": "https://ebible.org/engwebp/HEB13.htm#V2"
+    },
+    "reflection": "给不熟悉环境的人一点耐心。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-017",
+    "theme": "rest",
+    "ot": {
+      "reference": "Exodus 20:10",
+      "paraphrase": "安息日让家人与雇工等也有休息。",
+      "source_url": "https://ebible.org/engwebp/EXO20.htm#V10"
+    },
+    "nt": {
+      "reference": "Mark 2:27",
+      "paraphrase": "安息日是为人的益处设立。",
+      "source_url": "https://ebible.org/engwebp/MRK02.htm#V27"
+    },
+    "reflection": "今天有谁也需要休息？",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-018",
+    "theme": "hope in difficulty",
+    "ot": {
+      "reference": "Lamentations 3:22",
+      "paraphrase": "慈爱没有断绝，怜悯也未耗尽。",
+      "source_url": "https://ebible.org/engwebp/LAM03.htm#V22"
+    },
+    "nt": {
+      "reference": "Romans 15:13",
+      "paraphrase": "愿盼望带来喜乐与平安。",
+      "source_url": "https://ebible.org/engwebp/ROM15.htm#V13"
+    },
+    "reflection": "困难还在，也给自己留一条向前的路。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-019",
+    "theme": "wise counsel",
+    "ot": {
+      "reference": "Proverbs 11:14",
+      "paraphrase": "缺少指引时容易跌倒，众人的建议能帮忙。",
+      "source_url": "https://ebible.org/engwebp/PRO11.htm#V14"
+    },
+    "nt": {
+      "reference": "Acts 15:6",
+      "paraphrase": "使徒和长老聚在一起商议问题。",
+      "source_url": "https://ebible.org/engwebp/ACT15.htm#V6"
+    },
+    "reflection": "找一位可信的人核对想法。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-020",
+    "theme": "patience",
+    "ot": {
+      "reference": "Proverbs 14:29",
+      "paraphrase": "不急躁的人更能显出理解。",
+      "source_url": "https://ebible.org/engwebp/PRO14.htm#V29"
+    },
+    "nt": {
+      "reference": "Colossians 3:12",
+      "paraphrase": "穿上怜悯、谦卑与忍耐。",
+      "source_url": "https://ebible.org/engwebp/COL03.htm#V12"
+    },
+    "reflection": "遇到分歧先放慢语速。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-021",
+    "theme": "honesty",
+    "ot": {
+      "reference": "Proverbs 12:22",
+      "paraphrase": "虚假的言语令人厌弃，诚实可信。",
+      "source_url": "https://ebible.org/engwebp/PRO12.htm#V22"
+    },
+    "nt": {
+      "reference": "Ephesians 4:25",
+      "paraphrase": "放下谎言，彼此说真话。",
+      "source_url": "https://ebible.org/engwebp/EPH04.htm#V25"
+    },
+    "reflection": "把一个含糊承诺说清楚。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-022",
+    "theme": "generosity",
+    "ot": {
+      "reference": "Proverbs 19:17",
+      "paraphrase": "善待贫困者的举动有分量。",
+      "source_url": "https://ebible.org/engwebp/PRO19.htm#V17"
+    },
+    "nt": {
+      "reference": "2 Corinthians 9:7",
+      "paraphrase": "给予应出于甘心。",
+      "source_url": "https://ebible.org/engwebp/2CO09.htm#V7"
+    },
+    "reflection": "按自己的能力分享一份资源。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-023",
+    "theme": "humility",
+    "ot": {
+      "reference": "Proverbs 22:4",
+      "paraphrase": "谦卑与敬畏带来不同于骄傲的路。",
+      "source_url": "https://ebible.org/engwebp/PRO22.htm#V4"
+    },
+    "nt": {
+      "reference": "Philippians 2:3",
+      "paraphrase": "不要只争高低，学会看见他人。",
+      "source_url": "https://ebible.org/engwebp/PHP02.htm#V3"
+    },
+    "reflection": "今天在哪件事上可以少一点自我中心？",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-024",
+    "theme": "protect vulnerable",
+    "ot": {
+      "reference": "Psalm 82:3",
+      "paraphrase": "为弱小与无助者主持公正。",
+      "source_url": "https://ebible.org/engwebp/PSA082.htm#V3"
+    },
+    "nt": {
+      "reference": "Matthew 25:40",
+      "paraphrase": "经文把照顾这些最小的弟兄看得很重。",
+      "source_url": "https://ebible.org/engwebp/MAT25.htm#V40"
+    },
+    "reflection": "留意流程里被漏掉的人。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-025",
+    "theme": "truth and mercy",
+    "ot": {
+      "reference": "Psalm 85:10",
+      "paraphrase": "慈爱与诚实相遇，公义与和平相亲。",
+      "source_url": "https://ebible.org/engwebp/PSA085.htm#V10"
+    },
+    "nt": {
+      "reference": "Ephesians 4:15",
+      "paraphrase": "在爱中说真实的话。",
+      "source_url": "https://ebible.org/engwebp/EPH04.htm#V15"
+    },
+    "reflection": "说真话时也照顾对方能否听懂。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-026",
+    "theme": "care for creation",
+    "ot": {
+      "reference": "Genesis 2:15",
+      "paraphrase": "人被安置在园中耕种并看护。",
+      "source_url": "https://ebible.org/engwebp/GEN02.htm#V15"
+    },
+    "nt": {
+      "reference": "Romans 8:22",
+      "paraphrase": "受造界也在叹息。",
+      "source_url": "https://ebible.org/engwebp/ROM08.htm#V22"
+    },
+    "reflection": "减少一个本可避免的浪费。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-027",
+    "theme": "not alone",
+    "ot": {
+      "reference": "Ecclesiastes 4:9",
+      "paraphrase": "两个人彼此相助，劳作更有收获。",
+      "source_url": "https://ebible.org/engwebp/ECC04.htm#V9"
+    },
+    "nt": {
+      "reference": "Galatians 6:2",
+      "paraphrase": "彼此分担重担。",
+      "source_url": "https://ebible.org/engwebp/GAL06.htm#V2"
+    },
+    "reflection": "有困难时主动说明需要什么帮助。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-028",
+    "theme": "open hand",
+    "ot": {
+      "reference": "Deuteronomy 15:11",
+      "paraphrase": "面对有缺乏的人，要把手打开。",
+      "source_url": "https://ebible.org/engwebp/DEU15.htm#V11"
+    },
+    "nt": {
+      "reference": "Acts 20:35",
+      "paraphrase": "耶稣的话在这里被引作提醒：给予比领受更有福。",
+      "source_url": "https://ebible.org/engwebp/ACT20.htm#V35"
+    },
+    "reflection": "给需要的人一份具体支持。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-029",
+    "theme": "justice like water",
+    "ot": {
+      "reference": "Amos 5:24",
+      "paraphrase": "愿公平与正义像不断的水流。",
+      "source_url": "https://ebible.org/engwebp/AMO05.htm#V24"
+    },
+    "nt": {
+      "reference": "Matthew 5:6",
+      "paraphrase": "渴望公义的人被看见。",
+      "source_url": "https://ebible.org/engwebp/MAT05.htm#V6"
+    },
+    "reflection": "遇到不公时，从能核实的一点做起。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-030",
+    "theme": "walk carefully",
+    "ot": {
+      "reference": "Psalm 119:105",
+      "paraphrase": "话语像脚前的灯，照亮眼前一步。",
+      "source_url": "https://ebible.org/engwebp/PSA119.htm#V105"
+    },
+    "nt": {
+      "reference": "John 8:12",
+      "paraphrase": "耶稣以世界之光自称，并呼唤人跟随。",
+      "source_url": "https://ebible.org/engwebp/JHN08.htm#V12"
+    },
+    "reflection": "先看清最近的一步。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-031",
+    "theme": "new heart",
+    "ot": {
+      "reference": "Ezekiel 36:26",
+      "paraphrase": "改变可以从心里重新开始。",
+      "source_url": "https://ebible.org/engwebp/EZK36.htm#V26"
+    },
+    "nt": {
+      "reference": "2 Corinthians 5:17",
+      "paraphrase": "保罗说，在基督里旧的过去，新的已经来到。",
+      "source_url": "https://ebible.org/engwebp/2CO05.htm#V17"
+    },
+    "reflection": "旧习惯里有没有一处可调整？",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-032",
+    "theme": "kindness",
+    "ot": {
+      "reference": "Proverbs 31:26",
+      "paraphrase": "有智慧的话语，也有仁慈的教导。",
+      "source_url": "https://ebible.org/engwebp/PRO31.htm#V26"
+    },
+    "nt": {
+      "reference": "Colossians 4:6",
+      "paraphrase": "说话可以温和而得体。",
+      "source_url": "https://ebible.org/engwebp/COL04.htm#V6"
+    },
+    "reflection": "把一句建议说得更体贴。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-033",
+    "theme": "quiet trust",
+    "ot": {
+      "reference": "Isaiah 30:15",
+      "paraphrase": "安静与信靠中也有力量。",
+      "source_url": "https://ebible.org/engwebp/ISA30.htm#V15"
+    },
+    "nt": {
+      "reference": "1 Peter 5:7",
+      "paraphrase": "可以把忧虑交托出去。",
+      "source_url": "https://ebible.org/engwebp/1PE05.htm#V7"
+    },
+    "reflection": "先停止无效地反复担心。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-034",
+    "theme": "repair",
+    "ot": {
+      "reference": "Isaiah 1:17",
+      "paraphrase": "学习行善，纠正欺压，保护弱者。",
+      "source_url": "https://ebible.org/engwebp/ISA01.htm#V17"
+    },
+    "nt": {
+      "reference": "Luke 19:8",
+      "paraphrase": "承认亏欠后可以作出具体补偿。",
+      "source_url": "https://ebible.org/engwebp/LUK19.htm#V8"
+    },
+    "reflection": "把道歉接上一项修正行动。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-035",
+    "theme": "faithfulness",
+    "ot": {
+      "reference": "Psalm 15:2",
+      "paraphrase": "正直行事，心里说诚实话。",
+      "source_url": "https://ebible.org/engwebp/PSA015.htm#V2"
+    },
+    "nt": {
+      "reference": "Matthew 5:37",
+      "paraphrase": "让是与不是清楚可信。",
+      "source_url": "https://ebible.org/engwebp/MAT05.htm#V37"
+    },
+    "reflection": "今天把答应的事落实。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-036",
+    "theme": "gentleness",
+    "ot": {
+      "reference": "Proverbs 16:32",
+      "paraphrase": "能约束怒气，胜过逞一时之勇。",
+      "source_url": "https://ebible.org/engwebp/PRO16.htm#V32"
+    },
+    "nt": {
+      "reference": "Galatians 5:22",
+      "paraphrase": "温柔与节制是值得操练的品格。",
+      "source_url": "https://ebible.org/engwebp/GAL05.htm#V22"
+    },
+    "reflection": "先停一拍再回复。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-037",
+    "theme": "solidarity",
+    "ot": {
+      "reference": "Ruth 1:16",
+      "paraphrase": "路途艰难时仍愿彼此同行。",
+      "source_url": "https://ebible.org/engwebp/RUT01.htm#V16"
+    },
+    "nt": {
+      "reference": "Romans 12:15",
+      "paraphrase": "与喜乐的人同乐，与哭泣的人同哭。",
+      "source_url": "https://ebible.org/engwebp/ROM12.htm#V15"
+    },
+    "reflection": "陪伴时先听对方真正需要什么。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-038",
+    "theme": "gratitude",
+    "ot": {
+      "reference": "Psalm 107:1",
+      "paraphrase": "为持续的慈爱表达感谢。",
+      "source_url": "https://ebible.org/engwebp/PSA107.htm#V1"
+    },
+    "nt": {
+      "reference": "1 Thessalonians 5:18",
+      "paraphrase": "在各种处境中练习感恩。",
+      "source_url": "https://ebible.org/engwebp/1TH05.htm#V18"
+    },
+    "reflection": "记下一件真实值得感谢的小事。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-039",
+    "theme": "wisdom",
+    "ot": {
+      "reference": "Proverbs 2:6",
+      "paraphrase": "智慧与理解值得寻求。",
+      "source_url": "https://ebible.org/engwebp/PRO02.htm#V6"
+    },
+    "nt": {
+      "reference": "James 1:5",
+      "paraphrase": "缺少智慧时可以坦诚地求。",
+      "source_url": "https://ebible.org/engwebp/JAS01.htm#V5"
+    },
+    "reflection": "不懂的事先去查证。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  },
+  {
+    "id": "pair-040",
+    "theme": "shelter",
+    "ot": {
+      "reference": "Psalm 91:2",
+      "paraphrase": "用庇护和信靠的语言表达安稳。",
+      "source_url": "https://ebible.org/engwebp/PSA091.htm#V2"
+    },
+    "nt": {
+      "reference": "Matthew 11:28",
+      "paraphrase": "疲惫的人被邀请得到安歇。",
+      "source_url": "https://ebible.org/engwebp/MAT11.htm#V28"
+    },
+    "reflection": "给自己找一个可靠的支持点。",
+    "pairing": "Daymix 编选的主题呼应；不属于摩拉维亚教会官方配对。",
+    "source_ids": [
+      "web",
+      "moravian"
+    ]
+  }
+]

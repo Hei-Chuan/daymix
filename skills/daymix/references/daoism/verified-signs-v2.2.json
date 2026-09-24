@@ -1,0 +1,5850 @@
+[
+  {
+    "number": 1,
+    "id": "xz-001",
+    "historical": {
+      "label": "子時第一",
+      "title": "風雲慶會",
+      "grade": "上上",
+      "verse": "喜遇昇平日，加官誥命封。前程無限好，仙女跨飛龍。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334274,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 2,
+    "id": "xz-002",
+    "historical": {
+      "label": "子時第二",
+      "title": "騰達有望",
+      "grade": "上上",
+      "verse": "青年人物好，智識勝蕭何。謀事探如意，眉濡喜色多。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334275,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 3,
+    "id": "xz-003",
+    "historical": {
+      "label": "子時第三",
+      "title": "謹守勿失",
+      "grade": "中平",
+      "verse": "任使鷹鸇逐，防他虎豹威。簡居君子道，何處覓閑非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334276,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 4,
+    "id": "xz-004",
+    "historical": {
+      "label": "子時第四",
+      "title": "待時必捷",
+      "grade": "中平",
+      "verse": "千里一將軍，奇謀藏未伸。浪高雲捲處，血染戰袍新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334277,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 5,
+    "id": "xz-005",
+    "historical": {
+      "label": "子時第五",
+      "title": "望事難成",
+      "grade": "下下",
+      "verse": "有口笑葫蘆，求名費遠圖，水萍空浪泛，何日達天衢。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334278,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 6,
+    "id": "xz-006",
+    "historical": {
+      "label": "子時第六",
+      "title": "親好兩同",
+      "grade": "上上",
+      "verse": "風流王謝家，秦晉各爭誇。自是吹簫客，好簪嗚鳳花。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334279,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 7,
+    "id": "xz-007",
+    "historical": {
+      "label": "子時第七",
+      "title": "重疊有喜",
+      "grade": "上上",
+      "verse": "蓮幕既初開，重登錦上臺。慶他龍虎會，傑出間生才。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334280,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 8,
+    "id": "xz-008",
+    "historical": {
+      "label": "子時第八",
+      "title": "更改則吉",
+      "grade": "中平",
+      "verse": "局促更何為，和融喜入時。任機隨處好，高下穩行之。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334281,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 9,
+    "id": "xz-009",
+    "historical": {
+      "label": "子時第九",
+      "title": "事多奸充",
+      "grade": "下下",
+      "verse": "一女既相逢，那堪二女通。柢因隨處礙，應使浪生風。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334282,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 10,
+    "id": "xz-010",
+    "historical": {
+      "label": "子時第十",
+      "title": "內外和同",
+      "grade": "上上",
+      "verse": "姻婭既相通，朋簪臭味同。魚書傳尺素，留得幾家風。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334283,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 11,
+    "id": "xz-011",
+    "historical": {
+      "label": "子時第十一",
+      "title": "守否方泰",
+      "grade": "中平",
+      "verse": "剝盡復方生，時通路有亨。謹身應不失，狂妄莫重行。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334284,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 12,
+    "id": "xz-012",
+    "historical": {
+      "label": "子時第十二",
+      "title": "所求阻隔",
+      "grade": "下下",
+      "verse": "久客無歸路，津梁又失時。望鄉臺上立，何見免嶇崎。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334285,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 13,
+    "id": "xz-013",
+    "historical": {
+      "label": "子時第十三",
+      "title": "前程大吉",
+      "grade": "上上",
+      "verse": "雲散月重明，風恬浪不生。岸高船自濟，撫掌一家榮。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334286,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 14,
+    "id": "xz-014",
+    "historical": {
+      "label": "子時第十四",
+      "title": "占信有望",
+      "grade": "上上",
+      "verse": "燈結數層花，池蓮發異葩。柢因和氣溢，佳信落天涯。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334287,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 15,
+    "id": "xz-015",
+    "historical": {
+      "label": "子時十五",
+      "title": "望外小喜",
+      "grade": "上上",
+      "verse": "幸結殘花實，喜生枯樹枝。偶然春意在，雙喜笑來遲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334288,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 16,
+    "id": "xz-016",
+    "historical": {
+      "label": "子時第十六",
+      "title": "大宜進望",
+      "grade": "上上",
+      "verse": "桂子十分香，瓊瑤映碧堂。更加風力便，攀附看翱翔。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334289,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 17,
+    "id": "xz-017",
+    "historical": {
+      "label": "子時第十七",
+      "title": "圖名遂意",
+      "grade": "上上",
+      "verse": "風激上青霄，鵬搏六翩秋。尺書雲外至，一舉占鼇頭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334290,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 18,
+    "id": "xz-018",
+    "historical": {
+      "label": "子時第十八",
+      "title": "先滯後成",
+      "grade": "中平",
+      "verse": "後笑必先眺，寧無損一毫。度舟應有濟，江穩絕風濤。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334291,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 19,
+    "id": "xz-019",
+    "historical": {
+      "label": "子時第十九",
+      "title": "占福有餘",
+      "grade": "上上",
+      "verse": "利劍若吹毛，雲高山亦高。此身無障礙，食息豈辭勞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334292,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 20,
+    "id": "xz-020",
+    "historical": {
+      "label": "子時第二十",
+      "title": "危迫無成",
+      "grade": "下下",
+      "verse": "牛後尾分岐，那堪鷄口悲。望人人不見，回首事應遲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E7%AC%AC%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334293,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 21,
+    "id": "xz-021",
+    "historical": {
+      "label": "子時二十一",
+      "title": "望信兩失",
+      "grade": "下下",
+      "verse": "無情恨食言，風險又無船，日暗應迷路，煙雲遮碧天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334294,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 22,
+    "id": "xz-022",
+    "historical": {
+      "label": "子時二十二",
+      "title": "向進通達",
+      "grade": "上上",
+      "verse": "秋月十分圓，雲開光滿川。家家渾不礙，江映一青天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334295,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 23,
+    "id": "xz-023",
+    "historical": {
+      "label": "子時二十三",
+      "title": "勞心事成",
+      "grade": "中平",
+      "verse": "礦盡見真金，苗長識土探，青雲終有路，休恩苦勞心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334296,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 24,
+    "id": "xz-024",
+    "historical": {
+      "label": "子時二十四",
+      "title": "無欺有望",
+      "grade": "中平",
+      "verse": "月被浮雲暗，鑑猶塵土侵。若交無障礙，清卻一丹心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334297,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 25,
+    "id": "xz-025",
+    "historical": {
+      "label": "子時二十五",
+      "title": "謀財有成",
+      "grade": "上上",
+      "verse": "珠玉富囊中，財糧亦自通。不資人力助，其德日無窮。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334298,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 26,
+    "id": "xz-026",
+    "historical": {
+      "label": "子時二十六",
+      "title": "用事有成",
+      "grade": "上上",
+      "verse": "培壅積年功，風雲要發蹤。共開龍虎道，何日不侯封。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334299,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 27,
+    "id": "xz-027",
+    "historical": {
+      "label": "子時二十七",
+      "title": "官事而解",
+      "grade": "中平",
+      "verse": "官事恐悠悠，淹留幾月休。但存公直理，方得免憂囚。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334300,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 28,
+    "id": "xz-028",
+    "historical": {
+      "label": "子時二十八",
+      "title": "自執不通",
+      "grade": "下下",
+      "verse": "強弱謾紛紛，崎嶇獨掩門。幽閑無活路，飢餓任黃昏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334301,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 29,
+    "id": "xz-029",
+    "historical": {
+      "label": "子時二十九",
+      "title": "百事未遂",
+      "grade": "下下",
+      "verse": "船礙石中波，徒行驚渡河。雲高山亦險，愁寂奈情何。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334302,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 30,
+    "id": "xz-030",
+    "historical": {
+      "label": "子時三十",
+      "title": "祈福免災",
+      "grade": "中平",
+      "verse": "自有菩提路，家家香火緣，欲逃羅網厄，疏朗一青天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AD%90%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334303,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 31,
+    "id": "xz-031",
+    "historical": {
+      "label": "丑時第一",
+      "title": "求之必得",
+      "grade": "中平",
+      "verse": "得失自茫茫，閑愁慮更長。莫辭勤著意，金玉再盈箱。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334304,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 32,
+    "id": "xz-032",
+    "historical": {
+      "label": "丑時第二",
+      "title": "事與心契",
+      "grade": "中平",
+      "verse": "紅綠為留春，佳人情更親。按頭香未斷，歌笑草中茵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334305,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 33,
+    "id": "xz-033",
+    "historical": {
+      "label": "丑時第三",
+      "title": "名職改遷",
+      "grade": "上上",
+      "verse": "閬苑一時春，庭前花柳新。市城皆好語，草本亦欣欣。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334306,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 34,
+    "id": "xz-034",
+    "historical": {
+      "label": "丑時第四",
+      "title": "財帛見喜",
+      "grade": "上上",
+      "verse": "憶昔傷時態，今朝花草春。稻糧隨處足，瓜李一時新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334307,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 35,
+    "id": "xz-035",
+    "historical": {
+      "label": "丑時第五",
+      "title": "病患臨身",
+      "grade": "下下",
+      "verse": "天災未可祈，力困豈能支。三蟲昂首立，非血不成悲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334308,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 36,
+    "id": "xz-036",
+    "historical": {
+      "label": "丑時第六",
+      "title": "小小見喜",
+      "grade": "中平",
+      "verse": "疏散任情真，花間謾染身。笑吟燈燭夜，樽俎客相親。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334309,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 37,
+    "id": "xz-037",
+    "historical": {
+      "label": "丑時第七",
+      "title": "謹事小成",
+      "grade": "上上",
+      "verse": "莫愁空浪心，去去不消沉。幸自逢時變，珍良喜獲金。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334310,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 38,
+    "id": "xz-038",
+    "historical": {
+      "label": "丑時第八",
+      "title": "藥石無效",
+      "grade": "下下",
+      "verse": "探病入膏肓，難施扁鵲方。藥石非苦口，千里一難當。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334311,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 39,
+    "id": "xz-039",
+    "historical": {
+      "label": "丑時第九",
+      "title": "冤結不解",
+      "grade": "下下",
+      "verse": "秪為生荊棘，豺狼及子孫。一庭燈燭夜，灰冷半星存。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334312,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 40,
+    "id": "xz-040",
+    "historical": {
+      "label": "丑時第十",
+      "title": "倍獲厚利",
+      "grade": "上上",
+      "verse": "水高船自高，應手未嘗勞。已覺多多辦，誰能較爾曹。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334313,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 41,
+    "id": "xz-041",
+    "historical": {
+      "label": "丑時十一",
+      "title": "大宜遷擢",
+      "grade": "上上",
+      "verse": "不是文章貴，安知望外遷。若論清要地，身近紫薇垣。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334314,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 42,
+    "id": "xz-042",
+    "historical": {
+      "label": "丑時十二",
+      "title": "有虛無實",
+      "grade": "下下",
+      "verse": "無形空抱影，平地生贅疣。羈絆從我出，何日消百憂。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334315,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 43,
+    "id": "xz-043",
+    "historical": {
+      "label": "丑時第十三",
+      "title": "久困漸安",
+      "grade": "中平",
+      "verse": "困龍久蟠泥，山低虎徑迷。漸攀雲霧出，紅日未平西。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E7%AC%AC%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334316,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 44,
+    "id": "xz-044",
+    "historical": {
+      "label": "丑時十四",
+      "title": "旅隔不堪",
+      "grade": "下下",
+      "verse": "多病幾時甦，煙波隔遠途。馬疲人又困，殘日嘯猿狐。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334317,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 45,
+    "id": "xz-045",
+    "historical": {
+      "label": "丑時十五",
+      "title": "貴人扶助",
+      "grade": "上上",
+      "verse": "一箭降清霄，途行逢馬牛。輪車通寶貨，風急送行舟。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334318,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 46,
+    "id": "xz-046",
+    "historical": {
+      "label": "丑時十六",
+      "title": "進退兩得",
+      "grade": "上上",
+      "verse": "一馬過前山，金烏照遠關。高低無阻礙，歌舞映容顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334319,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 47,
+    "id": "xz-047",
+    "historical": {
+      "label": "丑時十七",
+      "title": "前程失望",
+      "grade": "下下",
+      "verse": "大雅何時見，斯文幾日亨。秪因愁白首，捫腹困諸生。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334320,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 48,
+    "id": "xz-048",
+    "historical": {
+      "label": "丑時十八",
+      "title": "安靜有得",
+      "grade": "中平",
+      "verse": "安分第一機，方識靜中暮。莫滯心頭鑑，從他細管窺。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334321,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 49,
+    "id": "xz-049",
+    "historical": {
+      "label": "丑時十九",
+      "title": "作為暗昧",
+      "grade": "下下",
+      "verse": "佳人恨掩門，情隔不相通。進退全無托，難尋正路蹤。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334322,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 50,
+    "id": "xz-050",
+    "historical": {
+      "label": "丑時二十",
+      "title": "失事無成",
+      "grade": "下下",
+      "verse": "身在急難中，猶誇意氣濃。笑他無活路，人鬼怒相攻。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334323,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 51,
+    "id": "xz-051",
+    "historical": {
+      "label": "丑時二十一",
+      "title": "意外有喜",
+      "grade": "上上",
+      "verse": "雲外降天書，門多長旨車。香添蘭室味，携手入蟾蜍。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334324,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 52,
+    "id": "xz-052",
+    "historical": {
+      "label": "丑時二十二",
+      "title": "人財遂意",
+      "grade": "上上",
+      "verse": "寶玉貴珍藏，年年粳稻香。翠陰千里綠，桃李自成行。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334325,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 53,
+    "id": "xz-053",
+    "historical": {
+      "label": "丑時二十三",
+      "title": "聽時必達",
+      "grade": "中平",
+      "verse": "有物未周旋，生涯難復艱。天時任消息，何地不閑閑。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334326,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 54,
+    "id": "xz-054",
+    "historical": {
+      "label": "丑時二十四",
+      "title": "終有所濟",
+      "grade": "中平",
+      "verse": "久旱欲焦枯，田園半有無。井泉從地出，當看澤來甦。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334327,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 55,
+    "id": "xz-055",
+    "historical": {
+      "label": "丑時二十五",
+      "title": "灾去吉來",
+      "grade": "上上",
+      "verse": "花發又花殘，悲歡一半顏。十分留晚景，新意到人間。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334328,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 56,
+    "id": "xz-056",
+    "historical": {
+      "label": "丑時二十六",
+      "title": "諸事漸亨",
+      "grade": "中平",
+      "verse": "祈福可偷安，隨緣意自寬。門庭香火供，無事也清歡。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334329,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 57,
+    "id": "xz-057",
+    "historical": {
+      "label": "丑時二十七",
+      "title": "平平",
+      "grade": "有得",
+      "verse": "生涯付倘來，顏笑逐時開。隨分春臺樂，天然獲寶財。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334330,
+      "uncertainty": [
+        "源页品第写法异于常见分级；原样保留，不推断象征分值。"
+      ]
+    }
+  },
+  {
+    "number": 58,
+    "id": "xz-058",
+    "historical": {
+      "label": "丑時二十八",
+      "title": "望事羈賽",
+      "grade": "下下",
+      "verse": "人老又蹉跎，剛須口吻多。平地猶有觸，動得鬼神呵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334331,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 59,
+    "id": "xz-059",
+    "historical": {
+      "label": "丑時二十九",
+      "title": "忙失故道",
+      "grade": "下下",
+      "verse": "心折已堪傷，窮途暮復長。望人人不助，知有幾回腸。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334332,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 60,
+    "id": "xz-060",
+    "historical": {
+      "label": "丑時三十",
+      "title": "所求稱心",
+      "grade": "上上",
+      "verse": "青牛負寶財，良馬出龍胎。異夢生英傑，翔飛應上台。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%B8%91%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334333,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 61,
+    "id": "xz-061",
+    "historical": {
+      "label": "寅時第一",
+      "title": "非常之遇",
+      "grade": "上上",
+      "verse": "不是飛蓬客，新開天上雄。凌煙倍聲價，華寵揖三公。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334334,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 62,
+    "id": "xz-062",
+    "historical": {
+      "label": "寅時第二",
+      "title": "勢孤援寡",
+      "grade": "下下",
+      "verse": "鼎沸若狂波，孤舟要渡河。異鄉無故友，人事拂天和。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334335,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 63,
+    "id": "xz-063",
+    "historical": {
+      "label": "寅時第三",
+      "title": "小人道長",
+      "grade": "下下",
+      "verse": "冰霜寒裂膚，戎馬困長途。患深蜂蔓毒，秪自歎泥塗。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334336,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 64,
+    "id": "xz-064",
+    "historical": {
+      "label": "寅時第四",
+      "title": "君子道消",
+      "grade": "下下",
+      "verse": "否剝數時窮，陰陽窒不通。獨謀寧獲助，紅日蝕長空。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334337,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 65,
+    "id": "xz-065",
+    "historical": {
+      "label": "寅時第五",
+      "title": "小事契心",
+      "grade": "中平",
+      "verse": "胡越可為家，芝蘭味更佳。雖無霜雪幹，且喜傍墻花。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334338,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 66,
+    "id": "xz-066",
+    "historical": {
+      "label": "寅時第六",
+      "title": "改故則吉",
+      "grade": "中平",
+      "verse": "業垢礙前程，好邪事不成。但存公直理，咫尺契神明。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334339,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 67,
+    "id": "xz-067",
+    "historical": {
+      "label": "寅時第七",
+      "title": "奮躍亨衢",
+      "grade": "上上",
+      "verse": "珍藏幾年功，一夕氣吐虹。北斗寒無翳，請看三天鋒。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334340,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 68,
+    "id": "xz-068",
+    "historical": {
+      "label": "寅時第八",
+      "title": "先悲後吉",
+      "grade": "中平",
+      "verse": "春風雖未濃，空想舊顏容。直待秋雲捲，日明重又重。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334341,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 69,
+    "id": "xz-069",
+    "historical": {
+      "label": "寅時第九",
+      "title": "內外失助",
+      "grade": "下下",
+      "verse": "居家睽六親，作物又妨身。動搖不自得，舊跡幾時新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334342,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 70,
+    "id": "xz-070",
+    "historical": {
+      "label": "寅時第十",
+      "title": "人財不安",
+      "grade": "下下",
+      "verse": "有慮親鄰隔，無財力漸疲。強生分別路，何處覓平夷。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334343,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 71,
+    "id": "xz-071",
+    "historical": {
+      "label": "寅時十一",
+      "title": "驚憂失宜",
+      "grade": "下下",
+      "verse": "龍臥明珠失，虎行人跡空。何時得安枕，驚慘夕陽中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334344,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 72,
+    "id": "xz-072",
+    "historical": {
+      "label": "寅時十二",
+      "title": "騰達有望",
+      "grade": "上上",
+      "verse": "高攀龍鳳姿，豈似鹪鷯兒。平地皆煙雨，一夕游天池。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334345,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 73,
+    "id": "xz-073",
+    "historical": {
+      "label": "寅時十三",
+      "title": "望用得財",
+      "grade": "上上",
+      "verse": "一着已先機，暮分黑白圍，大江逢好渡，展翼卻高飛。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334346,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 74,
+    "id": "xz-074",
+    "historical": {
+      "label": "寅時十四",
+      "title": "先虛後實",
+      "grade": "上上",
+      "verse": "雷發震天衢，陰雲密不舒。忽然膏雨至，霈澤領天書。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334347,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 75,
+    "id": "xz-075",
+    "historical": {
+      "label": "寅時十五",
+      "title": "人事不和",
+      "grade": "下下",
+      "verse": "樽酒謾追隨，花問爭是非。解冤冤未解，爭柰小人欺。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334348,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 76,
+    "id": "xz-076",
+    "historical": {
+      "label": "寅時十六",
+      "title": "事慮非厄",
+      "grade": "下下",
+      "verse": "屋裹慮添蛇，馬嘶空自嗟。炎炎煙火地，紅日障量買遮。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334349,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 77,
+    "id": "xz-077",
+    "historical": {
+      "label": "寅時十七",
+      "title": "漸收天信",
+      "grade": "上上",
+      "verse": "離亭久索居，雲隔鳴來書。昨夜燈花結，明朝引玉琚。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334350,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 78,
+    "id": "xz-078",
+    "historical": {
+      "label": "寅時十八",
+      "title": "往而獲吉",
+      "grade": "上上",
+      "verse": "欲速尚遲遲，投機自釋疑。綠深溪岸穩，何處不相宜。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334351,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 79,
+    "id": "xz-079",
+    "historical": {
+      "label": "寅時十九",
+      "title": "事無疑礙",
+      "grade": "上上",
+      "verse": "玉鑑塵無染，金刀利可裁。天然成美事，爭得惹塵埃。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334353,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 80,
+    "id": "xz-080",
+    "historical": {
+      "label": "寅時二十",
+      "title": "臨事疑滯",
+      "grade": "下下",
+      "verse": "隔岸聞嗚烏，道途隔幾灘。神呵猶自笑，無路到仙壇。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334354,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 81,
+    "id": "xz-081",
+    "historical": {
+      "label": "寅時二十一",
+      "title": "失財不律",
+      "grade": "下下",
+      "verse": "多聚還多失，尋財事更遲。歸有如醉夢，閑慮卻愁思。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334355,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 82,
+    "id": "xz-082",
+    "historical": {
+      "label": "寅時二十二",
+      "title": "人財虧損",
+      "grade": "下下",
+      "verse": "烏飛不可追，雲雨暗垂垂。尋真還失路，何處不堪悲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334356,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 83,
+    "id": "xz-083",
+    "historical": {
+      "label": "寅時二十三",
+      "title": "晚既可望",
+      "grade": "中平",
+      "verse": "鐵硯費研磨，淹留爭奈何。帆開秋漲闊，牛女渡銀河。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334357,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 84,
+    "id": "xz-084",
+    "historical": {
+      "label": "寅時二十四",
+      "title": "遇知見喜",
+      "grade": "上上",
+      "verse": "久久困泥沙，星金散作花。借他良匠手，鼓舞出黃芽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334358,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 85,
+    "id": "xz-085",
+    "historical": {
+      "label": "寅時二十五",
+      "title": "作用通快",
+      "grade": "上上",
+      "verse": "青雲年少功，壯氣常凌空。用事己得時，高飛出樊籠。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334359,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 86,
+    "id": "xz-086",
+    "historical": {
+      "label": "寅時二十六",
+      "title": "事過空亡",
+      "grade": "下下",
+      "verse": "敗北不堪論，山高日又昏。馬奔人失望，煙火一家村。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334360,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 87,
+    "id": "xz-087",
+    "historical": {
+      "label": "寅時二十七",
+      "title": "病患臨身",
+      "grade": "下下",
+      "verse": "夢想更添愁，無情人更憂。何時尋勿藥，回首幾經秋。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334361,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 88,
+    "id": "xz-088",
+    "historical": {
+      "label": "寅時二十八",
+      "title": "恬退可保",
+      "grade": "下下",
+      "verse": "安分方成泰，奔波必遇迍。屈伸知有道，喜入笑眉顰。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334362,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 89,
+    "id": "xz-089",
+    "historical": {
+      "label": "寅時二十九",
+      "title": "小有知音",
+      "grade": "中平",
+      "verse": "庭外已虛心，忽聞鸞鳳音。斷金知有意，當認伯牙琴。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334363,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 90,
+    "id": "xz-090",
+    "historical": {
+      "label": "寅時三十",
+      "title": "功名際會",
+      "grade": "上上",
+      "verse": "朝遊荷花湖，夕上凌煙閣。壯志歌此行，馬蹄侵日角。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%AF%85%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334364,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 91,
+    "id": "xz-091",
+    "historical": {
+      "label": "卯時第一",
+      "title": "勞心有望",
+      "grade": "上上",
+      "verse": "羊腸危百結，世路實多艱，祿馬相逢處，雲霄可自攀。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334365,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 92,
+    "id": "xz-092",
+    "historical": {
+      "label": "卯時第二",
+      "title": "再求有望",
+      "grade": "中平",
+      "verse": "重整亂線頭，新修急峽舟。若逢春後澤，花柳一時抽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334366,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 93,
+    "id": "xz-093",
+    "historical": {
+      "label": "卯時第三",
+      "title": "事防重疊",
+      "grade": "中平",
+      "verse": "心緒亂如麻，浪看花後花。何時勤拂拭，回者故人家。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334367,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 94,
+    "id": "xz-094",
+    "historical": {
+      "label": "卯時第四",
+      "title": "事多障礙",
+      "grade": "下下",
+      "verse": "白頭人未老，多苦更枯腸，逢處皆荊棘，何時憂自忘。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334368,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 95,
+    "id": "xz-095",
+    "historical": {
+      "label": "卯時第五",
+      "title": "望用稱心",
+      "grade": "上上",
+      "verse": "有意出機先，相逢不偶然。職名皆得地，花錦到平川。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334369,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 96,
+    "id": "xz-096",
+    "historical": {
+      "label": "卯時第六",
+      "title": "家道吉昌",
+      "grade": "上上",
+      "verse": "桃李照門庭，溪山遠屋青。天香凝不斷，風物逐時新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334370,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 97,
+    "id": "xz-097",
+    "historical": {
+      "label": "卯時第七",
+      "title": "欺昧不明",
+      "grade": "下下",
+      "verse": "玉石已難分，奸邪不可論。怨從陰毒起，蛇鼠自相吞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334371,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 98,
+    "id": "xz-098",
+    "historical": {
+      "label": "卯時第八",
+      "title": "資助有得",
+      "grade": "上上",
+      "verse": "去去莫遲回，天邊步斗魁。一噓吞巨浪，走馬借聲雷。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334372,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 99,
+    "id": "xz-099",
+    "historical": {
+      "label": "卯時第九",
+      "title": "事多虛詐",
+      "grade": "下下",
+      "verse": "有口只談空，無情強不同。笑他人獸面，翻覆雨雲中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334373,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 100,
+    "id": "xz-100",
+    "historical": {
+      "label": "卯時第十",
+      "title": "事遂功成",
+      "grade": "上上",
+      "verse": "九轉就丹砂，平吞日月華。真如龍虎妙，天地一黃芽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334374,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 101,
+    "id": "xz-101",
+    "historical": {
+      "label": "卯時十一",
+      "title": "道果圓成",
+      "grade": "上上",
+      "verse": "仙骨比喬松，靈丹認葛洪。鶴聲雲外急，人在碧霄中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334375,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 102,
+    "id": "xz-102",
+    "historical": {
+      "label": "卯時十二",
+      "title": "安分有成",
+      "grade": "上上",
+      "verse": "樽酒惹閑狂，誰家蝶夢忙。惺惺當自覺，秋後更時長。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334376,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 103,
+    "id": "xz-103",
+    "historical": {
+      "label": "卯時十三",
+      "title": "人離財散",
+      "grade": "下下",
+      "verse": "魂夢逐雲飛，行人歸未歸。馬奔人亦走，空有淚沾衣。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334377,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 104,
+    "id": "xz-104",
+    "historical": {
+      "label": "卯時十四",
+      "title": "家宅多凶",
+      "grade": "下下",
+      "verse": "不覺斷蛇傷，鷹飛難整行。烏啼春雨後，人在日中忙。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334378,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 105,
+    "id": "xz-105",
+    "historical": {
+      "label": "卯時十五",
+      "title": "神明扶祐",
+      "grade": "上上",
+      "verse": "事業誰無報，陰功信有神。飛騰今有路，一舉謝埃塵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334379,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 106,
+    "id": "xz-106",
+    "historical": {
+      "label": "卯時十六",
+      "title": "望外有信",
+      "grade": "上上",
+      "verse": "燕子落天邊，行行馬信傳。未期心外事，紅綠已聯翩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334380,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 107,
+    "id": "xz-107",
+    "historical": {
+      "label": "卯時十七",
+      "title": "先滯後快",
+      "grade": "中平",
+      "verse": "雨腳暗山前，行人出未還。待他風力捲，明月照紅顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334381,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 108,
+    "id": "xz-108",
+    "historical": {
+      "label": "卯時十八",
+      "title": "人財不寧",
+      "grade": "下下",
+      "verse": "閑慮苦駸駸，驚波逐此心。無言空抱恨，人鬼怒相侵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334382,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 109,
+    "id": "xz-109",
+    "historical": {
+      "label": "卯時十九",
+      "title": "前程通快",
+      "grade": "上上",
+      "verse": "柳陰方濯濯，松幹已峨峨。著意春無盡，東南興最多。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334383,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 110,
+    "id": "xz-110",
+    "historical": {
+      "label": "卯時二十",
+      "title": "得人扶助",
+      "grade": "上上",
+      "verse": "中流似失船，賴得一壺全。更加風濟岸，輪月照青天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334384,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 111,
+    "id": "xz-111",
+    "historical": {
+      "label": "卯時二十一",
+      "title": "前程得地",
+      "grade": "上上",
+      "verse": "情通濯錦川，帝里又開蓮。盡是超騰地，披雲望九天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334385,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 112,
+    "id": "xz-112",
+    "historical": {
+      "label": "卯時二十二",
+      "title": "事多乖悮",
+      "grade": "下下",
+      "verse": "平地障雲山，朦朧不可攀。怨多空掩袖，咫尺隔雲間。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334386,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 113,
+    "id": "xz-113",
+    "historical": {
+      "label": "卯時二十三",
+      "title": "小疑有成",
+      "grade": "中平",
+      "verse": "紅雨濕桃腮，離情莫怨猜。春風如有待，生意又重開。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334387,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 114,
+    "id": "xz-114",
+    "historical": {
+      "label": "卯時二十四",
+      "title": "事無定準",
+      "grade": "下下",
+      "verse": "身似一浮嘔，隨風柳絮遊。波瀾猶未止，何處覓蹤由。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334388,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 115,
+    "id": "xz-115",
+    "historical": {
+      "label": "卯時二十五",
+      "title": "必獲異寵",
+      "grade": "上上",
+      "verse": "嗚鶴在前途，鴛鴦叩玉壺。天廚應自設，忻得貴人扶。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334389,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 116,
+    "id": "xz-116",
+    "historical": {
+      "label": "卯時二十六",
+      "title": "庾策必勝",
+      "grade": "上上",
+      "verse": "籌策孰為先，人才第一賢。寵奇當未艾，千里獨加鞭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334390,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 117,
+    "id": "xz-117",
+    "historical": {
+      "label": "卯時二十七",
+      "title": "口舌相凌",
+      "grade": "下下",
+      "verse": "言行兩相違，空論是與非。不知榮與辱，輕在發樞機。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334391,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 118,
+    "id": "xz-118",
+    "historical": {
+      "label": "卯時二十八",
+      "title": "所求可望",
+      "grade": "中平",
+      "verse": "行意莫遲回，重添別後杯。莫憂人影瘦，庭月照江梅。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334392,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 119,
+    "id": "xz-119",
+    "historical": {
+      "label": "卯時二十九",
+      "title": "喜慶有漸",
+      "grade": "上上",
+      "verse": "缺月未圓時，看看桂子垂。馬蹄雖未快，喜笑入雙眉。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334393,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 120,
+    "id": "xz-120",
+    "historical": {
+      "label": "卯時三十",
+      "title": "骨肉離散",
+      "grade": "下下",
+      "verse": "孤鴈失無群，一辰嗚不可聞。望伊伊不見，遼邈幾重雲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%AF%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334394,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 121,
+    "id": "xz-121",
+    "historical": {
+      "label": "辰時第一",
+      "title": "天賜福祐",
+      "grade": "上上",
+      "verse": "天外散浮雲，真仙降玉音。福華并祿筭，忻喜此門庭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334395,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 122,
+    "id": "xz-122",
+    "historical": {
+      "label": "辰時第二",
+      "title": "幽失不前",
+      "grade": "下下",
+      "verse": "天外起浮雲，月華那更明。行人山路嶮，不可復登程。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334396,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 123,
+    "id": "xz-123",
+    "historical": {
+      "label": "辰時第三",
+      "title": "人情見阻",
+      "grade": "下下",
+      "verse": "玉石共沉埋，賢愚不并裁。是非俱一體，豈得共和諧。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334397,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 124,
+    "id": "xz-124",
+    "historical": {
+      "label": "辰時第四",
+      "title": "德意成慶",
+      "grade": "上上",
+      "verse": "獨步上雲霄，前程萬里迢。更無他阻障，鸞鶴自逍逼。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334398,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 125,
+    "id": "xz-125",
+    "historical": {
+      "label": "辰時第五",
+      "title": "如願遂心",
+      "grade": "上上",
+      "verse": "萬寶已成秋，歡聲到風樓。好將香火願，共答百神麻。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334399,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 126,
+    "id": "xz-126",
+    "historical": {
+      "label": "辰時第六",
+      "title": "平和遂利",
+      "grade": "上上",
+      "verse": "春色滿仙園，風和花正妍。賞心無一事，舉措合神天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334400,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 127,
+    "id": "xz-127",
+    "historical": {
+      "label": "辰時第七",
+      "title": "先憂後喜",
+      "grade": "中平",
+      "verse": "風浪急孤舟，心中未遂遊。彼岸人接力，方始得安周。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334401,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 128,
+    "id": "xz-128",
+    "historical": {
+      "label": "辰時第八",
+      "title": "進退不安",
+      "grade": "下下",
+      "verse": "碎事惱心懷，人情兩未諧。欲將心下事，進退又訛乖。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334402,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 129,
+    "id": "xz-129",
+    "historical": {
+      "label": "辰時第九",
+      "title": "退保守吉",
+      "grade": "中平",
+      "verse": "月落五更殘，家人獨掩關。徘徊那有遂，仍舊守吾庵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334403,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 130,
+    "id": "xz-130",
+    "historical": {
+      "label": "辰時第十",
+      "title": "殊祥祐吉",
+      "grade": "上上",
+      "verse": "洞庭秋色滿，明月照波瀾。好趁扁舟去，蓬覓大舟。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334404,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 131,
+    "id": "xz-131",
+    "historical": {
+      "label": "辰時十一",
+      "title": "事因不快",
+      "grade": "中平",
+      "verse": "落葉滿庭除，西風掃夜居。幽人情不快，餘困豈能甦。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334405,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 132,
+    "id": "xz-132",
+    "historical": {
+      "label": "辰時十二",
+      "title": "求望未遂",
+      "grade": "下下",
+      "verse": "星月現微明，光華事未分。亭闌人去速，心事惱精神。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334406,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 133,
+    "id": "xz-133",
+    "historical": {
+      "label": "辰時十三",
+      "title": "淹滯方甦",
+      "grade": "上上",
+      "verse": "枯木再逢春，芳菲滿自明。與君同慶賞，遂得逐時新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334407,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 134,
+    "id": "xz-134",
+    "historical": {
+      "label": "辰時十四",
+      "title": "災退病除",
+      "grade": "中平",
+      "verse": "久困外沉痾，憂情甚被魔。忽然良藥遇，輕舉上雲羅。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334408,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 135,
+    "id": "xz-135",
+    "historical": {
+      "label": "辰時十五",
+      "title": "往凶退吉",
+      "grade": "下下",
+      "verse": "孤客夜登程，雲昏月色沉。秪堪恨寥落，回首竟無憑。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334409,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 136,
+    "id": "xz-136",
+    "historical": {
+      "label": "辰時十六",
+      "title": "前程進達",
+      "grade": "上上",
+      "verse": "文章得意歸，恩沛賜誹衣。光華修顯赫，福祿自相依。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334410,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 137,
+    "id": "xz-137",
+    "historical": {
+      "label": "辰時十七",
+      "title": "內外不寧",
+      "grade": "下下",
+      "verse": "默默坐空堂，愁心未展張。那堪人鬼路，家宅事忙忙。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334411,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 138,
+    "id": "xz-138",
+    "historical": {
+      "label": "辰時十八",
+      "title": "平安凝福",
+      "grade": "上上",
+      "verse": "清晨一灶香，天意保安康，舉心皈大道，福慶自然長。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334412,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 139,
+    "id": "xz-139",
+    "historical": {
+      "label": "辰時十九",
+      "title": "心遠事遲",
+      "grade": "中平",
+      "verse": "萬斛沉舟發，波津尚滿凝。空存千里志，未得一篙輕。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334413,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 140,
+    "id": "xz-140",
+    "historical": {
+      "label": "辰時二十",
+      "title": "意誠兩乖",
+      "grade": "下下",
+      "verse": "童蒙未解機，昏識豈堪為。且守存餘意，終成白首歸。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334414,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 141,
+    "id": "xz-141",
+    "historical": {
+      "label": "辰時二十一",
+      "title": "聞憂不憂",
+      "grade": "中平",
+      "verse": "人倚在西樓，秋深笛韻幽。秪堪空自看，不必更懷愁。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334415,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 142,
+    "id": "xz-142",
+    "historical": {
+      "label": "辰時二十二",
+      "title": "聞喜不喜",
+      "grade": "中平",
+      "verse": "一鴈空傳信，虛聲不見聲。笑言憂喜事，但且枉傳聞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334416,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 143,
+    "id": "xz-143",
+    "historical": {
+      "label": "辰時二十三",
+      "title": "福至災釋",
+      "grade": "上上",
+      "verse": "道德助良緣，天書降寶軒。許多災厄慮，一掃更無愆。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334417,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 144,
+    "id": "xz-144",
+    "historical": {
+      "label": "辰時二十四",
+      "title": "待時有慶",
+      "grade": "中平",
+      "verse": "有玉隱崑山，光芒射斗寒。若逢良匠別，傳器在人間。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334419,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 145,
+    "id": "xz-145",
+    "historical": {
+      "label": "辰時二十五",
+      "title": "先合後散",
+      "grade": "下下",
+      "verse": "灰冷寶爐寒，樽空興已闌。許多歡笑語，渾似夢魂問。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334420,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 146,
+    "id": "xz-146",
+    "historical": {
+      "label": "辰時二十六",
+      "title": "事多撓攪",
+      "grade": "下下",
+      "verse": "擾擾復擾擾，極目清江渺。孤舟未得回，望信空生惱。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334421,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 147,
+    "id": "xz-147",
+    "historical": {
+      "label": "辰時二十七",
+      "title": "謹防語失",
+      "grade": "中平",
+      "verse": "談笑生荊棘，非言失所言。若非良友鑑，幾被苦牽纏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334422,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 148,
+    "id": "xz-148",
+    "historical": {
+      "label": "辰時二十八",
+      "title": "自謹勿托",
+      "grade": "中平",
+      "verse": "舉措自端為，行藏更謹機。托人為所事，恐後變成非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334423,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 149,
+    "id": "xz-149",
+    "historical": {
+      "label": "辰時二十九",
+      "title": "得時為喜",
+      "grade": "上上",
+      "verse": "滿目發芳菲，仙園景最奇。趁逢佳慶節，歡笑醉金●。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334424,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 150,
+    "id": "xz-150",
+    "historical": {
+      "label": "辰時三十",
+      "title": "快疑退慮",
+      "grade": "中平",
+      "verse": "進退正宜新，明人見意深。好將懷內事，一決自分明。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E8%BE%B0%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334425,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 151,
+    "id": "xz-151",
+    "historical": {
+      "label": "巳時第一",
+      "title": "解怨生恩",
+      "grade": "中平",
+      "verse": "念念在存思，相逢正彼如。向時儼與怨，玆者變歡娛。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334426,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 152,
+    "id": "xz-152",
+    "historical": {
+      "label": "巳時第二",
+      "title": "遂意有期",
+      "grade": "中平",
+      "verse": "千里關山隔，寸心飛去難。忽然舟楫便，不可更愁煩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334427,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 153,
+    "id": "xz-153",
+    "historical": {
+      "label": "巳時第三",
+      "title": "待時後遂",
+      "grade": "中平",
+      "verse": "一鉤新月微，雲淡照庭幃。雖未十分快，團圓終可期。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334428,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 154,
+    "id": "xz-154",
+    "historical": {
+      "label": "巳時第四",
+      "title": "悟道得真",
+      "grade": "上上",
+      "verse": "金丹大隱書，玉典降天樞。祕語今朝賜，凡胎脫下軀。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334429,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 155,
+    "id": "xz-155",
+    "historical": {
+      "label": "巳時第五",
+      "title": "憂先喜後",
+      "grade": "中平",
+      "verse": "荒田久旱時，農業正傷悲。天澤忽然濟，良苗救歲飢。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334430,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 156,
+    "id": "xz-156",
+    "historical": {
+      "label": "巳時第六",
+      "title": "困滯俱生",
+      "grade": "下下",
+      "verse": "雲昏月又沉，孤客守空庭。寸心千萬意，誰解起愁音。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334431,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 157,
+    "id": "xz-157",
+    "historical": {
+      "label": "巳時第七",
+      "title": "忽然有喜",
+      "grade": "上上",
+      "verse": "高臺百尺危，快意望雲霓。天外雙雙鶴，飛來賜寶機。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334432,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 158,
+    "id": "xz-158",
+    "historical": {
+      "label": "巳時第八",
+      "title": "不事有成",
+      "grade": "上上",
+      "verse": "甘澤降荒田，靈苗發茂鮮。秋成終有待，佳節保安全。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334433,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 159,
+    "id": "xz-159",
+    "historical": {
+      "label": "巳時第九",
+      "title": "心勞事拙",
+      "grade": "下下",
+      "verse": "雲外幾重雲，天書不可聞。縱然心意恪，殊不聽佳音。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334434,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 160,
+    "id": "xz-160",
+    "historical": {
+      "label": "已時第十",
+      "title": "所願遂心",
+      "grade": "上上",
+      "verse": "坐久待嬋娟，雲開寶月圓。開樽共清賞，萬慮一齊捐。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B2%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334435,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 161,
+    "id": "xz-161",
+    "historical": {
+      "label": "巳時第十一",
+      "title": "有助無阻",
+      "grade": "上上",
+      "verse": "長江千里遠，風靜水紋平。好稱扁舟去，謀為盡契情。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E7%AC%AC%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334436,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 162,
+    "id": "xz-162",
+    "historical": {
+      "label": "巳時十二",
+      "title": "情乖事背",
+      "grade": "下下",
+      "verse": "冰炭不同鑪，彼情非我情。更宜自詳謹，心事勿相論。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334437,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 163,
+    "id": "xz-163",
+    "historical": {
+      "label": "巳時十三",
+      "title": "貴人接引",
+      "grade": "上上",
+      "verse": "天福載文書，欣欣各遂如。朱衣相接引，權要兩相扶。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334438,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 164,
+    "id": "xz-164",
+    "historical": {
+      "label": "巳時十四",
+      "title": "小害無傷",
+      "grade": "中平",
+      "verse": "一鬼暗中笑，豈知相竊窺，雖無十分害，第恐有微非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334439,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 165,
+    "id": "xz-165",
+    "historical": {
+      "label": "巳時十五",
+      "title": "順守無害",
+      "grade": "中平",
+      "verse": "財利欲成時，人情兩是非。順之自和悅，終保少憂危。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334440,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 166,
+    "id": "xz-166",
+    "historical": {
+      "label": "已時十六",
+      "title": "漸有涯際",
+      "grade": "中平",
+      "verse": "景色始光輝，憂心自退之，方能進寸步，漸可近天墀。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B2%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334441,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 167,
+    "id": "xz-167",
+    "historical": {
+      "label": "巳時十七",
+      "title": "敬真助福",
+      "grade": "上上",
+      "verse": "丹爐寶篆焚，親事祝吾尊。助爾清緣福，心專道自存。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334442,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 168,
+    "id": "xz-168",
+    "historical": {
+      "label": "巳時十八",
+      "title": "陰小不寧",
+      "grade": "下下",
+      "verse": "鬼昧苦相持，家庭陰小危。舉心行善事，解釋自安機。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334443,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 169,
+    "id": "xz-169",
+    "historical": {
+      "label": "已時十九",
+      "title": "未遂如心",
+      "grade": "下下",
+      "verse": "旱地豈行舟，歸心未得由。空令煙障客，兀兀意悠悠。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B2%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334444,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 170,
+    "id": "xz-170",
+    "historical": {
+      "label": "巳時二十",
+      "title": "起滯發幽",
+      "grade": "上上",
+      "verse": "寶劍射穹蒼，邪幽鬼魅藏，更無他滯礙，威德發名揚。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334445,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 171,
+    "id": "xz-171",
+    "historical": {
+      "label": "巳時二十一",
+      "title": "災退福生",
+      "grade": "上上",
+      "verse": "天樂發清音，仙車降宅庭。門闌光赫赫，闔慶受嘉恩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334446,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 172,
+    "id": "xz-172",
+    "historical": {
+      "label": "巳時二十二",
+      "title": "舊事再成",
+      "grade": "上上",
+      "verse": "舊事復重新，退心變進心。分明幽滯客，翻作步雲人。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334447,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 173,
+    "id": "xz-173",
+    "historical": {
+      "label": "巳時二十三",
+      "title": "有助成喜",
+      "grade": "上上",
+      "verse": "歸心得便舟，擾意復優游。不必更惆悵，故人相遇周。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334448,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 174,
+    "id": "xz-174",
+    "historical": {
+      "label": "巳時二十四",
+      "title": "宜守勿動",
+      "grade": "中平",
+      "verse": "且守不可動，動之事必訛。月寒庭下靜，風鼓水中波。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334449,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 175,
+    "id": "xz-175",
+    "historical": {
+      "label": "巳時二十五",
+      "title": "是非擾括",
+      "grade": "下下",
+      "verse": "月落又空山，清幽事已闌。寸心千里遠，俱在是非間。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334450,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 176,
+    "id": "xz-176",
+    "historical": {
+      "label": "巳時二十六",
+      "title": "有氣可成",
+      "grade": "中平",
+      "verse": "寒灰事復然，休言事向遷。若逢人力助，咫尺是前緣。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334451,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 177,
+    "id": "xz-177",
+    "historical": {
+      "label": "巳時二十七",
+      "title": "慶會亨通",
+      "grade": "上上",
+      "verse": "得意發新文，縱橫道濟民。風雲相慶會，惟爾保安寧。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334452,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 178,
+    "id": "xz-178",
+    "historical": {
+      "label": "巳時二十八",
+      "title": "和合通達",
+      "grade": "上上",
+      "verse": "豺狼陷石崖，行客免憂懷。去路平如掌，相隨意自諧。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334453,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 179,
+    "id": "xz-179",
+    "historical": {
+      "label": "巳時二十九",
+      "title": "脫災用事",
+      "grade": "上上",
+      "verse": "陰小脫重危，家庭漸有輝。許多憂惱事，風掃變塵微。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334454,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 180,
+    "id": "xz-180",
+    "historical": {
+      "label": "已時三十",
+      "title": "福慶兩生",
+      "grade": "上上",
+      "verse": "鸞鳳舞翱翔，香風降吉祥。大開佳慶宴，共集福華陽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%B7%B2%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334455,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 181,
+    "id": "xz-181",
+    "historical": {
+      "label": "午時第一",
+      "title": "遲疑未達",
+      "grade": "下下",
+      "verse": "有意玩仙鄉，三山路渺茫。不能升一步，惟恨對斜陽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334456,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 182,
+    "id": "xz-182",
+    "historical": {
+      "label": "午時第二",
+      "title": "喜用有助",
+      "grade": "上上",
+      "verse": "行遍幾重山，今方得遂安。更逢人指引，得鹿始回還。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334457,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 183,
+    "id": "xz-183",
+    "historical": {
+      "label": "午時第三",
+      "title": "喜中有憂",
+      "grade": "下下",
+      "verse": "靉靆起雲霓，晴天忽變悲。一天星斗暗，不見月光輝。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334458,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 184,
+    "id": "xz-184",
+    "historical": {
+      "label": "午時第四",
+      "title": "賜福得慶",
+      "grade": "上上",
+      "verse": "枯槁本無氣，陽和一變春。東君施化力，均濟普沾恩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334459,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 185,
+    "id": "xz-185",
+    "historical": {
+      "label": "午時第五",
+      "title": "超凡入聖",
+      "grade": "上上",
+      "verse": "青雲去路遙，仙籍姓名標。自有長生訣，丹砂出聖苗。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334460,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 186,
+    "id": "xz-186",
+    "historical": {
+      "label": "午時第六",
+      "title": "憂喜未庾",
+      "grade": "中平",
+      "verse": "混沌似冥昏，憂歡尚未分。秪須天地豁，鷄犬始能聞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334461,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 187,
+    "id": "xz-187",
+    "historical": {
+      "label": "午時第七",
+      "title": "守靜待吉",
+      "grade": "中平",
+      "verse": "大道欲清幽，存心勿妄求。任他空撓聒，一意止存脩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334462,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 188,
+    "id": "xz-188",
+    "historical": {
+      "label": "午時第八",
+      "title": "散憂退事",
+      "grade": "中平",
+      "verse": "退事勿再舉，進心且息然。妄傳多少意，是非不能前。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334463,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 189,
+    "id": "xz-189",
+    "historical": {
+      "label": "午時第九",
+      "title": "虛空不實",
+      "grade": "下下",
+      "verse": "一溪春水流，花落滿芳洲。空作春花夢，悠悠事未周。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334464,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 190,
+    "id": "xz-190",
+    "historical": {
+      "label": "午時第十",
+      "title": "待時有望",
+      "grade": "中下",
+      "verse": "寶鼎尚沉埋，才高未克諧。一朝龍虎會，有職盡添階。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334465,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 191,
+    "id": "xz-191",
+    "historical": {
+      "label": "午時十一",
+      "title": "疾退病除",
+      "grade": "上上",
+      "verse": "抱疾未能痊，良醫在目前。不須多悵恨，非久得安全。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334466,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 192,
+    "id": "xz-192",
+    "historical": {
+      "label": "午時十二",
+      "title": "終有成望",
+      "grade": "上上",
+      "verse": "有鹿在山前，新花滿目妍。歷終微險阻，大可展愁顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334467,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 193,
+    "id": "xz-193",
+    "historical": {
+      "label": "午時十三",
+      "title": "扶持有獲",
+      "grade": "中平",
+      "verse": "護助非人力，扶持乃至真。分明舟欲",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334468,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 194,
+    "id": "xz-194",
+    "historical": {
+      "label": "午時十四",
+      "title": "文書利泰",
+      "grade": "上上",
+      "verse": "千里一丹書，傳來自寶樞。望中為得意，職祿兩相扶。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334469,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 195,
+    "id": "xz-195",
+    "historical": {
+      "label": "午時十五",
+      "title": "先阻後泰",
+      "grade": "上上",
+      "verse": "歷盡幾重山，雲開天地寬。不須多著力，平步到玄關。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334470,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 196,
+    "id": "xz-196",
+    "historical": {
+      "label": "午時十六",
+      "title": "合成非久",
+      "grade": "下下",
+      "verse": "衰朽又何為，空言白首歸。夕陽雖有景，第恐不多時。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334471,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 197,
+    "id": "xz-197",
+    "historical": {
+      "label": "午時十七",
+      "title": "守靜勿用",
+      "grade": "中平",
+      "verse": "秋色到人間，庭空月正閑，丹爐香寂寂，百事不相干。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334473,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 198,
+    "id": "xz-198",
+    "historical": {
+      "label": "午時十八",
+      "title": "括擾未寧",
+      "grade": "下下",
+      "verse": "是是與非非，稠人擾自為。欲求清淨理，尤自格關機。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334474,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 199,
+    "id": "xz-199",
+    "historical": {
+      "label": "午時十九",
+      "title": "憂事無害",
+      "grade": "中平",
+      "verse": "病虎臥前溪，前人望自為。不能生陷害，何用設狐疑。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334475,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 200,
+    "id": "xz-200",
+    "historical": {
+      "label": "午時二十",
+      "title": "得道成合",
+      "grade": "上上",
+      "verse": "洞庭春色闌，仙友會雲班。好覓長生藥，逍遙餌大還。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334476,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 201,
+    "id": "xz-201",
+    "historical": {
+      "label": "午時二十一",
+      "title": "門戶不寧",
+      "grade": "下下",
+      "verse": "幽鬼晴來退，家門氣象陰。謹身三七內，漸可退餛迍。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334477,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 202,
+    "id": "xz-202",
+    "historical": {
+      "label": "午時二十二",
+      "title": "得恩感惠",
+      "grade": "上上",
+      "verse": "得道始提攜，超凡入聖機。感心常激切，恩惠足扶持。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334478,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 203,
+    "id": "xz-203",
+    "historical": {
+      "label": "午時二十三",
+      "title": "憂中有喜",
+      "grade": "上上",
+      "verse": "雷轟掣雷時，邪魅已潛機。幸得風雲散，天高月正輝。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334479,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 204,
+    "id": "xz-204",
+    "historical": {
+      "label": "午時二十四",
+      "title": "讒妬相害",
+      "grade": "下下",
+      "verse": "佞語巧非常，侵之必有傷。暗中藏利刃，切欲要隄防。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334480,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 205,
+    "id": "xz-205",
+    "historical": {
+      "label": "午時二十五",
+      "title": "道合遂成",
+      "grade": "上上",
+      "verse": "寶騎疾如飛，青雲得路時。機謀相遇合，成遂豈能遲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334481,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 206,
+    "id": "xz-206",
+    "historical": {
+      "label": "午時二十六",
+      "title": "防謹言謗",
+      "grade": "下下",
+      "verse": "烈火燒珠玉，讒言毀善良。若人非解忿，幾致有危傷。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334482,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 207,
+    "id": "xz-207",
+    "historical": {
+      "label": "午時二十七",
+      "title": "用心不遂",
+      "grade": "下下",
+      "verse": "獨立斜陽裹，殘蟬吸晚風。一庭秋寂寞，更漏已成空。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334483,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 208,
+    "id": "xz-208",
+    "historical": {
+      "label": "午時二十八",
+      "title": "琢磨成器",
+      "grade": "上上",
+      "verse": "一躍龍門裹，桃花浪喪重。如今身得意，勞逸已成功。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334484,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 209,
+    "id": "xz-209",
+    "historical": {
+      "label": "午時二十九",
+      "title": "得遇扶持",
+      "grade": "上上",
+      "verse": "念念一何求，憂心未得周。忽然人借力，携接上雲遊。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334485,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 210,
+    "id": "xz-210",
+    "historical": {
+      "label": "午時三十",
+      "title": "名利不遂",
+      "grade": "下下",
+      "verse": "財散風彼裹，名標雲霧間。利名皆不遂，回首掩柴關。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%8D%88%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334486,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 211,
+    "id": "xz-211",
+    "historical": {
+      "label": "未時第一",
+      "title": "家門利泰",
+      "grade": "上上",
+      "verse": "五福壽為先，年高祿更延。一門佳氣集，長幼慶安然。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334487,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 212,
+    "id": "xz-212",
+    "historical": {
+      "label": "未時第二",
+      "title": "名祿成遂",
+      "grade": "上上",
+      "verse": "鹿駕文書急，花開燕作喧。春花成遂合，每事喜相連。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334488,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 213,
+    "id": "xz-213",
+    "historical": {
+      "label": "未時第三",
+      "title": "神功陰助",
+      "grade": "中平",
+      "verse": "竊盜來空室，勞心任往還。倘非神力助，心致損機關。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334489,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 214,
+    "id": "xz-214",
+    "historical": {
+      "label": "未時第四",
+      "title": "成濟為事",
+      "grade": "上上",
+      "verse": "高田百種苗，豐稔慶秋高。喜得逢甘澤。農家祝聖堯。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334490,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 215,
+    "id": "xz-215",
+    "historical": {
+      "label": "未時第五",
+      "title": "守真堅恪",
+      "grade": "中平",
+      "verse": "松栢傲霜雪，浮花不耐春。時真存節操，堅恪保安寧。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334491,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 216,
+    "id": "xz-216",
+    "historical": {
+      "label": "未時第六",
+      "title": "正心無疑",
+      "grade": "中平",
+      "verse": "天外一聲雷，風雲慶會時。邪人皆悚慓，正士一皈依。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334492,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 217,
+    "id": "xz-217",
+    "historical": {
+      "label": "未時第七",
+      "title": "出滯得快",
+      "grade": "上上",
+      "verse": "得道人多助，時欣歲又歡。豈能相阻遏，去路自翱翔。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334493,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 218,
+    "id": "xz-218",
+    "historical": {
+      "label": "未時第八",
+      "title": "福臨災退",
+      "grade": "上上",
+      "verse": "鸞嗚鶴舞時，仙仗下天墀。待賜真光福，災愆一宥之。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334494,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 219,
+    "id": "xz-219",
+    "historical": {
+      "label": "未時第九",
+      "title": "忽然喜合",
+      "grade": "上上",
+      "verse": "十一口相扶，相承百事如。朱衣當引道，聞喜降天書。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334496,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 220,
+    "id": "xz-220",
+    "historical": {
+      "label": "未時第十",
+      "title": "憂退慮消",
+      "grade": "中平",
+      "verse": "三女已消亡，憂情自渺茫。目前開豁意，身後必嘉祥。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334497,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 221,
+    "id": "xz-221",
+    "historical": {
+      "label": "未時十一",
+      "title": "利見大人",
+      "grade": "上上",
+      "verse": "利澤施于民，歡聲化彩雲。堯豐歲時泰，萬境賀昇平。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334498,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 222,
+    "id": "xz-222",
+    "historical": {
+      "label": "未時十二",
+      "title": "干人有阻",
+      "grade": "下下",
+      "verse": "計策已為詐，人情不可干。再三空進退，喜氣變愁顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334499,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 223,
+    "id": "xz-223",
+    "historical": {
+      "label": "未時十三",
+      "title": "退暗出明",
+      "grade": "中平",
+      "verse": "坐久清風發，夢回明月生。昏昏多少意，方始見分明。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334500,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 224,
+    "id": "xz-224",
+    "historical": {
+      "label": "未時十四",
+      "title": "禳災謝過",
+      "grade": "中平",
+      "verse": "陰小恐生述，閑爭事返驚。檜禳憑道力，香火更留心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334501,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 225,
+    "id": "xz-225",
+    "historical": {
+      "label": "未時十五",
+      "title": "憂喜不成",
+      "grade": "中平",
+      "verse": "一木見雲霓，空花發秀枝。須臾無一事，憂喜兩忘之。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334502,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 226,
+    "id": "xz-226",
+    "historical": {
+      "label": "未時十六",
+      "title": "心速事遲",
+      "grade": "下下",
+      "verse": "策馬度嚴關，天昏月又殘，主人難進步，惆悵起悲顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334503,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 227,
+    "id": "xz-227",
+    "historical": {
+      "label": "未時十七",
+      "title": "虛聲妄意",
+      "grade": "下下",
+      "verse": "有寶隔千山，無言向彼問，聞聲名不實，到了事空閑。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334504,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 228,
+    "id": "xz-228",
+    "historical": {
+      "label": "未時十八",
+      "title": "憂迍不寧",
+      "grade": "下下",
+      "verse": "家中蕭索事，動靜一成述。旺氣全然滅，人憂鬼亦驚。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334506,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 229,
+    "id": "xz-229",
+    "historical": {
+      "label": "未時十九",
+      "title": "成次未許",
+      "grade": "下下",
+      "verse": "見之則未見，成之尚未成。徘徊空進退，來往枉勞心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334507,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 230,
+    "id": "xz-230",
+    "historical": {
+      "label": "未時二十",
+      "title": "名稱俱備",
+      "grade": "上上",
+      "verse": "紅日照乾坤，嘉祥集孔門。望中旌表至，聲譽世間聞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334508,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 231,
+    "id": "xz-231",
+    "historical": {
+      "label": "未時二十一",
+      "title": "敗事復成",
+      "grade": "上上",
+      "verse": "紅日化嚴霜，幽潛悉顯光。枯根有生意，漸可發芬芳。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334509,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 232,
+    "id": "xz-232",
+    "historical": {
+      "label": "未時二十二",
+      "title": "驚心未寧",
+      "grade": "下下",
+      "verse": "靄靄一天雲，風雷發震驚。憂懷無限恨，猶未脫埃塵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334510,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 233,
+    "id": "xz-233",
+    "historical": {
+      "label": "未時二十三",
+      "title": "事遲有望",
+      "grade": "中平",
+      "verse": "大器晚當成，大音希有聲。琢磨方見寶，不枉久勞心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334511,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 234,
+    "id": "xz-234",
+    "historical": {
+      "label": "未時二十四",
+      "title": "利見大人",
+      "grade": "上上",
+      "verse": "蓬萊路渺茫，仙洞歲時長。得遇高人面，靈機助玉章。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334512,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 235,
+    "id": "xz-235",
+    "historical": {
+      "label": "未時二十五",
+      "title": "萌事未發",
+      "grade": "中平",
+      "verse": "殘月待時久，機關用處忙，未知成敗事，流水去何長。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334513,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 236,
+    "id": "xz-236",
+    "historical": {
+      "label": "未時二十六",
+      "title": "福實事厚",
+      "grade": "上上",
+      "verse": "歷古至于今，金剛玉石身。任他霜雪凜，不改歲寒心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334514,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 237,
+    "id": "xz-237",
+    "historical": {
+      "label": "未時二十七",
+      "title": "守節安吉",
+      "grade": "上上",
+      "verse": "貫道守于一，持心不在狂。坐中當見事，笑默意何長。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334515,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 238,
+    "id": "xz-238",
+    "historical": {
+      "label": "未時二十八",
+      "title": "解怨成懼",
+      "grade": "上上",
+      "verse": "千里遇知心，一天風月清，怨情今已解，爛熳醉懼听。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334516,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 239,
+    "id": "xz-239",
+    "historical": {
+      "label": "未時二十九",
+      "title": "待事如旦",
+      "grade": "中平",
+      "verse": "夜月照庭除，清狽一嘯孤。待須平旦日，方可去登途。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334517,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 240,
+    "id": "xz-240",
+    "historical": {
+      "label": "未時三十",
+      "title": "危中有救",
+      "grade": "上上",
+      "verse": "狂浪欲覆舟，憂慮不勝愁。須臾臨彼岸，新慶滿高樓。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%AA%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334518,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 241,
+    "id": "xz-241",
+    "historical": {
+      "label": "申時第一",
+      "title": "待時可時",
+      "grade": "平平",
+      "verse": "渺渺天邊鵠，乘風萬里飛。更無霜雪阻，秋色滿庭幃。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334519,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 242,
+    "id": "xz-242",
+    "historical": {
+      "label": "申時第二",
+      "title": "得意遇時",
+      "grade": "上上",
+      "verse": "皓月洞庭秋，乘鸞汗漫遊。玉壺天地闊，已脫苦淹留。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334520,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 243,
+    "id": "xz-243",
+    "historical": {
+      "label": "申時第三",
+      "title": "喜信臨門",
+      "grade": "上上",
+      "verse": "火煉始成金，真光現寶庭。駭然為一信，忽爾報佳音。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334522,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 244,
+    "id": "xz-244",
+    "historical": {
+      "label": "申時第四",
+      "title": "佳報奇遇",
+      "grade": "上上",
+      "verse": "燦然星斗交，寶劍氣凌雲。別有真奇遇，終身滿國聞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334523,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 245,
+    "id": "xz-245",
+    "historical": {
+      "label": "申時第五",
+      "title": "望事不成",
+      "grade": "下下",
+      "verse": "玉碎不成琢，金潛豈可烹。惜哉奇遇士，迤邐暗中行。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334524,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 246,
+    "id": "xz-246",
+    "historical": {
+      "label": "申時第六",
+      "title": "次疑成事",
+      "grade": "中平",
+      "verse": "水清魚可見，智明情不知。幸無昏濁昧，何用強猜疑。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334525,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 247,
+    "id": "xz-247",
+    "historical": {
+      "label": "申時第七",
+      "title": "守道勿用",
+      "grade": "中平",
+      "verse": "大道本無礙，真光照眼明。守心能守正，神鬼亦須驚。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334526,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 248,
+    "id": "xz-248",
+    "historical": {
+      "label": "申時第八",
+      "title": "惱事漸消",
+      "grade": "中平",
+      "verse": "群心亂生忿，眾心空憂牽。從他機巧用，舉步自安然。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334527,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 249,
+    "id": "xz-249",
+    "historical": {
+      "label": "申時第九",
+      "title": "退憂成喜",
+      "grade": "上上",
+      "verse": "赫赫陽光發，沉沉鬼魅消。滿懷幽興盛，一掃意超超。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334528,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 250,
+    "id": "xz-250",
+    "historical": {
+      "label": "申時第十",
+      "title": "守正戒非",
+      "grade": "中平",
+      "verse": "人頭三尺上，神物自相隨。昧事休生意，防心切自持。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334529,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 251,
+    "id": "xz-251",
+    "historical": {
+      "label": "申時十一",
+      "title": "憂散成喜",
+      "grade": "上上",
+      "verse": "風月滿高樓，提擁可恣遊。開眉展愁腹，樽酒醉方休。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334530,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 252,
+    "id": "xz-252",
+    "historical": {
+      "label": "申時十二",
+      "title": "得祿有望",
+      "grade": "上上",
+      "verse": "天祿賜堯階，丹書降玉臺。欣然無限意，花向故園開。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334531,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 253,
+    "id": "xz-253",
+    "historical": {
+      "label": "申時十三",
+      "title": "危中有赦",
+      "grade": "上上",
+      "verse": "贏疾自夭降，昏迷日醉沉。忽逢天上士，寶餌賜玄靈。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334532,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 254,
+    "id": "xz-254",
+    "historical": {
+      "label": "申時十四",
+      "title": "迷中有指",
+      "grade": "上上",
+      "verse": "寒灰氣已消，志識更飄飄。得遇至人語，分明指路遙。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334533,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 255,
+    "id": "xz-255",
+    "historical": {
+      "label": "申時十五",
+      "title": "謹身防失",
+      "grade": "下下",
+      "verse": "朽索御六馬，常鬚謹步行。倘然微縱放，必致禍臨身。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334534,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 256,
+    "id": "xz-256",
+    "historical": {
+      "label": "申時十六",
+      "title": "舉措宜謹",
+      "grade": "中平",
+      "verse": "百尺高竿險，休宜縱此心。行藏須把捉，方許得安平。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334535,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 257,
+    "id": "xz-257",
+    "historical": {
+      "label": "申時十七",
+      "title": "謹身守正",
+      "grade": "中平",
+      "verse": "萬頃清江靜，一天星斗寒。扁舟行正道，謹懼渡波瀾。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334536,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 258,
+    "id": "xz-258",
+    "historical": {
+      "label": "申時十八",
+      "title": "舊幣重新",
+      "grade": "上上",
+      "verse": "一喜自天降，庭幃起壽萱。豈知殘戶牖，復爾再新垣。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334537,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 259,
+    "id": "xz-259",
+    "historical": {
+      "label": "申時十九",
+      "title": "勞中有逸",
+      "grade": "上上",
+      "verse": "早魚方得水，病虎入山林。漸漸有生意，悠悠快爾情。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334539,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 260,
+    "id": "xz-260",
+    "historical": {
+      "label": "申時二十",
+      "title": "先難後遂",
+      "grade": "上上",
+      "verse": "百戰事多危，功成凱樂歸。錦衣回故里，勳業事高彌。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334541,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 261,
+    "id": "xz-261",
+    "historical": {
+      "label": "申時二十一",
+      "title": "感真遇貴",
+      "grade": "上上",
+      "verse": "九轉靈丹藥，三山玉掌仙。一時來降集，灾散福綿綿。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334542,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 262,
+    "id": "xz-262",
+    "historical": {
+      "label": "申時二十二",
+      "title": "忍忿待時",
+      "grade": "中平",
+      "verse": "擊鼠雖防器，觸邪仍避真。不宜先忿躁，徒恃可成名。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334543,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 263,
+    "id": "xz-263",
+    "historical": {
+      "label": "申時二十三",
+      "title": "大成小吉",
+      "grade": "上上",
+      "verse": "楚玉逢良識，真金煉得烹。已能成大器，不礙小忿爭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334544,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 264,
+    "id": "xz-264",
+    "historical": {
+      "label": "申時二十四",
+      "title": "謝恩得祿",
+      "grade": "上上",
+      "verse": "小祿尚徘徊，東君意已隨。願將香火信，遙達上天知。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334545,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 265,
+    "id": "xz-265",
+    "historical": {
+      "label": "申時二十五",
+      "title": "舉語可成",
+      "grade": "上上",
+      "verse": "照膽觀心事，明明自可知。君能開一語，攀接兩相隨。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334546,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 266,
+    "id": "xz-266",
+    "historical": {
+      "label": "申時二十六",
+      "title": "此急彼緩",
+      "grade": "中平",
+      "verse": "此望若思渴，彼情如蹈淵。忽然風雨霽，飄駕上青天。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334547,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 267,
+    "id": "xz-267",
+    "historical": {
+      "label": "申時二十七",
+      "title": "難中有救",
+      "grade": "上上",
+      "verse": "一夕風濤起，舟人意不生。賴他心力助，道德復全亨。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334548,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 268,
+    "id": "xz-268",
+    "historical": {
+      "label": "申時二十八",
+      "title": "慮心漸解",
+      "grade": "中平",
+      "verse": "有意自生憂，無緣脫滯留。但能安意志，何事不相周。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334549,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 269,
+    "id": "xz-269",
+    "historical": {
+      "label": "申時二十九",
+      "title": "望事返覆",
+      "grade": null,
+      "verse": "一志苦相執，狂心殊不知。待他成計日，反覆已經時。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334550,
+      "uncertainty": [
+        "源页标题未标品第；保持空值，不推断。"
+      ]
+    }
+  },
+  {
+    "number": 270,
+    "id": "xz-270",
+    "historical": {
+      "label": "申時三十",
+      "title": "求信有成",
+      "grade": "上上",
+      "verse": "鴈信欲通傳，誠心利後先。上人能一語，美事十分全。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%94%B3%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334551,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 271,
+    "id": "xz-271",
+    "historical": {
+      "label": "酉時第一",
+      "title": "謹身勿縱",
+      "grade": "中平",
+      "verse": "仙友在重關，千山與萬山。謹心乃謹事，歡笑勿追攀。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334552,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 272,
+    "id": "xz-272",
+    "historical": {
+      "label": "酉時第二",
+      "title": "有路可進",
+      "grade": "中平",
+      "verse": "有徑不相阻，無門不可關。非為他妄作，千涉事須煩。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334553,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 273,
+    "id": "xz-273",
+    "historical": {
+      "label": "酉時第三",
+      "title": "悖理有吝",
+      "grade": "下下",
+      "verse": "理財理事遲，鬼賊見其機。勿共同心事，防言變是非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334554,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 274,
+    "id": "xz-274",
+    "historical": {
+      "label": "酉時第四",
+      "title": "謹防小人",
+      "grade": "下下",
+      "verse": "彼意有所害，此心殊未然。更防樽俎上，外事恐相牽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334555,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 275,
+    "id": "xz-275",
+    "historical": {
+      "label": "酉時第五",
+      "title": "失馭生迍",
+      "grade": "下下",
+      "verse": "玉石不可煉，丹砂不可沉，倘非當處用，寶器不全真。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334556,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 276,
+    "id": "xz-276",
+    "historical": {
+      "label": "酉時第六",
+      "title": "棄利遠害",
+      "grade": "中平",
+      "verse": "舊事不宜舉，舉之必被連。目前當棄捨，身後得家傳。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334557,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 277,
+    "id": "xz-277",
+    "historical": {
+      "label": "酉時第七",
+      "title": "靜守防心",
+      "grade": "中平",
+      "verse": "天外月華清，雲中有鴉嗚。寂然無一事，不可舉私心。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334558,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 278,
+    "id": "xz-278",
+    "historical": {
+      "label": "酉時第八",
+      "title": "輕信寡諾",
+      "grade": "下下",
+      "verse": "宿諾幾千番，徒勞反覆間。面前雖笑許，心復事多般。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334559,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 279,
+    "id": "xz-279",
+    "historical": {
+      "label": "酉時第九",
+      "title": "先勞先遂",
+      "grade": "中平",
+      "verse": "二子本一事，兩情剛更推。鼠牛相促迫，虎兔見熙熙。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334560,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 280,
+    "id": "xz-280",
+    "historical": {
+      "label": "酉時第十",
+      "title": "先詳次用",
+      "grade": "中平",
+      "verse": "行步先防險，乘舟預備風。豈宜倉卒辯，不必問窮通。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334561,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 281,
+    "id": "xz-281",
+    "historical": {
+      "label": "酉時十一",
+      "title": "疑事勿用",
+      "grade": "中平",
+      "verse": "幽昧未能知，求名叩聖機。自宜生揣分，疑事不須為。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334562,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 282,
+    "id": "xz-282",
+    "historical": {
+      "label": "酉時十二",
+      "title": "怨解儼釋",
+      "grade": "中平",
+      "verse": "夙昔有嫌疑，玆來怨釋非。不須多忌諱，仍以禮和之",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334563,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 283,
+    "id": "xz-283",
+    "historical": {
+      "label": "酉時十三",
+      "title": "遇事可求",
+      "grade": "中平",
+      "verse": "幽室有淹愁，人生水上漚，逢春須得遇，休且強遲留。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334565,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 284,
+    "id": "xz-284",
+    "historical": {
+      "label": "酉時十四",
+      "title": "欲速上遲",
+      "grade": "中平",
+      "verse": "聽聞唯未見，遇否尚難知。欲進非能向，從他意所為。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334566,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 285,
+    "id": "xz-285",
+    "historical": {
+      "label": "酉時十五",
+      "title": "進祿可陞",
+      "grade": "上上",
+      "verse": "天地降洪恩，人神共仰欽。光華歸有道，仰視福來臨。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334567,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 286,
+    "id": "xz-286",
+    "historical": {
+      "label": "酉時十六",
+      "title": "遇事宜進",
+      "grade": "中平",
+      "verse": "群鹿在山林，仙花滿徑春。正宜時進步，勿更滯空樽。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334568,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 287,
+    "id": "xz-287",
+    "historical": {
+      "label": "酉時十七",
+      "title": "出萃成用",
+      "grade": "上上",
+      "verse": "仙桂發新枝，蟾蜍用正輝。舉金伸我手，談笑得蟠螭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334569,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 288,
+    "id": "xz-288",
+    "historical": {
+      "label": "酉時十八",
+      "title": "天貴用利",
+      "grade": "上上",
+      "verse": "土木著朱衣，相逢意自隨。不妨開一語，扶助上雲梯。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334570,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 289,
+    "id": "xz-289",
+    "historical": {
+      "label": "酉時十九",
+      "title": "先進後成",
+      "grade": "中平",
+      "verse": "一者是非公，三心意不同。勿交先下著，勝負在其中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334571,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 290,
+    "id": "xz-290",
+    "historical": {
+      "label": "酉時二十",
+      "title": "謹機用事",
+      "grade": "中平",
+      "verse": "各各意難知，機深用最宜。勿令輕漏泄，必致是成非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334572,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 291,
+    "id": "xz-291",
+    "historical": {
+      "label": "酉時二十一",
+      "title": "擇機防失",
+      "grade": "中平",
+      "verse": "東南路可行，西北恐成述。用事先達利，切要自安存。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334573,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 292,
+    "id": "xz-292",
+    "historical": {
+      "label": "酉時二十二",
+      "title": "用心必成",
+      "grade": "上上",
+      "verse": "欲覓探淵寶，當求頷下珠。必然成底事，不用自躊蹰。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334574,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 293,
+    "id": "xz-293",
+    "historical": {
+      "label": "酉時二十三",
+      "title": "失信絕音",
+      "grade": "下下",
+      "verse": "渺渺隔天涯，斜陽噪晚鴉。空中絕音信，默坐使空嗟。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334575,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 294,
+    "id": "xz-294",
+    "historical": {
+      "label": "酉時二十四",
+      "title": "先優後喜",
+      "grade": "上上",
+      "verse": "缺月又重圓，雲開復見天。醉懷今再醒，敗事更成堅。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334576,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 295,
+    "id": "xz-295",
+    "historical": {
+      "label": "酉時二十五",
+      "title": "安固久遠",
+      "grade": "上上",
+      "verse": "夙怨已除次，新恩來又別。久久意如何，青松奈霜雪。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334577,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 296,
+    "id": "xz-296",
+    "historical": {
+      "label": "酉時二十六",
+      "title": "福德兩助",
+      "grade": "上上",
+      "verse": "綵雲天外飛，仙音一脈隨。吉祥又喜慶，延福更延禧。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334578,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 297,
+    "id": "xz-297",
+    "historical": {
+      "label": "酉時二十七",
+      "title": "家神不寧",
+      "grade": "下下",
+      "verse": "香火一蕭疏，家門鬼賊窺。自當修淨潔，方始得安居。香火精專真有術而神有護，家門喧鬧鬼有虧而盜有謀。正身潔己始有滌於餘愆，謝過禳災方且獲於安泰。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334579,
+      "uncertainty": [
+        "源页诗文与后文未分段；仅按前四句标点切分，待底本复核。"
+      ]
+    }
+  },
+  {
+    "number": 298,
+    "id": "xz-298",
+    "historical": {
+      "label": "酉時二十八",
+      "title": "憂事成喜",
+      "grade": "上上",
+      "verse": "贏弱復康強，災殃變吉祥。小人空計畫，大德自昭彰。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334580,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 299,
+    "id": "xz-299",
+    "historical": {
+      "label": "酉時二十九",
+      "title": "如履霜冰",
+      "grade": "中平",
+      "verse": "忠良士已成，浸潤事何迍。幸得高人見，閑非已化塵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334581,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 300,
+    "id": "xz-300",
+    "historical": {
+      "label": "酉時三十",
+      "title": "久誤方甦",
+      "grade": "中平",
+      "verse": "緣木欲求魚，徒勞志已虛。分明山下路，咫尺是前途。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%85%89%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334582,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 301,
+    "id": "xz-301",
+    "historical": {
+      "label": "戌時第一",
+      "title": "徒勞心力",
+      "grade": "下下",
+      "verse": "折足鼎何施，安排必見危。笑他群下口，一事不能為。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334583,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 302,
+    "id": "xz-302",
+    "historical": {
+      "label": "戌時第二",
+      "title": "困中有救",
+      "grade": "上上",
+      "verse": "枯木始成用，雪霜多見摧。一朝春得意，忽爾變芳菲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334584,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 303,
+    "id": "xz-303",
+    "historical": {
+      "label": "戌時第三",
+      "title": "因人借力",
+      "grade": "上上",
+      "verse": "車轍有所礙，前途尚見遲。忽然人著力，舉步上雲梯。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334585,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 304,
+    "id": "xz-304",
+    "historical": {
+      "label": "戌時第四",
+      "title": "計劃無成",
+      "grade": "下下",
+      "verse": "夢斷魂亦消，悲心起寂寥。許多良計畫，風雨更蕭蕭，",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334586,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 305,
+    "id": "xz-305",
+    "historical": {
+      "label": "戌時第五",
+      "title": "謹身守道",
+      "grade": "中平",
+      "verse": "危除過重山，豺狼日共班。且將低曲折，未可展愁顏。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334587,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 306,
+    "id": "xz-306",
+    "historical": {
+      "label": "戌時第六",
+      "title": "守靜待時",
+      "grade": "中平",
+      "verse": "萬籟已澄清，月華光彩明。且將詩酒興，餘事勿關情。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334588,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 307,
+    "id": "xz-307",
+    "historical": {
+      "label": "戌時第七",
+      "title": "隄防姦詐",
+      "grade": "下下",
+      "verse": "三女事宜防，巧言為亂常。守心休自縱，牛馬退災祥。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334589,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 308,
+    "id": "xz-308",
+    "historical": {
+      "label": "戌時第八",
+      "title": "積功成道",
+      "grade": "上上",
+      "verse": "九轉靈丹藥，功成非一時。欲求無上道，先下死施為。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334590,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 309,
+    "id": "xz-309",
+    "historical": {
+      "label": "戌時第九",
+      "title": "脫危成慶",
+      "grade": "上上",
+      "verse": "賢達乃真儒，猶同脫釣魚。躍開千尺浪，一餌不能拘。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334591,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 310,
+    "id": "xz-310",
+    "historical": {
+      "label": "戌時第十",
+      "title": "守正福佑",
+      "grade": "上上",
+      "verse": "蕩蕩乾坤大，巍巍道德尊。處身當正直，功遇自心存。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334592,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 311,
+    "id": "xz-311",
+    "historical": {
+      "label": "戌時十一",
+      "title": "戒奢防禍",
+      "grade": "中平",
+      "verse": "尺水豈能波，量微福戒過。自前宜撙節，來禍必消磨。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334593,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 312,
+    "id": "xz-312",
+    "historical": {
+      "label": "戌時十二",
+      "title": "守道勿用",
+      "grade": "中平",
+      "verse": "浮華能幾何，回首勿蹉跎。守業休閑縱，狂心勿更波。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334594,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 313,
+    "id": "xz-313",
+    "historical": {
+      "label": "戌時十三",
+      "title": "所事不諧",
+      "grade": "下下",
+      "verse": "水火兩相非，小人君子機。不堪同處樂，去就必難為。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334595,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 314,
+    "id": "xz-314",
+    "historical": {
+      "label": "戌時十四",
+      "title": "失迷得遇",
+      "grade": "上上",
+      "verse": "奔趨路失岐，心懷正此悲。仙音嘹喨起，方始見光輝。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334596,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 315,
+    "id": "xz-315",
+    "historical": {
+      "label": "戌時十五",
+      "title": "遇如不遇",
+      "grade": "下下",
+      "verse": "萬寶積如山，行人不遇還。空將心智術，一笑夢魂間。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334597,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 316,
+    "id": "xz-316",
+    "historical": {
+      "label": "戌時十六",
+      "title": "憂事未解",
+      "grade": "下下",
+      "verse": "騎虎勢難下，隨機旋旋行。一朝能脫灑，快我志平生。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334598,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 317,
+    "id": "xz-317",
+    "historical": {
+      "label": "戌時十七",
+      "title": "用事未達",
+      "grade": "下下",
+      "verse": "薄霧作濃陰，天昏未得明。行人空嘆息，去路尚多程。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334599,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 318,
+    "id": "xz-318",
+    "historical": {
+      "label": "戌時十八",
+      "title": "離事重遇",
+      "grade": "上上",
+      "verse": "一別幾經年，相逢事偶然。重開樽俎興，歡笑再綿綿。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334600,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 319,
+    "id": "xz-319",
+    "historical": {
+      "label": "戌時十九",
+      "title": "用事再三",
+      "grade": "中平",
+      "verse": "三謁方能遇，一言那便回。再三行底事，方得笑顏開。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334601,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 320,
+    "id": "xz-320",
+    "historical": {
+      "label": "戌時二十",
+      "title": "信息臨喜",
+      "grade": "上上",
+      "verse": "雲中鴉陣飛，信息始重知。坐待回音至，行人咫尺歸。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334602,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 321,
+    "id": "xz-321",
+    "historical": {
+      "label": "戌時二十一",
+      "title": "出幽得遇",
+      "grade": "上上",
+      "verse": "寶赦降天來，幽關鑽自開。釋他愆與釁，更賜利名回。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334603,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 322,
+    "id": "xz-322",
+    "historical": {
+      "label": "戌時二十二",
+      "title": "遇人知己",
+      "grade": "上上",
+      "verse": "寶玉久沉埋，光芒射斗回。有人能鑑識，幽現上仙臺。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334604,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 323,
+    "id": "xz-323",
+    "historical": {
+      "label": "戌時二十三",
+      "title": "妄語虛信",
+      "grade": "下下",
+      "verse": "妄語多言道，虛無非實情。傳聞空掛記，終是不分明。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334605,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 324,
+    "id": "xz-324",
+    "historical": {
+      "label": "戌時二十四",
+      "title": "遇時得達",
+      "grade": "中平",
+      "verse": "百卉正芳菲，春花爛熳時，東君能著物，何慮事留遲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334606,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 325,
+    "id": "xz-325",
+    "historical": {
+      "label": "戌時二十五",
+      "title": "亨通無礙",
+      "grade": "上上",
+      "verse": "改革得從新，江山麗日明。目前無限景，嘯傲樂平生。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334607,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 326,
+    "id": "xz-326",
+    "historical": {
+      "label": "戌時二十六",
+      "title": "成名得祿",
+      "grade": "上上",
+      "verse": "拂拭更無塵，衣冠學業新。始能通大道，必不負青雲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334608,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 327,
+    "id": "xz-327",
+    "historical": {
+      "label": "戌時二十七",
+      "title": "不可合成",
+      "grade": "一下",
+      "verse": "頑石休將琢，枯楊不可栽。小人無大器，往事豈能回。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334610,
+      "uncertainty": [
+        "源页品第写法异于常见分级；原样保留，不推断象征分值。"
+      ]
+    }
+  },
+  {
+    "number": 328,
+    "id": "xz-328",
+    "historical": {
+      "label": "戌時二十八",
+      "title": "憂事自散",
+      "grade": "中平",
+      "verse": "綿綿慮未休，豈可見蹤由。須待經時序，憂波逐水流。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334611,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 329,
+    "id": "xz-329",
+    "historical": {
+      "label": "戌時二十九",
+      "title": "鬼憂心慮",
+      "grade": "下下",
+      "verse": "夜雨泣幽窗，風寒雨又狂。不能成一寐，餘事更堪傷。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334612,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 330,
+    "id": "xz-330",
+    "historical": {
+      "label": "戌時三十",
+      "title": "前程通達",
+      "grade": "上上",
+      "verse": "鸞鶴兩逍遙，風清月更高。仙人相指引，霄漢路迢迢。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%88%8C%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334613,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 331,
+    "id": "xz-331",
+    "historical": {
+      "label": "亥時第一",
+      "title": "守道得真",
+      "grade": "上上",
+      "verse": "妙語不可得，真仙豈易逢。一心能信恪，八達自亨通。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334615,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 332,
+    "id": "xz-332",
+    "historical": {
+      "label": "亥時第二",
+      "title": "出滯昇達",
+      "grade": "上上",
+      "verse": "舉翼昇喬木，飛騰得意時。乘風方借力，一躍到天池。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334616,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 333,
+    "id": "xz-333",
+    "historical": {
+      "label": "亥時第三",
+      "title": "引獲迷誤",
+      "grade": "上上",
+      "verse": "流水碧溪長，桃源路渺茫。若非人指引，豈得遇真光。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334617,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 334,
+    "id": "xz-334",
+    "historical": {
+      "label": "亥時第四",
+      "title": "力心任大",
+      "grade": "下下",
+      "verse": "螢火競月華，小大意何差。費卻精神力，終為一笑誇。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334618,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 335,
+    "id": "xz-335",
+    "historical": {
+      "label": "亥時第五",
+      "title": "無助無望",
+      "grade": "下下",
+      "verse": "不學不知道，不修不遇真，工夫無一點，徒自作空名。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334619,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 336,
+    "id": "xz-336",
+    "historical": {
+      "label": "亥時第六",
+      "title": "現出明暗",
+      "grade": "上上",
+      "verse": "古鏡久昏昏，光輝尚未聞。一朝人拂拭，妍醜自能分。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334620,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 337,
+    "id": "xz-337",
+    "historical": {
+      "label": "亥時第七",
+      "title": "神真護佑",
+      "grade": "上上",
+      "verse": "香靄上丹霄，誠心一念遙。舉行無不利，神物自昭昭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334621,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 338,
+    "id": "xz-338",
+    "historical": {
+      "label": "亥時第八",
+      "title": "災退病除",
+      "grade": "中平",
+      "verse": "鬼散病已痊，愁顏變笑顏。誠心答天地，更勿造諸愆。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334622,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 339,
+    "id": "xz-339",
+    "historical": {
+      "label": "亥時第九",
+      "title": "除小不寧",
+      "grade": "下下",
+      "verse": "缺月未圓時，家人獨掩扉。未能伸屈曲，陰小慮防危。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334623,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 340,
+    "id": "xz-340",
+    "historical": {
+      "label": "亥時第十",
+      "title": "口舌不寧",
+      "grade": "下下",
+      "verse": "泣泣更沉沉，門闌非妄臨。守靜方能吉，免使禍來侵。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E7%AC%AC%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334624,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 341,
+    "id": "xz-341",
+    "historical": {
+      "label": "亥時十一",
+      "title": "得時遇便",
+      "grade": "上上",
+      "verse": "舟行趁便風，衆志一心同。正遇良佳節，花開滿目中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334625,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 342,
+    "id": "xz-342",
+    "historical": {
+      "label": "亥時十二",
+      "title": "樂極生悲",
+      "grade": "下下",
+      "verse": "樽空興已空，心事正迷蒙，本是逍遙客，翻居滯礙中。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334626,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 343,
+    "id": "xz-343",
+    "historical": {
+      "label": "亥時十三",
+      "title": "迷誤得省",
+      "grade": "中平",
+      "verse": "懷抱不堪言，呻吟慮最先。有人明語決，醉醒覺輕便。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334627,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 344,
+    "id": "xz-344",
+    "historical": {
+      "label": "亥時十四",
+      "title": "謀望無定",
+      "grade": "下下",
+      "verse": "意若雲中鴉，心如水上萍。狂蹤無定跡，妙用豈能成。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334628,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 345,
+    "id": "xz-345",
+    "historical": {
+      "label": "亥時十五",
+      "title": "望用必迍",
+      "grade": "下下",
+      "verse": "十言方成計，慮事必先明。不可輕輕舉，終為一笑聲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334629,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 346,
+    "id": "xz-346",
+    "historical": {
+      "label": "亥時十六",
+      "title": "先到後成",
+      "grade": "中平",
+      "verse": "折翼下丹霄，沖天一忌已消。更須宜養銳，再舉不為勞。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334630,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 347,
+    "id": "xz-347",
+    "historical": {
+      "label": "亥時十七",
+      "title": "失則綰事",
+      "grade": "下下",
+      "verse": "倚恃必須失，托人終見危。虛將財與利，空惹是和非。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334631,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 348,
+    "id": "xz-348",
+    "historical": {
+      "label": "亥時十八",
+      "title": "不可成事",
+      "grade": "下下",
+      "verse": "盲者不能行，失音那有聲。既盲并且啞，事語兩無成。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334632,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 349,
+    "id": "xz-349",
+    "historical": {
+      "label": "亥時十九",
+      "title": "遇貴成事",
+      "grade": "上上",
+      "verse": "森森古木高，梁棟用非遙。待時逢良匠，知音契合招。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334633,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 350,
+    "id": "xz-350",
+    "historical": {
+      "label": "亥時二十",
+      "title": "遇時得濟",
+      "grade": "上上",
+      "verse": "月到中秋夜，花逢二月春。此時當慶賞，百福盡維新。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334634,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 351,
+    "id": "xz-351",
+    "historical": {
+      "label": "亥時二十一",
+      "title": "失時少遇",
+      "grade": "下下",
+      "verse": "中秋風雨後，月暗不成輝。獨坐空庭裹，無言竟自悲。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%80",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334635,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 352,
+    "id": "xz-352",
+    "historical": {
+      "label": "亥時二十二",
+      "title": "改過得安",
+      "grade": "中平",
+      "verse": "逼迫上高山，行人舉步難。若能平正道，不可用機關。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334636,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 353,
+    "id": "xz-353",
+    "historical": {
+      "label": "亥時二十三",
+      "title": "憂事未寧",
+      "grade": "下下",
+      "verse": "虎逐群羊急，風飄敗葉狂。靜中猶未得，那得望成章。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%89",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334637,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 354,
+    "id": "xz-354",
+    "historical": {
+      "label": "亥時二十四",
+      "title": "寡助少成",
+      "grade": "下下",
+      "verse": "渡口無舟楫，陸行車挫輪。不能相接濟，隻力尚前奔。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E5%9B%9B",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334638,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 355,
+    "id": "xz-355",
+    "historical": {
+      "label": "亥時二十五",
+      "title": "先憂後喜",
+      "grade": "上上",
+      "verse": "暴雨何來速，雷霆忽起驚，一時天意助，月朗氣澄清。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%BA%94",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334639,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 356,
+    "id": "xz-356",
+    "historical": {
+      "label": "亥時二十六",
+      "title": "功成道合",
+      "grade": "上上",
+      "verse": "養就真龍虎，煉成白雪金。功成神鬼助，跨鶴上雲探。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AD",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334640,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 357,
+    "id": "xz-357",
+    "historical": {
+      "label": "亥時二十七",
+      "title": "謹身守道",
+      "grade": "中平",
+      "verse": "溺水千鈞石，遭焚一束枯。防心更防失，謹謹學時餘。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%B8%83",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334641,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 358,
+    "id": "xz-358",
+    "historical": {
+      "label": "亥時二十八",
+      "title": "神真扶護",
+      "grade": "上上",
+      "verse": "萬物莫非數，窮通信有時。道亨並道泰，保爾祿延期。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E5%85%AB",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334642,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 359,
+    "id": "xz-359",
+    "historical": {
+      "label": "亥時二十九",
+      "title": "遇怪自安",
+      "grade": "中平",
+      "verse": "見怪不為怪，逢驚不可驚。但存心正直，神物守門庭。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%BA%8C%E5%8D%81%E4%B9%9D",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334643,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 360,
+    "id": "xz-360",
+    "historical": {
+      "label": "亥時三十",
+      "title": "狂縱天理",
+      "grade": "中平",
+      "verse": "六馬奔難馭，三尸去勿追。但能端守命，造物不相違。",
+      "group": "十二时",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E4%BA%A5%E6%99%82%E4%B8%89%E5%8D%81",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334644,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 361,
+    "id": "xz-361",
+    "historical": {
+      "label": "金行",
+      "title": "勿進待時",
+      "grade": "下下",
+      "verse": "漠漠一天雲，沉沉雨意深。路行山道險，且更守郵亭。",
+      "group": "五行",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E9%87%91%E8%A1%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334645,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 362,
+    "id": "xz-362",
+    "historical": {
+      "label": "木行",
+      "title": "去滯來亨",
+      "grade": "中上",
+      "verse": "缺月落西山，鍾聲四遠問。夢回人再醒，整頓道心寬。",
+      "group": "五行",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%9C%A8%E8%A1%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334646,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 363,
+    "id": "xz-363",
+    "historical": {
+      "label": "水行",
+      "title": "福祿高源",
+      "grade": "上上",
+      "verse": "紅日乾坤大，丹砂妙道尊。高名書玉簡，厚祿付經綸。",
+      "group": "五行",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E6%B0%B4%E8%A1%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334647,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 364,
+    "id": "xz-364",
+    "historical": {
+      "label": "火行",
+      "title": "節儉成福",
+      "grade": "中平",
+      "verse": "違和必少泰，不節豈能寬。戒止宜修儉，存心自保完。",
+      "group": "五行",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E7%81%AB%E8%A1%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334648,
+      "uncertainty": []
+    }
+  },
+  {
+    "number": 365,
+    "id": "xz-365",
+    "historical": {
+      "label": "土行",
+      "title": "脫白得綠",
+      "grade": "上上",
+      "verse": "官封三品位，名姓播天池。遠近人欽仰，天公也自知。",
+      "group": "五行",
+      "source": "《正統道藏》正一部《玄真靈應寶籤》；維基文庫校錄",
+      "source_url": "https://zh.wikisource.org/wiki/%E7%8E%84%E7%9C%9F%E9%9D%88%E6%87%89%E5%AF%B6%E7%B1%A4/%E5%9C%9F%E8%A1%8C",
+      "edition": "維基文庫所标《正統道藏》正一部底本；未与影印本逐字校勘",
+      "source_revision": 1334649,
+      "uncertainty": []
+    }
+  }
+]

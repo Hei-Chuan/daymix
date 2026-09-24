@@ -30,8 +30,8 @@
   license: 古籍原文公有领域；网站编排依其使用条款
   copyright_status: ancient underlying work public domain
   retrieved_at: '2026-09-23'
-  usage: adapted
-  notes: 仅据公开卦名与上下卦速查表编排自制 hexagrams.json；theme/tone 为本项目创作，不是原典断语。
+  usage: bundled
+  notes: hexagrams.json 的 theme/tone 为项目原创；v2 的 zhouyi-text.json 另收古代卦辞和各卦六条爻辞，逐卦附 CText 来源链接。未收现代译文或网站评注，电子录文不等于额外内容的转载许可。
 - id: daodejing
   title: 道德经
   author: 传统归属老子
@@ -93,15 +93,15 @@
   usage: adapted
   notes: tarot-78.json 为自编牌名与短语；不复制原著篇章、现代网站释义或图像。
 - id: web
-  title: World English Bible Classic
+  title: World English Bible Protestant Edition (engwebp); v2.1 checked against Classic
   author: World English Bible translators
   year: 持续更新
-  source_url: https://ebible.org/eng-web/copr.htm
+  source_url: https://ebible.org/engwebp/copyright.htm
   license: Public Domain (publisher declaration)
   copyright_status: public domain translation
-  retrieved_at: '2026-09-23'
+  retrieved_at: '2026-09-24'
   usage: adapted
-  notes: 只用章节目索引与原创中文象征说明；不使用中文现代译本。
+  notes: v2.2 使用80个 WEB 经节页的章节目索引并逐个检查链接与节号；中文转述和默想为项目原创，不打包任何现代中文圣经译本。
 - id: epictetus
   title: Enchiridion
   author: Epictetus; recorded by Arrian
@@ -169,9 +169,9 @@
   type: primary
   source_url: https://zh.wikisource.org/wiki/玄真靈應寶籤
   license_status: 古籍原诗为公有领域；网页校录另标署名与条款
-  retrieved_at: '2026-09-23'
-  usage: adapted
-  notes: 原书365条；当前只转录七条逐项核对的古诗及签号品第，现代短评原创。十二时为编排，并非按时辰取签证据。
+  retrieved_at: '2026-09-24'
+  usage: bundled
+  notes: v2.2 的 verified-signs-v2.2.json 按维基文库目录收录365页古诗、原页修订号和字段异常；v2.1 的七条原封保存。4页有未核实异常，尚未和影印底本逐字校勘。十二时和五行是原书编排，并非本产品抽取仪轨。
 - id: dao_index
   title: 道教文化中心·玄真灵应宝签条目
   tradition: 道藏目录学
@@ -199,9 +199,9 @@
   type: official
   source_url: https://www.moravian.org.uk/daily-watchwords/what-are-the-daily-watchwords
   license_status: 仅借方法，不复制官方每日序列及译文
-  retrieved_at: '2026-09-23'
+  retrieved_at: '2026-09-24'
   usage: reference_only
-  notes: 旧约经节抽签、新约经节配对；本项目使用独立12条旧约经节池与原创中文转述。
+  notes: 官方历史方法为旧约候选中抽取 Watchword、再选新约呼应经文；Daymix v2.2 自编40组主题配对，按确定性种子抽一组，不复制官方年度序列；v2.1 的12条旧约池冻结保留。
 - id: ptolemy
   title: Tetrabiblos, Book I
   tradition: 希腊化星象

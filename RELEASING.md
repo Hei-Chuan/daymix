@@ -1,7 +1,7 @@
-# Releasing
+# Releasing Daymix
 
-1. Run `python3 -m unittest discover -s tests -v` and confirm the v1 golden digest, v2 reproducibility and data checks.
-2. Run `npm ci --prefix ui && npm run build --prefix ui` and test `get_daily_card` and the `ui://wanxiangli/card-v2.1.html` resource with an MCP Apps host or inspector. Compare the JSON while opening sections.
-3. Run `python3 tools/build_release.py`. The Skill ZIP has one `wanxiangli/` root; the plugin source ZIP contains the server, UI bundle and Python Skill. Neither ZIP deploys a public HTTPS MCP service or connects it to ChatGPT.
-4. Review `RESEARCH_V2.md`, source identifiers, third-party licenses, religious policy and the changelog for any added text or mechanics.
-5. Tag only after checks; connect a reachable service and verify the card in a ChatGPT developer environment before claiming the click UI is live.
+1. Run `python -m unittest discover -s tests -v`; inspect v1 and v2.1 golden replay, corpus records, and v2.2 determinism.
+2. Run `npm ci --prefix ui && npm run build --prefix ui && npm test --prefix ui`. Verify the `get_daily_card` result and `ui://daymix/card-v2.2.html` resource; disclosure must not call the server again.
+3. Run `python tools/build_release.py`. `dist/daymix-skill.zip` has one `daymix/` root. `dist/daymix-plugin.zip` includes the Skill, Python CLI, MCP server and UI bundle. Neither ZIP deploys a public HTTPS service or installs itself in ChatGPT.
+4. Review [corpus completeness](CORPUS_COMPLETENESS.md), [source rights](SOURCES.md), [research limits](RESEARCH_V22.md), religious policy, third-party notices, and changelog. New source snapshots require a version and replay fixture.
+5. Tag or announce only after checks. A clickable ChatGPT card requires a reachable HTTPS MCP server connected to the account and a host-side UI test; a local `127.0.0.1` port is a development endpoint.

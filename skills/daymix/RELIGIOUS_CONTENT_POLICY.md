@@ -2,7 +2,7 @@
 
 ## English
 
-Wanxiangli uses limited religious and philosophical materials as interpretive references. A repository entry or generated response must be source-traceable, context-aware, restrained, and respectful. It must not present the model as a religious authority or a symbolic reading as religious fact.
+Daymix uses limited religious and philosophical materials as interpretive references. A repository entry or generated response must be source-traceable, context-aware, restrained, and respectful. It must not present the model as a religious authority or a symbolic reading as religious fact.
 
 **Allowed:** accurately identified public-domain or appropriately licensed classical texts; original notes on philosophical concepts and literary or cultural symbols; careful comparisons of interpretive approaches; light, non-derogatory absurdity aimed at the project's procedures rather than believers; and criticism of ideas stated without attacking people.
 
@@ -16,7 +16,7 @@ New material needs the fields and review described in [CONTRIBUTING.md](CONTRIBU
 
 ## 中文
 
-《万象历》只将有限的宗教与哲学资料用作解释参考。入库资料与生成文本应有可追溯来源、清楚语境和克制尊重的表达；不得把模型当作宗教权威，或把象征解释说成宗教事实。
+《Daymix · 今天呢》只将有限的宗教与哲学资料用作解释参考。入库资料与生成文本应有可追溯来源、清楚语境和克制尊重的表达；不得把模型当作宗教权威，或把象征解释说成宗教事实。
 
 **允许：** 准确标明出处的公版或有相应授权的经典；对哲学概念、文学与文化象征的原创短述；谨慎比较解释方法；仅针对项目流程、且不贬损信徒的轻度荒诞表达；以及不攻击人的思想批评。
 

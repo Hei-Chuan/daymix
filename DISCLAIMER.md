@@ -2,9 +2,9 @@
 
 ## English
 
-Wanxiangli uses calendars, divinatory symbol systems, classical writing, and religious or philosophical imagery for entertainment, cultural exploration, textual experimentation, self-reflection, and software research. Its “fortune” is an interpretive product output. It is not a factual prediction of future events, a mathematically proven fortune, a scientific forecast, a divine revelation, or a guaranteed prophecy. Do not substitute it for professional medical, legal, financial, or safety advice or for your own assessment of actual conditions.
+Daymix uses calendars, divinatory symbol systems, classical writing, and religious or philosophical imagery for entertainment, cultural exploration, textual experimentation, self-reflection, and software research. Its “fortune” is an interpretive product output. It is not a factual prediction of future events, a mathematically proven fortune, a scientific forecast, a divine revelation, or a guaranteed prophecy. Do not substitute it for professional medical, legal, financial, or safety advice or for your own assessment of actual conditions.
 
-This project is not affiliated with, endorsed by, or representative of any religious institution or faith community. References to religious traditions are used for cultural, philosophical, literary, and interpretive purposes. They do not constitute religious instruction, proselytization, or authoritative theology. Wanxiangli neither seeks to persuade anyone to adopt a faith nor claims to reconcile or unify distinct traditions.
+This project is not affiliated with, endorsed by, or representative of any religious institution or faith community. References to religious traditions are used for cultural, philosophical, literary, and interpretive purposes. They do not constitute religious instruction, proselytization, or authoritative theology. Daymix neither seeks to persuade anyone to adopt a faith nor claims to reconcile or unify distinct traditions.
 
 Its Daoist sign excerpts, Buddhist self-observation prompts, and Christian daily-text prompts are limited uses of sources listed in [SOURCES.md](SOURCES.md). The daily selection algorithms and short interpretations belong to this project, not to those institutions. Each tradition contains substantial internal diversity. No note should be treated as the only correct interpretation, a statement for every school or denomination, a replacement for clergy or qualified religious advisers, or a resolution of theological disputes. The project does not impersonate religious figures or attribute invented words to them.
 
@@ -14,7 +14,7 @@ We aim to cite sources, preserve context, and discuss traditions and their adher
 
 ## 中文
 
-《万象历》将历法、占卜象征体系、古典文本和宗教或哲学意象用于娱乐、文化探索、文本实验、自我反思与软件研究。“运势”是解释性产品输出，不是对未来事件的事实预测，也不是数学证明的好运、科学预报、神谕或必然应验的预言。请勿用它替代医疗、法律、财务或安全方面的专业意见与现实判断。
+《Daymix · 今天呢》将历法、占卜象征体系、古典文本和宗教或哲学意象用于娱乐、文化探索、文本实验、自我反思与软件研究。“运势”是解释性产品输出，不是对未来事件的事实预测，也不是数学证明的好运、科学预报、神谕或必然应验的预言。请勿用它替代医疗、法律、财务或安全方面的专业意见与现实判断。
 
 本项目不隶属于、不受任何宗教机构或信仰群体认可，也不代表它们。宗教传统的资料仅用于文化、哲学、文学和文本解释；相关输出不构成宗教指导、传教或权威神学。项目不劝人接受某种信仰，也不声称能将不同传统统一起来。
 

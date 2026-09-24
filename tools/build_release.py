@@ -7,17 +7,19 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = ROOT / "skills" / "wanxiangli"
+SKILL = ROOT / "skills" / "daymix"
 DIST = ROOT / "dist"
 PLUGIN_FILES = (ROOT / "plugin.json", ROOT / ".codex-plugin/plugin.json",
                 ROOT / "LICENSE", ROOT / "THIRD_PARTY_NOTICES.md",
-                ROOT / "scripts/wanxiangli.py", ROOT / "ui/server.mjs", ROOT / "ui/package.json",
+                ROOT / "scripts/daymix.py", ROOT / "scripts/wanxiangli.py",
+                ROOT / "ui/server.mjs", ROOT / "ui/package.json",
                 ROOT / "ui/package-lock.json", ROOT / "ui/card.html", ROOT / "ui/card.js",
                 ROOT / "ui/build.mjs", ROOT / "ui/dist/card.html", ROOT / "ui/test.mjs", ROOT / "ui/test-server.mjs", ROOT / "ui/README.md")
-SKILL_REQUIRED = ("SKILL.md", "scripts/wanxiangli.py", "references/sources.yaml",
+SKILL_REQUIRED = ("SKILL.md", "scripts/daymix.py", "scripts/wanxiangli.py", "references/sources.yaml",
                   "references/eastern/hexagrams.json", "references/eastern/zhouyi-text.json",
                   "references/tarot/tarot-78.json", "references/tarot/tarot-v2.json",
-                  "references/daoism/verified-signs.json", "references/christianity/watchwords.json",
+                  "references/daoism/verified-signs.json", "references/daoism/verified-signs-v2.2.json",
+                  "references/christianity/watchwords.json", "references/christianity/watchwords-v2.2.json",
                   "assets/icon.svg", "agents/openai.yaml", "LICENSE",
                   "RELIGIOUS_CONTENT_POLICY.md", "CONTRIBUTING.md", "CODE_OF_CONDUCT.md",
                   "THIRD_PARTY_NOTICES.md")
@@ -57,7 +59,7 @@ def validate():
     for p in PLUGIN_FILES:
         check_file(p)
     skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
-    if not re.search(r"^---\nname: wanxiangli\ndescription: .+\n---\n", skill_text):
+    if not re.search(r"^---\nname: daymix\ndescription: .+\n---\n", skill_text):
         raise ValueError("Skill front matter missing or inconsistent")
     for name in re.findall(r"`((?:references|scripts|assets)/[^`\s]+|RELIGIOUS_CONTENT_POLICY\.md)`", skill_text):
         check_file(SKILL / name)
@@ -65,11 +67,11 @@ def validate():
     compatibility = json.loads((ROOT / ".codex-plugin/plugin.json").read_text(encoding="utf-8"))
     if manifest.get("$schema") != "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json":
         raise ValueError("unsupported portable plugin schema")
-    if manifest["name"] != "wanxiangli" or not re.fullmatch(r"\d+\.\d+\.\d+", manifest["version"]):
+    if manifest["name"] != "daymix" or not re.fullmatch(r"\d+\.\d+\.\d+", manifest["version"]):
         raise ValueError("invalid plugin name or version")
     if "skills" in manifest or "mcpServers" in manifest:
         raise ValueError("portable manifest declares redundant or missing components")
-    if compatibility["skills"] != "./skills/" or (ROOT / compatibility["skills"] / "wanxiangli/SKILL.md").resolve() != (SKILL / "SKILL.md").resolve():
+    if compatibility["skills"] != "./skills/" or (ROOT / compatibility["skills"] / "daymix/SKILL.md").resolve() != (SKILL / "SKILL.md").resolve():
         raise ValueError("compatibility skills path differs from canonical Skill")
     for field in ("name", "version", "description"):
         if manifest[field] != compatibility[field]:
@@ -86,12 +88,12 @@ def validate():
     if (SKILL / "LICENSE").read_bytes() != (ROOT / "LICENSE").read_bytes():
         raise ValueError("Skill license differs from root")
     for name in ("RELIGIOUS_CONTENT_POLICY.md", "CONTRIBUTING.md"):
-        expected = (ROOT / name).read_text(encoding="utf-8").replace("skills/wanxiangli/references/sources.yaml", "references/sources.yaml")
+        expected = (ROOT / name).read_text(encoding="utf-8").replace("skills/daymix/references/sources.yaml", "references/sources.yaml")
         if (SKILL / name).read_text(encoding="utf-8") != expected:
             raise ValueError(f"Skill {name} differs from root")
     if (SKILL / "CODE_OF_CONDUCT.md").read_bytes() != (ROOT / "CODE_OF_CONDUCT.md").read_bytes():
         raise ValueError("Skill code of conduct differs from root")
-    expected = (ROOT / "THIRD_PARTY_NOTICES.md").read_text(encoding="utf-8").replace("skills/wanxiangli/vendor/", "vendor/")
+    expected = (ROOT / "THIRD_PARTY_NOTICES.md").read_text(encoding="utf-8").replace("skills/daymix/vendor/", "vendor/")
     if (SKILL / "THIRD_PARTY_NOTICES.md").read_text(encoding="utf-8") != expected:
         raise ValueError("Skill third-party notices differ from root")
     files = sorted(path for path in SKILL.rglob("*") if path.is_file()
@@ -114,11 +116,11 @@ def build_archive(destination, entries):
 def main():
     files = validate()
     DIST.mkdir(exist_ok=True)
-    skill_entries = [(p, "wanxiangli/" + p.relative_to(SKILL).as_posix()) for p in files]
+    skill_entries = [(p, "daymix/" + p.relative_to(SKILL).as_posix()) for p in files]
     plugin_entries = [(p, p.relative_to(ROOT).as_posix()) for p in files + list(PLUGIN_FILES)]
-    build_archive(DIST / "wanxiangli-skill.zip", skill_entries)
-    build_archive(DIST / "wanxiangli-plugin.zip", plugin_entries)
-    for name in ("wanxiangli-skill.zip", "wanxiangli-plugin.zip"):
+    build_archive(DIST / "daymix-skill.zip", skill_entries)
+    build_archive(DIST / "daymix-plugin.zip", plugin_entries)
+    for name in ("daymix-skill.zip", "daymix-plugin.zip"):
         print(f"{DIST / name} ({(DIST / name).stat().st_size} bytes)")
 
 

@@ -1,37 +1,17 @@
 # Sources and redistribution / 资料来源与分发
 
-This document describes the **current release**, not permission for every possible reuse. The authoritative item-level metadata (title, author, year, URL, license, copyright status, retrieval date, use, and notes) is [`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml), reviewed on 2026-09-23. For uncertain rights, the repository links to a source without distributing its text. Public accessibility does not equal a redistribution license.
+The item-level registry is [`skills/daymix/references/sources.yaml`](skills/daymix/references/sources.yaml), reviewed for v2.2 on 2026-09-24. **Bundled** means source material is included; **adapted** means original project text or indexes were informed by a source; **reference_only** is a research pointer; **runtime_lookup** is caller-supplied data such as weather. These labels describe actual use, not a blanket permission for reuse. 古籍原文、电子录文、现代译注的权利边界不同。
 
-此表记录当前版本的实际使用方式。逐条元数据见 [`skills/wanxiangli/references/sources.yaml`](skills/wanxiangli/references/sources.yaml)；版权不明时只保留研究链接，不打包原文。
-
-## What the labels mean / 分类
-
-- **bundled:** third-party source code included under its own license. The two pinned MIT Python dependencies are bundled; our original scripts and cards use the project's [MIT license](LICENSE).
-- **adapted:** facts, names, or broad ideas from a source informed **new project-authored** indexes and short explanations; the source's complete text, translation, or images are not copied.
-- **reference_only:** consulted for research or verification, with no source text bundled.
-- **runtime_lookup:** ephemeral external input such as caller-supplied weather, never part of the package.
-
-## Inventory / 来源表
-
-| ID and source | Use | Material in this repository and rights boundary |
+| Source | Use in Daymix | Scope and rights |
 | --- | --- | --- |
-| `lunar_python` · [6tail/lunar-python](https://github.com/6tail/lunar-python) | bundled | Unmodified version 1.4.8, **MIT**; a matching external installation is preferred, with the bundled copy as fallback. Its license and exact digest are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). |
-| `astronomy_engine` · [Astronomy Engine](https://github.com/cosinekitty/astronomy) | bundled | Unmodified version 2.1.19, **MIT**; a matching external installation is preferred, with the bundled copy as fallback. Our lunar-phase symbolic rule remains original. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). |
-| `zhouyi` · [《周易》索引](https://zh.wikisource.org/wiki/周易) | adapted | Ancient underlying work is public domain. `hexagrams.json` records 64 names, upper/lower trigrams, and project-authored short themes/scores. No scripture, commentary, or modern translation is reproduced. Website-specific contributions remain subject to their own terms. |
-| `daodejing` · [《道德经》](https://zh.wikisource.org/wiki/道德經) | adapted | Ancient underlying work is public domain; `taoism/concepts.md` gives original short explanations rather than source text or modern commentary. |
-| `qingjing` · [《清静经》](https://zh.wikisource.org/wiki/太上老君說常清靜經) | reference_only | Exact online edition and its terms need further review. Used as a bibliographic pointer for a short original “清静” concept; no page text is copied. |
-| `heart_sutra` · [《心经》版本索引](https://zh.wikisource.org/wiki/般若波羅蜜多心經) | adapted | Ancient Chinese translation attributed to Xuanzang. The short “观照” explanation is original; the index contains multiple translation versions, which should not be conflated. |
-| `diamond_sutra` · [《金刚经》](https://zh.wikisource.org/wiki/金剛般若波羅蜜經) | adapted | Ancient Chinese translation attributed to Kumārajīva; original “无住” note only, no extended quotation. |
-| `cbeta` · [CBETA copyright statement](https://cbeta.org/copyright) | reference_only | CBETA's collection has non-commercial, redistribution, and work-specific conditions, including exceptions to its general CC BY-NC-SA 4.0 terms. **No CBETA corpus or edited text is bundled.** |
-| `waite` · [*The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot) | adapted | The work is public domain in the US; other jurisdictions may differ. `tarot-78.json` contains project-authored brief descriptions for 78 cards. No original plates, extended Waite prose, or modern commercial meanings are copied. |
-| `web` · [World English Bible Classic](https://ebible.org/eng-web/copr.htm) | adapted | Publisher declares its English translation public domain. Our `christianity/symbols.md` contains passage references and original Chinese explanations; no modern Chinese Bible translation is redistributed. |
-| `epictetus` · [*Enchiridion*](https://en.wikisource.org/wiki/Enchiridion) | adapted | Ancient underlying work is public domain; translator or edition rights may differ. Only an original short note on controllable action is included. |
-| `xuanxue_engine` · [xuanxue-engine](https://github.com/sxt9805/xuanxue-engine) | reference_only | **MIT**, architectural reference for separating deterministic calculations and prose; no code or dataset copied. |
-| `fortune_skills` · [fortune-telling-skills](https://github.com/eamanc-lab/fortune-telling-skills) | reference_only | **MIT** per its README, research reference for material organization; no code or prose copied, and its multi-Skill design was not adopted. |
-| `weather` · caller-supplied or local weather source | runtime_lookup | Runtime JSON must identify source and observation time. Conditions may update effective actions, not the original draw. No weather feed, forecast text, or API is bundled. |
+| [lunar-python](https://github.com/6tail/lunar-python), [Astronomy Engine](https://github.com/cosinekitty/astronomy) | bundled | Unmodified pinned MIT packages; licenses and hashes in [third-party notices](THIRD_PARTY_NOTICES.md). Astronomy Engine calculates positions; symbolic meaning is project-authored. |
+| [《周易》](https://zh.wikisource.org/wiki/周易) / [per-hexagram entries](skills/daymix/references/eastern/zhouyi-text.json) | bundled | 64 ancient judgments and line statements, plus project-authored indexes and themes. Ancient text is public domain; electronic transcription and editorial additions require separate review. No modern translation is bundled. |
+| [《玄真靈應寶籤》](https://zh.wikisource.org/wiki/玄真靈應寶籤) | bundled | 365 ancient sign poems in the v2.2 snapshot, each with page URL and revision; seven older records remain for v2.1 replay. Four source-page anomalies are marked in [corpus report](CORPUS_COMPLETENESS.md). No online prose gloss or modern interpretation was copied. The site's stated source is *Zhengtong Daozang*; the snapshot has not been independently collated against scans. |
+| [World English Bible](https://ebible.org/engwebp/copyright.htm) | adapted | 80 chapter/verse links in 40 project-authored OT–NT thematic pairs. Publisher declares WEB public domain and reserves its translation name for faithful copies; our short Chinese paraphrases are not presented as WEB translations. No modern Chinese Bible text is bundled. |
+| [Moravian Daily Watchwords](https://www.moravianchurcharchives.org/general/anniversary-of-moravian-daily-texts/) | reference_only | Historical inspiration for Old Testament watchword + selected New Testament companion. No church sequence or published devotional text is bundled; Daymix is unaffiliated. |
+| [Waite's *Pictorial Key*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot) | adapted | Project-authored 78-card short meanings; no images, extended prose, or modern commercial meanings. Original work's public-domain status may vary by jurisdiction. |
+| [《道德经》](https://zh.wikisource.org/wiki/道德經), [《心经》](https://zh.wikisource.org/wiki/般若波羅蜜多心經), [《金刚经》](https://zh.wikisource.org/wiki/金剛般若波羅蜜經), [Epictetus](https://en.wikisource.org/wiki/Enchiridion) | adapted | Concepts inform original short prompts; ancient underlying texts are not fully reproduced. Translation and edition rights are separate. |
+| [《清静经》](https://zh.wikisource.org/wiki/太上老君說常清靜經), [CBETA rights statement](https://cbeta.org/copyright), [xuanxue-engine](https://github.com/sxt9805/xuanxue-engine), [fortune-telling-skills](https://github.com/eamanc-lab/fortune-telling-skills) | reference_only | Research or architecture pointers; no restricted corpus, code, or modern commentary copied. |
+| Caller-supplied weather | runtime_lookup | Provenance and observation time are required; no feed is bundled. Conditions adjust effective actions only. |
 
-Names and links are attribution and audit aids. They do not mean the authors, publishers, translators, or institutions are affiliated with or endorse Wanxiangli. Before distributing third-party text, images, modified code, or a complete corpus in another edition or jurisdiction, review that material's license separately.
-
-## v2 additions
-
-Historical and technical item metadata are in `skills/wanxiangli/references/sources.yaml`: `xici`, `zhu_xi`, `xuan_zhen`, `dao_index`, `zhancha`, `moravian`, `ptolemy`, and `babylonian_zodiac`. Each distinguishes historical text, official/secondary description, rights status and actual use. See [RESEARCH_V2.md](RESEARCH_V2.md) for the research decisions and incomplete corpus disclosure. The ancient hexagram excerpts are distributed as public-domain underlying text with per-hexagram source links; the intermediary transcription is a collation aid, not a license to redistribute its repository's commentary or database.
+The registry also documents `xici`, `zhu_xi`, `dao_index`, `zhancha`, `ptolemy`, and `babylonian_zodiac` individually. Source citations do not mean any author, translator, publisher, religious institution, or community endorses Daymix. See [research decisions](RESEARCH_V22.md), [disclaimer](DISCLAIMER.md), and [contribution rules](CONTRIBUTING.md).

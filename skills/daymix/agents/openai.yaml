@@ -1,7 +1,7 @@
 interface:
-  display_name: 万象历
-  short_description: 以四象、三镜与现实复核生成可复现的每日历卡
-  default_prompt: 查看今日运势
+  display_name: Daymix · 今天呢
+  short_description: 今天抽到什么？四象、三镜与现实复核的一张每日历卡
+  default_prompt: 今天呢？
   icon_small: ./assets/icon.svg
   icon_large: ./assets/icon.svg
 policy:

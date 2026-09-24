@@ -1,6 +1,8 @@
+> 历史档案：本文记录 v2.1 的资料与实现；v2.2 的现状见 [RESEARCH_V22.md](RESEARCH_V22.md) 与 [CORPUS_COMPLETENESS.md](CORPUS_COMPLETENESS.md)。
+
 # 万象历 v2：机制、证据与限度
 
-检索与复核日期：2026-09-23。每个模块输出的 `source_ids` 指向 [`references/sources.yaml`](skills/wanxiangli/references/sources.yaml)。旧版调查仍见 [`RESEARCH.md`](RESEARCH.md)。下列“史实 / 学术解释 / 项目实现”分开记录；外部文本链接不意味着其机构认可本产品。
+检索与复核日期：2026-09-23。每个模块输出的 `source_ids` 指向 [`references/sources.yaml`](skills/daymix/references/sources.yaml)。旧版调查仍见 [`RESEARCH.md`](RESEARCH.md)。下列“史实 / 学术解释 / 项目实现”分开记录；外部文本链接不意味着其机构认可本产品。
 
 ## 儒家·易
 

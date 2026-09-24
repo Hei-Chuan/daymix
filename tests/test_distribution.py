@@ -19,11 +19,11 @@ class DistributionTests(unittest.TestCase):
         cls.temp = tempfile.TemporaryDirectory()
         cls.place = Path(cls.temp.name)
         files = validate()
-        build_archive(cls.place / "skill.zip", [(p, "wanxiangli/" + p.relative_to(SKILL).as_posix()) for p in files])
+        build_archive(cls.place / "skill.zip", [(p, "daymix/" + p.relative_to(SKILL).as_posix()) for p in files])
         build_archive(cls.place / "plugin.zip", [(p, p.relative_to(ROOT).as_posix()) for p in files + list(PLUGIN_FILES)])
         with zipfile.ZipFile(cls.place / "skill.zip") as z:
             z.extractall(cls.place / "standalone")
-        cls.entry = cls.place / "standalone/wanxiangli/scripts/wanxiangli.py"
+        cls.entry = cls.place / "standalone/daymix/scripts/daymix.py"
 
     @classmethod
     def tearDownClass(cls):
@@ -34,14 +34,16 @@ class DistributionTests(unittest.TestCase):
             self.assertIsNone(z.testzip())
             paths = z.namelist()
             self.assertTrue(paths)
-            self.assertTrue(all(p.startswith("wanxiangli/") for p in paths))
-            self.assertEqual(paths.count("wanxiangli/SKILL.md"), 1)
-            text = z.read("wanxiangli/SKILL.md").decode()
-            self.assertTrue(text.startswith("---\nname: wanxiangli\ndescription:"))
-            for path in ("references/sources.yaml", "scripts/wanxiangli.py", "vendor/versions.json",
+            self.assertTrue(all(p.startswith("daymix/") for p in paths))
+            self.assertEqual(paths.count("daymix/SKILL.md"), 1)
+            text = z.read("daymix/SKILL.md").decode()
+            self.assertTrue(text.startswith("---\nname: daymix\ndescription:"))
+            for path in ("references/sources.yaml", "scripts/daymix.py", "scripts/wanxiangli.py",
+                         "references/daoism/verified-signs-v2.2.json",
+                         "references/christianity/watchwords-v2.2.json", "vendor/versions.json",
                          "vendor/licenses/lunar-python-LICENSE", "vendor/licenses/astronomy-engine-LICENSE",
                          "RELIGIOUS_CONTENT_POLICY.md", "THIRD_PARTY_NOTICES.md"):
-                self.assertIn("wanxiangli/" + path, paths)
+                self.assertIn("daymix/" + path, paths)
             self.assertFalse(any("__pycache__" in p or ".git/" in p or "installation.json" in p for p in paths))
 
     def test_plugin_manifest_and_compatibility(self):
@@ -49,13 +51,13 @@ class DistributionTests(unittest.TestCase):
             self.assertIsNone(z.testzip())
             portable = json.loads(z.read("plugin.json"))
             compatibility = json.loads(z.read(".codex-plugin/plugin.json"))
-            self.assertEqual(portable["name"], "wanxiangli")
-            self.assertEqual(portable["version"], "2.0.0")
+            self.assertEqual(portable["name"], "daymix")
+            self.assertEqual(portable["version"], "2.2.0")
             self.assertEqual(compatibility["version"], portable["version"])
             self.assertEqual(compatibility["skills"], "./skills/")
-            self.assertIn("skills/wanxiangli/SKILL.md", z.namelist())
+            self.assertIn("skills/daymix/SKILL.md", z.namelist())
             self.assertNotIn("mcpServers", portable)
-            for required in ("ui/server.mjs", "ui/dist/card.html", "ui/package-lock.json", "scripts/wanxiangli.py"):
+            for required in ("ui/server.mjs", "ui/dist/card.html", "ui/package-lock.json", "scripts/daymix.py"):
                 self.assertIn(required,z.namelist())
             self.assertIn("prefers-color-scheme:dark",z.read("ui/dist/card.html").decode())
 
@@ -79,13 +81,24 @@ class DistributionTests(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stderr)
         self.assertEqual(json.loads(r.stdout)["date"]["gregorian"], "2026-09-23")
 
+    def test_legacy_skill_entry_defaults_to_v21(self):
+        command = [sys.executable, str(self.entry.with_name('wanxiangli.py')),
+                   '--date', '2026-09-23', '--timezone', 'Asia/Shanghai',
+                   '--user-id', 'demo', '--format', 'json']
+        result = subprocess.run(command, cwd=self.place,
+                                env=dict(os.environ, PYTHONIOENCODING='utf-8'),
+                                capture_output=True, text=True, encoding='utf-8')
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertEqual((json.loads(result.stdout)['schema'], json.loads(result.stdout)['cast_version']),
+                         ('wanxiangli/2', 'v2.1'))
+
     def test_vendored_packages_without_site_packages(self):
         a = self.run_skill(isolated=True)
         b = self.run_skill(isolated=True)
         self.assertEqual(a.returncode, 0, a.stderr)
         self.assertEqual(a.stdout, b.stdout)
         ledger = json.loads(a.stdout)
-        self.assertEqual(ledger["schema"], "wanxiangli/2")
+        self.assertEqual(ledger["schema"], "daymix/2")
         self.assertIn("yijing", ledger["four_signs"])
         for section in ("佛教", "塔罗"):
             expanded = self.run_skill(isolated=True, expand=section)
@@ -118,7 +131,7 @@ class DistributionTests(unittest.TestCase):
             self.assertIn(trigger, text)
         root_policy = (ROOT / "RELIGIOUS_CONTENT_POLICY.md").read_text(encoding="utf-8")
         self.assertEqual((SKILL / "RELIGIOUS_CONTENT_POLICY.md").read_text(encoding="utf-8"),
-                         root_policy.replace("skills/wanxiangli/references/sources.yaml", "references/sources.yaml"))
+                         root_policy.replace("skills/daymix/references/sources.yaml", "references/sources.yaml"))
 
 
 if __name__ == "__main__":
